@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pliny the Elder's Natural History</title>
+        <author>Pliny the Elder</author>
+        <editor>Michael Raheb</editor>
+        <editor>Jack Champagne</editor>
+        <editor>Jack Sutter</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digitally published through HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from manuscript photography of Pliny the Elder's Bamberg Manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body>
+      <div n="36" >
+        <div n="114r">
+          <p> quo intractatu subit mentem non fuisse tum auctoritatem maculoso marmori.
+            fecere et e <placeName n="urn:cite2:pliny:place:v1.pl9">thasio</placeName>
+            cycladum insularum aeque et
+        </p>
+      </div>
+      </div>
+    </body>
+  </text>
+</TEI>
