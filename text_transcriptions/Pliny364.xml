@@ -76,7 +76,11 @@
           <placeName n="urn:cite2:pliny:place:pl5">chio</placeName> narrata est: operis
           eorum <persName n="urn:cite2:pliny:person:p9">dianae</persName> facies
           in sublimi posita: cuius <choice><orig>voltum</sic><reg>vultum</corr></choice>
-          intrantes triste: abeutes exhilaratum putant. 
+          intrantes triste: abeutes exhilaratum putant. <placeName n="urn:cite2:pliny:place:pl7">romae</placeName>
+          eorum signa sunt in <placeName n="urn:cite2:pliny:place:pl8">palatina</placeName> aede
+          <persName n="urn:cite2:pliny:person:p8">apollinis</persName> in fastigio et omnibus
+          fere quae fecit divus <persName n="urn:cite2:pliny:person:p18">augustus</persName> 
+
 
 
 
