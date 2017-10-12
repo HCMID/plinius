@@ -18,6 +18,7 @@ The first manuscript we are working on is Staatsbibliothek Bamberg Msc.Class.42.
 -   Pages of the manuscript:  `urn:cite2:mid:sbb104pages.v1:`
 -   The text of Pliny, *Natural History*: `urn:cts:latinLit:stoa0978.stoa001.mid:`
 
+The citable images cataloged [here](https://github.com/HCMID/plinius/blob/master/images/sbb104.cex) can be used with the Homer Multitext project [Image Citation Tool](http://www.homermultitext.org/ict2/).
 
 Other data sets:
 
