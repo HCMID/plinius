@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pliny the Elder's Natural History</title>
+        <author>Pliny the Elder</author>
+        <editor>Michael Raheb</editor>
+        <editor>Ellen Perry</editor>
+        <editor>Melissa Gryan</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digitally published through HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from manuscript photography of Pliny the Elder's Bamberg Manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body>
+    <div n="36">
+      <div n="1">
+        <p>
+        Lapidum natura restat: hoc est praecipua morum insania:
+        etiam ut gemmae cum sucinis:
+        <choice><abbr>atq'</abbr><expan>atque</expan></choice>
+        <choice><sic>murinisque</sic><corr>murrinisque</corr></choice>
+        sileantur. omnia namque quae
+        <choice><abbr>usq'</abbr><expan>usque</expan></choice>
+        adhoc uolumen tractauimus: hominum gentia causa uideri
+        possunt. montes natura sibi fecerat: et quasdam compages
+        telluris <choice><abbr>usicerib'</abbr><expan>uisceribus</expan></choice>
+        densandis simul adfluminum impetus domandos: fluctuus refrangendos
+        <unclear>.</unclear>
+        ac minime quietas <unclear>partes</unclear> coercendas durissima sui
+        materia caedimus hos
+        <choice><abbr>trahimusq'</abbr><expan>trahimusque</expan></choice>
+        nulla alia quam deliciarum causa. quos transcendisse
+        <choice><abbr>quoq'</abbr><expan>quoque</expan></choice>
+        mirum fuit inportento prope maiores habuere
+        <placeName n="urn:cite2:pliny:place:pl1">alpiis</placeName>
+        ab <persName n="urn:cite2:pliny:person:p1">hannibale</persName>
+        exsuperatas et postea
+        <rs type="ethnic" n="urn:cite2:pliny:ethnic:et1">acimbris</rs> 
+        nunc <choice><sic>ipsae</sic><corr>ipsa</corr></choice> caeduntur
+        in mille genera maramorum promunturia aperiuntur mari et rerum natura
+        agitur in planum euehimus <choice><sic>eaquae</sic><corr>eaque</corr></choice>
+        separandis gentibus pro terminis constituta erant:
+        <choice><abbr>nauesq'</abbr><expan>nauesque</expan></choice> marmorum causa
+        fiunt ac per fluctus saeuissimam rerum naturae partem. huc illuc portantur
+        iuga maiore <choice><sic>etiannum</sic><corr>etiamnum</corr></choice>
+        uenia. quam cum ad frigidos
+        <choice><sic><w><unclear>in</unclear>potus</w></sic><corr>potus</corr></choice>
+        <choice><sic>us uas</sic><corr>uas</corr></choice>
+        petitur in nubila caeloque proximae rupes cauantur ut bibatur glacies.
+        et cum quisque cogitet et quapraetia horum audiat quas uehitrahique moles videat.
+        et quam sine iis multorum sit beatior uita: ista facere immo verius pati
+        mortales: quos ob usus quasue ad uoluptates alias nisi inter maculas lapidum
+        iaceant ceu uero non tenebris noctium dimidia parte uitae
+        <choice><abbr>cuiusq'</abbr><expan>cuiusque</expan></choice> gaudia haec
+        auferentibus:*
+
+
+        </p>
+      </div>
+    </div>
+</body>
+</text>
+</TEI>
