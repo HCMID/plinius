@@ -12,7 +12,9 @@ libraryDependencies ++= Seq(
   "edu.holycross.shot" %% "scm" % "5.1.5",
   "edu.holycross.shot" %% "ohco2" % "10.3.0",
   "edu.holycross.shot" %% "citeobj" % "5.0.0",
-  "edu.holycross.shot" %% "cex" % "6.1.0"
+  "edu.holycross.shot" %% "cex" % "6.1.0",
+
+  "edu.holycross.shot.mid" %% "latin-text-model" % "0.0.2"
 
 
 )
