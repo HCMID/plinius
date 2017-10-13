@@ -38,11 +38,11 @@
         <choice><abbr>trahimusq'</abbr><expan>trahimusque</expan></choice>
         nulla alia quam deliciarum causa. quos transcendisse
         <choice><abbr>quoq'</abbr><expan>quoque</expan></choice>
-        mirum fuit inportento prope maiores habuere
+        mirum fuit in portento prope maiores habuere
         <placeName n="urn:cite2:pliny:place:pl1">alpiis</placeName>
         ab <persName n="urn:cite2:pliny:person:p1">hannibale</persName>
         exsuperatas et postea
-        <rs type="ethnic" n="urn:cite2:pliny:ethnic:et1">acimbris</rs> 
+        a <rs type="ethnic" n="urn:cite2:pliny:ethnic:et1">cimbris</rs> 
         nunc <choice><sic>ipsae</sic><corr>ipsa</corr></choice> caeduntur
         in mille genera maramorum promunturia aperiuntur mari et rerum natura
         agitur in planum euehimus <choice><sic>eaquae</sic><corr>eaque</corr></choice>
