@@ -8,6 +8,8 @@
         <editor>Michael Raheb</editor>
         <editor>Jack Champagne</editor>
         <editor>Jack Sutter</editor>
+        <editor>Jeffrey Dickinson</editor>
+        <editor>Robbie Welsh</editor>
       </titleStmt>
       <publicationStmt>
         <p>Digitally published through HC MID</p>
@@ -23,7 +25,32 @@
         <div n="114r">
           <p> quo intractatu subit mentem non fuisse tum auctoritatem maculoso marmori.
             fecere et e <placeName n="urn:cite2:pliny:place:v1.pl9">thasio</placeName>
-            cycladum insularum aeque et
+            cycladum insularum aeque <unclear>ethelesbio</unclear>: l<choice><sic>e</sic>
+            <corr>i</corr></choice>vidius hoc paulo versi colores qui demmaculas: et intotum
+            marmorum apparatum etiam menander diligentissiums luxuriae inter pres primus et
+            raro attigit, columnis demum utebantur intemplis: <unclear>neclau</unclear> tiliae
+            causa. nondum enim ista intellegebantur: sed quia firmiores aliter statui non poterant
+            sicest inchoatum <rs type="geographic" n="urn:cite2:pliny:geographic.v1:geo5">athenis</r>
+            templum <persName n="urn:cite2:pliny:person.v1:p20">iovis</persName>
+            <placeName n="urn:cite2:pliny:place:v1:pl11">olympii</placeName> ex quo sylla capitolinis
+            <choice><abbr>aedib</abbr><expan>aedibus</expan></choice> advexerat columnas: fuit tamen
+            inter lapidem <choice><abbr>atq</abbr><expan>atque</expan></choice> marmor differentia
+            iam et apud homerum. dicit enim marmoreo faxo percussum sed hactenus regias quoque
+            domus cum lautissime praeter aes aurum electrum argentum ebore tantum ad ornans. primum
+            ut arbitror versi colores istas maculas chiorum lapicidinae ostenderunt cum exstruerent
+            muros. faceto <unclear>inid</unclear> <persName n="urn:cite2:pliny:person.v1:p7">
+            <choice><sic>m</sic><corr>M</corr></choice><choice><abbr>M</abbr><expan>Marcus</expan></choice>
+            ciceronis</persName> sale <choice><abbr>omnib</abbr><expan>omnibus</expan></choice>:
+            enim ostentabant ut magnificum multo inquit magis mirarer si
+            <rs type="geographic" n="urn:cite2:pliny:geopgraphic.v1:geo6">tiburtino</rs> lapide fecissetis:
+            ether cules: non fuisset picturis honoralius: non modo tantus aliqua marmorum auctoritate.
+            secandi in crustas nescio an ante fuerit inventum. antiquissima quod equidem inveniam
+            <placeName n="urn:cite2:pliny:person.v1:pl12">alicarnasi</placeName> domus: mausolii
+            procon<unclear>n</unclear> nescio marmore exculta est. laterice <unclear>ispari</unclear> exibus
+            <persName n="urn:cite2:pliny:person.v1:p20">iovi</persName>: id olympiadis cui <unclear>ianno</unclear>
+            secundo: urbis <placeName n="urn:cite2:pliny:person.v1:pl7">romae</placeName>: CDIII: primum
+            <placeName n="urn:cite2:pliny:person.v1:pl7">romae</placeName> parietes crusta marmoris operuisse
+            totos <choice><sic>domu</sic><corr>domus</corr></choice> <unclear>u</unclear>ssuae in caelio monte
         </p>
       </div>
       </div>
