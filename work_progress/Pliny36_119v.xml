@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Natural History</title>
+        <author>Pliny the Elder</author>
+        <editor>Jeffrey Dickinson</editor>
+        <editor>William Walker</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digitally published through HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from manuscript photography of Pliny the Elder's Bamberg Manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="36">
+        <div n="119v">
+          <p>mus factus est ante annos ut tradunt: <num n="3600">MMMDC</num> apete suchi rege sive <w>ut<unclear>h</unclear>oe</w> quamquam
+          <persName n="urn:cite2:pliny:person.v1:p29">herodotus</persName>: totum opus <num n="12">XII</num>: regum esse dicit. Novis simique <persName n="urn:cite2:pliny:person.v1:p30">psamethichi</persName>. Causas faciendi: varie inter praetantur <persName n="urn:cite2:pliny:person.v1:p31">demoteles</persName> regia moteri diffuisse lyceas sepulcrum moeridis. plures solis sacrum id exstructum quod maxime creditur. hinc utique sumpsisse <persName n="urn:cite2:pliny:person.v1:p33">daedalum</persName>: exemplar eius labyrinthi quem fecit increta non est dubium. sed <w>ce<unclear>nter</unclear>isimam</w> tantum portionem eius imitatum quae itinerum ambages occursusque acre cussus  inexplicabiles continet: non ut pauimentis puerorum
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
