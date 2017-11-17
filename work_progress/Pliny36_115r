@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pliny the Elder's Natural History</title>
+        <author>Pliny the Elder</author>
+        <editor>Jack Champagne</editor>
+        <editor>Richard Ciolek</editor>
+        <editor>Ellen Perry</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digitally published through HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from manuscript photography of Pliny the Elder's Bamberg Manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body>
+      <div n="36" >
+        <div n="115r">
+          <p> videtur fieri serra in prae tenui linea premente harenas uersandoque tractui pro secante aethiopicae: haec maxime probatur:
+          nam id quoque accessit ut ab <placeName n="urn:cite2:pliny:place.v1:pl14">aethiopia</placeName> usque peteratur quod faceret
+          marmora: immouero etiam in <placeName n="urn:cite2:pliny:place.v1:pl15">indos</placeName>: quo margaritas quoque peti severis
+          moribus in <choice><sic>digneerat</sic><corr>digneverat</corr></choice>. haec proxime laudatur. mollior tamen quae
+          aethiopica illa nulla se scabritie secat indica non aeque leuat: sed combusta ea potentes marmora fricare iubentur: simile
+          naxiae unium est et coputidi: quae uocatur <placeName n="urn:cite2:pliny:place.v1:pl22">aegyptia</placeName> haec fuere
+          antiqua genera marmoribus secandis. post ea reperta est non minus probanda ex quodam hadriatici maris uado aestu nudante
+          ob seruatione non facili: iam quidem quacumque harena secare est luuis omnibus fraus artificum aura est. quod dispendium ad
+          modum pauci intellegunt: <choice><sic>grassior</sic><corr>grossior</corr></choice> enim harena laxioribus segmentis terit:
+          et plus erodit marmoris maiusque opus scabritia politurae relinquit: ita sectae attenuantur crustae: rursus tebaica
+          polituris accommodatur: et quae sit: e poro lapide: aut e pumice: signis e marmore poliendis gemmisque etiam
+          <choice><sic>scalpendis</sic><corr>sculpendis</corr></choice> atque limandis: naxum diu placuit ante alia. ita uocantur cotes
+          in <placeName n="urn:cite2:pliny:place.v1:pl24">cypro</placeName> insula genitae. vicere post ea ex
+          <placeName n="urn:cite2:pliny:place.v1:pl25">armenia</placeName> invectae Marmorum genera et colores non attient dicere in
+          tanta notitia. nec facile est enumerare in tanta multitudine: quoto cuique enim loco non suum marmor inuenitur: et tamen
+          celeberrimi generis dicta sunt in ambitu terrarum cum gentibus suis. non omnia autem in lapidicinis gignuntur sed
+        </p>
+      </div>
+      </div>
+    </body>
+  </text>
+</TEI>
