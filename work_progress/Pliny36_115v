@@ -22,7 +22,13 @@
       <div n="36" >
         <div n="115v">
           <p> multa et sub terra <placeName n="urn:cite2:pliny:place.v1:pl26">sparta</placeName>: praetiosissimi quidem generis sicut
-          lacaedaemonium uiri de cunctisque hilarius sicut et
+          lacaedaemonium uiri de cunctisque hilarius sicut et <choice><sic>augustaeum</sic><corr>augusteum</corr></choice>: ac deinde
+          tibereum in <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName> augusti ac <choice><sic>tiberi</sic>
+          <corr>tiberii</corr></choice> primum principatu reperta. differentia eorum est ab ofiti cum sit illud serpentium maculis
+          simile unde et nomen accepit: quod haec maculas diuerso modo colligunt: <choice><sic>augustaeum</sic><corr>augusteum</corr></choice>
+          undatim crispum in vertices: tibereum sparsa non comuoluta neque ex ophite columnae nisi paruae ad modum inueniuntur. duo eius
+          genera molle candidi nigricans duri: dicuntur ambo capitis dolores sedare adalligati et serpentium ictuus. quidam phreneticis aut
+          lethargicis adalligari iubent candicantem. Contra serpentes autem a quibusdam praecipue laudatur.
         </p>
       </div>
       </div>
