@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pliny the Elder's Natural History</title>
+        <author>Pliny the Elder</author>
+        <editor>Richard Ciolek</editor>
+        <editor>Jeffrey Dickinson</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digitally published through HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from manuscript photography of Pliny the Elder's Bamberg Manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body>
+      <div n="36" >
+        <div n="120r">
+          <p>
+        </p>
+      </div>
+      </div>
+    </body>
+  </text>
+</TEI>
