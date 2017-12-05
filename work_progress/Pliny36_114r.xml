@@ -50,7 +50,7 @@
             honos alius: non modo tantus aliqua marmorum auctoritate.*
             Secandi in crustas nescio an antefuerit inventum: antiquissima quod equidem inveniam
             <placeName n="urn:cite2:pliny:place.v1:pl12">alicarnasi</placeName> domus:
-            <persName n="urn:cite2:pliny:place.v1:p36">mausolii</placeName>
+            <placeName n="urn:cite2:pliny:place.v1:p36">mausolii</placeName>
             <placeName n="urn:cite2:pliny:place.v1:pl27"><choice><sic>procon nescio</sic><corr>proconesio
             </corr></choice></placeName> marmore exculta est. latericeis parietibus
             <persName n="urn:cite2:pliny:person.v1:p20">iovi</persName>: id olympiadis cui ianno secundo:
@@ -58,7 +58,7 @@
             <num type="cardinal" value="403">CDIII</num>: primum
             <placeName n="urn:cite2:pliny:place.v1:pl7">romae</placeName> parietes crusta marmoris
             operuisse totos <choice><sic>domu</sic><corr>domus</corr></choice>
-            <choice><sic>ussuae<sic><corr>s suae</corr></choice>in caelio monte
+            <choice><sic>ussuae</sic><corr>s suae</corr></choice>in caelio monte
         </p>
       </div>
       </div>
