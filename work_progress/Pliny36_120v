@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pliny the Elder's Natural History</title>
+        <author>Pliny the Elder</author>
+                <editor>Jeffrey Dickinson</editor>
+                <editor>Jack Champagne</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digitally published through HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from manuscript photography of Pliny the Elder's Bamberg Manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body>
+      <div n="36" >
+        <div n="120v">
+          <p>inquabasi quadrata intus labyrinthum inextricabile: quo siquis intro ierit sine glomere lini exitum inuenire neque at supra id quadratum pyramides stant quinque: quattuor in agulis et in medio una: ima elatae pedum quinum septuagenum: alte ---questionable mark here--- centenum quinquagenum ita fastigatae ut in summo orbis aeneus: et petasus unus omnibus sit inpositus ex quo pendeant ex apta catenis tintinabula: quae uento agitata longe sonitus referant ut 
+
+        </p>
+      </div>
+      </div>
+    </body>
+  </text>
+</TEI>
