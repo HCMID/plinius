@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pliny the Elder's Natural History</title>
+        <author>Pliny the Elder</author>
+        <editor>Michael Raheb</editor>
+        <editor>Ellen Perry</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digitally published through HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from manuscript photography of Pliny the Elder's Bamberg Manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body>
+      <div n="36" >
+        <div n="117r">
+          <p> verebatur que ne machinae ponderi non sufficerent: quo maius periculum
+            curae artificum denuntiaret filium suum adalligavit cacumini: ut salus
+            eius apud molientes prodesset at lapidi: hac admiratione operis effectum
+            est ut cum opidum id expugnart <persName n="urn:cite2:pliny:person.v1:p49">
+            cambyses</persName> rex ventum que esset incendiis ad crepidines obelisci
+            extingui iuberet: molis reverentia qui nullam habuerat urbis. sunt alii
+            duo unus a <persName n="urn:cite2:pliny:person.v1:p50">Zmarre</persName>
+            alter a <persName n="urn:cite2:pliny:person.v1:p51">Phio</persName> sine
+            notis quadragenum octogenum cubitorum <placeName n="urn:cite2:pliny:place.v1:pl19">
+            Alexandriae</placeName> statuit unum <persName n="urn:cite2:pliny:person.v1:p52">
+            ptolemaeus philadelphus</persName> octoginta cubitorum ceciderat eum nec
+            <persName n="urn:cite2:pliny:person.v1:p53">necthebis</persName> rex purum
+            maiusque opus inde vehendo: statuendove: multum est quam in <unclear>extdendo</unclear>
+            a <persName n="urn:cite2:pliny:person.v1:p54">satyro</persName> architecto:
+            aliqui devectum tradunt rati. <persName n="urn:cite2:pliny:person.v1:p55">
+            callixenus</persName> a <placeName n="urn:cite2:pliny:place.v1:pl42">phoenice<placeName>
+            fossa perduto: usque adiacentem obiliscum <placeName n="urn:cite2:pliny:place.v1:pl31">
+            nilo<placeName>: navesque duas in latitudinem patulas pedalibus: ex eodem lapide:
+            ad rationem geminati per duplicem mensuram ponderis oneratas <choice><sic>iet</sic>
+            <corr>ita</corr></choice><choice><sic>aut</sic><corr>ut</corr></choice> subirent
+            obiliscum pendentem extremitatibus suis: in ripis utrimque postea egestis
+            laterculis allevatas navis <choice><sic>excepis</sic><corr>excipi</corr></choice>
+            onus statum autem in sex talis e monte eodem et artificem donatum talentis:
+            <num type="cardinal" value="50">L</num>:*
+
+            hic fuit in ***<persName n="urn:cite2:pliny:person.v1:p56"><choice><sic>arsinoeo</sic><corr>arsinoe</corr></choice></persName>***
+            positus a rege supradicto munus amoris in coniuge eademque
+            sorore <persName n="urn:cite2:pliny:person.v1:p56">arsinoe</persName>.
+            inde eum navalibus incommodum maximus quidam praefectus
+            <placeName n="urn:cite2:pliny:place.v1:pl22">aegypti</placeName> transtulit
+            in forum reciso cacumine dum voluit
+            fastigium addere auratum. quod postea omisit: et alii duo sunt
+            <placeName n="urn:cite2:pliny:place.v1:pl19">alexandreae</placeName> ad portum
+            in <persName n="urn:cite2:pliny:person.v1:p23">caesaris</persName> templa quos
+            excidit <persName n="urn:cite2:pliny:person.v1:p57">mesphres</persName> rex quadragenum
+
+        </p>
+      </div>
+      </div>
+    </body>
+  </text>
+</TEI>
