@@ -21,13 +21,35 @@
   <body>
       <div n="36" >
         <div n="116v">
-          <p> in <placeName n="urn:cite2:pliny:place.v1:pl41">paro</placeName>repertos: amplitudinem qua lances craterasque non ex cedant: antea ex <placeName n="urn:cite2:pliny:place.v1:pl32">
-            arabia</placeName> tantum aduehi solitos candoris eximii: magnus et duabus contrariae inter se nautruae honos corollitico in <placeName n="urn:cite2:pliny:place.v1:pl29">asia</placeName>
-            reperto mensurae non ultra bina cubita candore proxime ebori et quadam similitudine e diuerso niger est alabandicus terrae suae nomine; quamquam et <placeName n="urn:cite2:pliny:place.v1:pl39">Mileti</placeName> nascens ad purpuram tamen magis aspectu
-            declinante idem liquatur igni funditurque ad usum uitri.*
-            Theabaicus lapis inter stinctus aureis guttis in uenitur in <placeName n="urn:cite2:pliny:place.v1:pl38">africa</placeName> e parte <placeName n="urn:cite2:pliny:place.v1:p22">aegypto</placeName>
-            adscripta coticulis adterenda collyria quadam utilitate naturali conueniens. circa <placeName n="urn:cite2:pliny:place.v1:pl40">syenen</placeName>
-
+          <p> in <placeName n="urn:cite2:pliny:place.v1:pl41">paro</placeName>repertos:
+          amplitudinem qua lances craterasque non excedant: antea ex <placeName
+          n="urn:cite2:pliny:place.v1:pl32">arabia</placeName> tantum aduehi solitos
+          candoris eximii: magnus et duabus contrariae inter se naturae honos corollitico
+          in <placeName n="urn:cite2:pliny:place.v1:pl29">asia</placeName> reperto mensurae
+          non ultra bina cubita candore proxime ebori. et quadam similitudine e diuerso niger
+          est <placeName n="urn:cite2:pliny:place.v1:pl46">alabandicus</placeName>
+          terrae suae nomine: quamquam et <placeName n="urn:cite2:pliny:place.v1:pl39">
+          mileti</placeName> nascens ad purpuram tamen magis aspectu declinante idem liquatur
+          igni funditurque ad usum uitri.*
+          <placeName n="urn:cite2:pliny:place.v1:pl30">Thebaicus</placeName> lapis inter
+          stinctus aureis guttis inuenitur in <placeName n="urn:cite2:pliny:place.v1:pl38">
+          africa</placeName> e parte <placeName n="urn:cite2:pliny:place.v1:p22">aegypto
+          </placeName> adscripta coticulis adterenda collyria quadam utilitate naturali
+          conueniens. circa <placeName n="urn:cite2:pliny:place.v1:pl40">syenen</placeName>
+          vero <name>thebaidis</name> <name>syenites<name> quem antea <name>pyrrho</name>
+          <name>phoecilion</name> vocabant. trabes ex eo fecere reges quodam certamine
+          obeliscos vocantes solis <name>nummi</name> sacratos. radio <name>rumeius</name>
+          argumentum in effigie est ita significatur nomine <name>aegypuo<name>.
+          Primus omnium id instituit <name>mespheres</name> qui regnabat in solis urbe
+          somnio iussus hoc ipsum inscriptum in eo et enim <choice><sic>scalpturae</sic>
+          <corr>sculpturae</corr> illae effigiesque quas videmus <name>aegyptiae</name>
+          sunt litterae. postea et alii excidere reges. statuit eos in supradicta urbe
+          <name>sesothes</name> quattuor numero: quadragenum octonum cubitorum longitudine:
+          <name>rhamsesis</name> autem quo regnante ilium captum est. <num>cxxx</num>:
+          cubitorum idem digressis inde ubi fuit in neu vidis regia posuit alium longitudine
+          quidem <num>cxx</num> cubitorum: sed pro <unclear>diosi</unclear> sacra <choice>
+          <sic>ssitudine</sic><corr>ossitudine</corr>: undenis per laterix cubitis. opus
+          id fecisse dicuntur <num>cxx</num>: hominum: ipse rex cum surrecturus esset
         </p>
       </div>
       </div>
