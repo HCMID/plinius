@@ -23,27 +23,25 @@
       <div n="2">
         <p>
         Ingens ista reputantem subit etiam antiquitatis rubor: exstant censoriae leges
-        claudianae in cenis glires et alia dictu minora.adponi uetantes marmora invehi maria
-        huius rei causa transiri quae uitaret lex. nulla lata est dicat fortassis aliquis. non
+        <rs type ="padj" n="urn:cite2:pliny:person.v1:p61">claudianae</rs> in cenis glires et alia dictu minora. adponi uetantes marmora invehi maria
+        huius rei causa transiri quae uitaret lex. nulla lata est dicat fortassis aliquis: non
         enim inuehebantur: id quidem falso <num type = "cardinal" value= "360" > CCC.LX</num>: columnas
         <persName n="urn:cite2:pliny:person:p2"><choice><abbr>m.</abbr><expan>marcus</expan></choice>
         scaurii</persName> aedilitate ad scaenam theatri temporari. et uix mense
         uno futuri in usu uiderunt portari silentio legum: sed publicis nimirum indulgentes
-        uoluptatibus id ipsum curet ut quam magis uia inrepunt uitia quam publica: quo enim
-        alio modo in priuatos <choice><sic>usuus</sic><corr>usus</corr></choice> venere:
+        uoluptatibus id ipsum cur <unclear>et</unclear> ut quam magis uia inrepunt uitia quam publica: quo enim
+        alio modo in priuatos <choice><sic>usuus</sic><corr>usus</corr></choice> uenere:
         ebora: aurum gemmae aut omnino diis reliquimus.* Verum esto indulserint publicis
-        voluptatibus <choice><sic>etianne</sic><corr>etiamne</corr></choice> tacuerunt
-        maximas earum <choice><abbr>atq'</abbr><expan>atque</expan></choice> adeo
-        duodequadragenum pedum <rs type="geographic" n="urn:cite2:pliy:geographic:geo4"><choice>
-        <sic>lucullei</sic><corr>luculli</corr></choice></rs> marmoris in atrio
+        uoluptatibus <choice><sic>etianne</sic><corr>etiamne</corr></choice> tacuerunt
+        maximas earum atque adeo
+        duodequadragenum pedum <choice>
+        <sic>lucullei</sic><corr>luculli</corr></choice> marmoris in atrio
         <persName n="urn:cite2:pliny:person:p2">scauri</persName> conlocari nec clam id
-        <choice><abbr>occulteq'</abbr><expan>occulteque</expan></choice> factum est. satis dare
+        occulteque factum est. satis dare
         sibi damni infecti coegit re redemptor cloacarum cum in palatium
         <choice><sic>eae</sic><corr>hae</corr></choice> traherentur non ergo intam malo exemplo:
-        <choice><abbr>morib'</abbr><expan>moribus</expan></choice> caueri utilius fuerat: tacuere
+      moribus caueri utilius fuerat: tacuere
         tantas moles in priuatam domum trahi praeter fictilia deorum fastigia.*
-
-
 
 
 
