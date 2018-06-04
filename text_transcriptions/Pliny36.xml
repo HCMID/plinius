@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pliny the Elder's Natural History</title>
+        <author>Pliny the Elder</author>
+        <editor>Michael Raheb</editor>
+        <editor>Ellen Perry</editor>
+        <editor>Melissa Gryan</editor>
+        <editor>Richard Ciolek</editor>
+        <editor>William Walker</editor>
+        <editor>Jeffery Dickinson</editor>
+        <editor>Jack Champagne</editor>
+        <editor>John Sutter</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digitally published through HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from manuscript photography of Pliny the Elder's Bamberg Manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body>
+    <div n="36">
+      <div n="1">
+        <p>
+        Lapidum natura restat: hoc est praecipua morum insania:
+        etiam ut gemmae cum sucinis:crystallinis
+        <choice><sic>murinisque</sic><corr>murrinisque</corr></choice>
+        sileantur. omnia namque quae usque
+        adhoc uolumen tractauimus: hominum genita causa uideri
+        possunt. montes natura sibi fecerat: et quasdam compages
+        telluris visceribus densandis simul ad fluminum impetus domandos:
+        fluctuus refrangendos. ac minime quietas partes coercendas
+        durissima sui materia caedimus hos trahimusque
+        nulla alia quam deliciarum causa. quos transcendisse quoque
+        mirum fuit inportento prope maiores habuere
+        <placeName n="urn:cite2:pliny:place:pl1">alpiis</placeName>
+        ab <persName n="urn:cite2:pliny:person:p1">hannibale</persName>
+        exsuperatas et postea
+        <rs type="ethnic" n="urn:cite2:pliny:ethnic:et1">acimbris</rs>:
+        Nunc <choice><sic>ipsae</sic><corr>ipsa</corr></choice> caeduntur
+        in mille genera marmorum promunturia aperiuntur mari et rerum natura
+        agitur in planum euehimus ea <choice><sic>quae</sic><corr>que</corr></choice>
+        separandis gentibus pro terminis constituta erant: Navesque marmorum
+        causa fiunt ac per fluctus saeuissimam rerum naturae partem. huc
+        illuc portantur iuga maiore <choice><sic>etiannum</sic><corr>etiamnum</corr></choice>
+        uenia. quam cum ad frigidos
+        <choice><sic>utpotus</sic><corr>potus</corr></choice>
+        <choice><sic>us</sic><corr></corr></choice> vas
+        petitur in nubila caeloque proximae rupes cauantur ut bibatur glacies.
+        et cum quisque cogitet et quae praetia horum audiat quas uehi
+        trahique moles videat. et quam sine <choice><sic>iis</sic><corr>hiis</corr></choice>
+        multorum sit beatior uita: ista facere immo verius pati
+        mortales: quos ob usus quasue ad uoluptates alias Nisi inter maculas lapidum
+        iaceant ceu uero non tenebris Noctium dimidia parte uitae
+        cuiusque gaudia haec auferentibus:*
+        </p>
+      </div>
+      <div n="2">
+        <p>
+        Ingens ista reputantem subit etiam antiquitatis rubor: exstant censoriae leges
+        <rs type ="padj" n="urn:cite2:pliny:person.v1:p61">claudianae</rs> in cenis glires et alia dictu minora. adponi uetantes marmora invehi maria
+        huius rei causa transiri quae uitaret lex. nulla lata est dicat fortassis aliquis: non
+        enim inuehebantur: id quidem falso <num type = "cardinal" value= "360" > CCC.LX</num>: columnas
+        <persName n="urn:cite2:pliny:person:p2"><choice><abbr>m.</abbr><expan>marcus</expan></choice>
+        scaurii</persName> aedilitate ad scaenam theatri temporari. et uix mense
+        uno futuri in usu uiderunt portari silentio legum: sed publicis nimirum indulgentes
+        uoluptatibus id ipsum cur <unclear>et</unclear> ut quam magis uia inrepunt uitia quam publica: quo enim
+        alio modo in priuatos <choice><sic>usuus</sic><corr>usus</corr></choice> uenere:
+        ebora: aurum gemmae aut omnino diis reliquimus.* Verum esto indulserint publicis
+        uoluptatibus <choice><sic>etianne</sic><corr>etiamne</corr></choice> tacuerunt
+        maximas earum atque adeo
+        duodequadragenum pedum <choice>
+        <sic>lucullei</sic><corr>luculli</corr></choice> marmoris in atrio
+        <persName n="urn:cite2:pliny:person:p2">scauri</persName> conlocari nec clam id
+        occulteque factum est. satis dare
+        sibi damni infecti coegit re redemptor cloacarum cum in palatium
+        <choice><sic>eae</sic><corr>hae</corr></choice> traherentur non ergo intam malo exemplo:
+        moribus caueri utilius fuerat: tacuere
+        tantas moles in priuatam domum trahi praeter fictilia deorum fastigia.*
+        </p>
+      </div>
+      <div n="3">
+        <p>
+          Nec potest uideri <persName n="urn:cite2:pliny:person.v1:p2">scaurus</persName>
+          rudi et huius mali in prouidae ciuitati obrepisse quodam uitii
+          rudimento iam: <persName n="urn:cite2:pliny:person.v1:p62">L. crassum</persName>
+          oratorem illum qui primus peregrini marmoris columnas habuit
+          in eodem <placeName n="urn:cite2:pliny:place.v1:pl47">palatio</placeName>.
+          hymmetias tamen nec plures sex: aut longiores
+          duodenum pedum: <persName n="urn:cite2:pliny:person.v1:p63">M. brutus</persName>
+          in <choice><sic>iurgis</sic><corr>iurgiis</corr></choice> obid
+          <persName n="urn:cite2:pliny:person.v1:p64">venerem</persName>
+          <placeName n="urn:cite2:pliny:place.v1:pl47">palatinam</placeName>
+          appellaverat: Nimirum ista omisere moribus victis: frustraque interdicta
+          quae vetuerant cernentes nullas potius quam inritas esse leges maluerunt. haec
+          atque quae secuntur melioris esse nos probabunt. quis enim hodie:
+          tantarum columnarum atrium habet. sed priusquam de marmoribus dicamus
+          hominum in <choice><sic>iis</sic><corr>hiis</corr></choice> praeferenda
+          iudicamus praetia: ante igitur artifices per <choice><sic>censibiumus</sic><corr>censebimus</corr></choice>
+        </p>
+      </div>
+    </div>
+</body>
+</text>
+</TEI>
