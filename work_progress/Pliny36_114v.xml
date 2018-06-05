@@ -22,21 +22,21 @@
       <div n="36" >
         <div n="114v">
           <p> <persName n="urn:cite2:pliny:person.v1:p21">cornelius nepos</persName> tradit: <persName n="urn:cite2:pliny:person.v1:p22">
-          mamurra</persName> formis natum equitem <choice><sic>romnum</sic><corr>romanum</corr></choice> praefectum fabruum <persName n="urn:cite2:pliny:person.v1:p23">
+          mamurram</persName> formis natum equitem <choice><sic>romnum</sic><corr>romanum</corr></choice> praefectum fabrum <persName n="urn:cite2:pliny:person.v1:p23">
           <choice><abbr>G</abbr><expan>Gaius</expan></choice>caesaris</persName> in <placeName n="urn:cite2:pliny:place.v1:pl13">gallia</placeName> nequid indignitati desit:
           tali auctore inuenta se: hic namque est <persName n="urn:cite2:pliny:person.v1:p22">mamurra</persName> <persName n="urn:cite2:pliny:person.v1:p24">
-          catuli</persName> ueroniensis carminibus pro scissus quem ut res est domus <unclear>uir</unclear> clarius quam <persName n="urn:cite2:pliny:person.v1:p24">
+          catuli</persName> ueroniensis carminibus pro scissus quem ut res est domus uir clarius quam <persName n="urn:cite2:pliny:person.v1:p24">
           catullus</persName> dixit habere: quidquid habuisset comata <placeName n="urn:cite2:pliny:place.v1:pl13">gallia</placeName>: namque adicit
           idem nepos: primus totis aedibus nullam nisi e marmore columnam habuisse: et omnis solidas <placeName n="urn:cite2:pliny:place.v1:pl17">carystio</placeName>
-          aut luniense. <persName n="urn:cite2:pliny:person.v1:p26"><choice><abbr>M</abbr><expan>Marcus</expan></choice>lepidus</persName> <persName
+          aut luniense.* <persName n="urn:cite2:pliny:person.v1:p26"><choice><abbr>M</abbr><expan>Marcus</expan></choice>lepidus</persName> <persName
           n="urn:cite2:pliny:person.v1:p27"><choice><abbr>q</abbr><expan>Quintus</expan></choice>catuli</persName> in consulatu conlega primus omnium
           limina ex numidico marmore in domo posuit magna reprensione: is fuit <choice><abbr><choice><sic>cos</sic><corr>cons</corr></choice></abbr>
           <expan>consul</expan></choice>: anno urbis: <num type="ordinal" value="666">D:C:LXVI</num>: hoc primum inuectu numidici marmoris uestigium
-          inuenio: non in columnis tamen crustis <unclear>ue</unclear> ut supra <placeName n="urn:cite2:pliny:place.v1:pl17">carystis</placeName>
+          inuenio: non in columnis tamen crustisue ut supra <placeName n="urn:cite2:pliny:place.v1:pl17">carystis</placeName>
           et in massa ac uilissimo liminum usu. Post hunc lepidum quadriennio: <persName n="urn:cites:pliny:person.v1:p29"><choice><abbr>L</abbr><expan>Lucius
           </expan></choice>lucullus</persName> <choice><abbr><choice><sic>cos</sic><corr>cons</corr></choice></abbr><expan>consul</expan></choice> fuit:
-          qui nomen ut ex re apparet et lucullaeo marmorei dedit ad modum delectatus illo: primus qui <placeName n="urn:cite2:pliny:place.v1:pl7">romam</placeName>
-          invexit atrum. alio quicum cetera maculis aut coloribus commendentur: nascitur autem in heo insula. solumque paene hoc marmore ab amatore nomen accepit:
+          qui nomen ut ex re apparet et <rs type ="padj" n="urn:cite2:pliny:person.v1:p29">lucullaeo</rs> marmorei dedit admodum delectatus illo: primus qui <placeName n="urn:cite2:pliny:place.v1:pl7">romam</placeName>
+          inuexit atrum. alio quicum cetera maculis aut coloribus commendentur: Nascitur autem in <placeName n="urn:cite2:pliny:place.v1:pl5">heo</placeName> insula. solumque paene hoc marmore ab amatore nomen accepit:
           inter hos primum ut arbitror marmoreos parieter habuit scaena <persName n="urn:cite2:pliny:person.v1:p32">scauri</persName> non facile dixerim: secto
           an solidis glaebis polito: sic uti est hodie <persName n="urn:cite2:pliny:person.v1:p20">iovis</persName> tonantus aedis in <placeName n="urn:cite2:pliny:place.v1:pl21">
           capitolio</placeName>. nondum enim <choice><sic>septe</sic><corr>secti</corr></choice> marmoris uestigia inuenio in <placeName n="urn:cite2:pliny:place.v1:pl22">italia</placeName>
