@@ -21,36 +21,32 @@
   <body>
       <div n="36" >
         <div n="115v">
-          <p> multa et sub terra sparsa: praetiosissimi quidem generis sicut <rs type=ethnic
-          n="">lacaedaemonium</rs> uiri de cunctisque hilarius sicut et
-          <choice><sic>augustaeum</sic><corr>augusteum</corr></choice>: ac deinde tibereum in
-          <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName> augusti ac <choice><sic>
-          tiberi</sic><corr>tiberii</corr></choice> primum principatu reperta. differentia eorum est
+          <p> multa et sub terra sparsa: praetiosissimi quidem generis sicut lacaedaemonium uiride cunctisque hilarius sicut et
+          <choice><sic>augustaeum</sic><rs type="padj" n="urn:cite2:pliny:person.v1:p18"><corr>augusteum</corr></rs></choice>: ac deinde <rs type="padj" n="urn:cite2:pliny:person.v1:p74">tibereum</rs> in
+          <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName> <persName n="urn:cite2:pliny:person.v1:p18">augusti</persName>ac<choice><sic>
+          tiberi</sic><persName n="urn:cite2:pliny:person.v1:p74"><corr>tiberii</corr></persName></choice>primum principatu reperta. differentia eorum est
           ab ofiti cum sit illud serpentium maculis simile unde et nomen accepit: quod haec maculas
-          diuerso modo colligunt: <choice><sic>augustaeum</sic><corr>augusteum</corr></choice>undatim
-          crispum in vertices: tibereum sparsa non comuoluta neque ex ophite columnae nisi paruae ad
-          modum inueniuntur. duo eius genera molle candidi nigricans duri: dicuntur ambo capitis 
+          diuerso modo colligunt: <choice><sic>augustaeum</sic><rs type="padj" n="urn:cite2:pliny:person.v1:p18"><corr>augusteum</corr></rs></choice>undatim
+          crispum in uertices: <rs type="padj" n="urn:cite2:pliny:person.v1:p74">tibereum</rs> sparsa non comuoluta neque ex ophite columnae nisi paruae ad
+          modum inueniuntur. duo eius genera molle candidi nigricans duri: dicuntur ambo capitis
           dolores sedare adalligati et serpentium ictuus. quidam phreneticis aut lethargicis adalligari
-          iubent candicantem.*
-
-          Contra serpentes autem a quibusdam praecipue laudatur. ex <choice><sic>iis</sic>
+          iubent candicantem.* Contra serpentes autem a quibusdam praecipue laudatur. ex <choice><sic>iis</sic>
           <corr>hiis</corr></choice> quem tephrian appellant a colore
-          cineris vocatur. et <placeName>memphittes</placeName> a loco gemmantis naturae. huius
+          cineris vocatur. et <placeName n="urn:cite2:pliny:place.v1:pl56">memphites</placeName> a loco gemmantis naturae. huius
           usus conteri et <choice><sic>iis</sic><corr>hiis</corr></choice> quae urenda sint aut
           secunda ex aceto inter line obstupescit ita corpus: nec sentit cruciatum: Rubet
           <choice><sic>porpyrites</sic><corr>porphyrites</corr></choice>
           in eadem <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName> ex eodem
-          candidis inter venientibus punctis: leptosephos vocatur quantis libet molibus
+          candidis inter uenientibus punctis: leptosephos vocatur quantis libet molibus
           caedendis suffiiunt lapidicinae: stanias ex eo
-          <persName> claudio caesari </persName> procurator eius in urbem ex
-          <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName> advexit vitriarius
-          <persName>pollio</persName>. non admodum probata novitate: nemo certe postea imitatus
+          <persName n="urn:cite2:pliny:person.v1:p58">claudio caesari</persName> procurator eius in urbem ex
+          <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName>advexit <persName n="urn:cite2:pliny:person.v1:p76">uitriasius pollio</persName>. non admodum probata novitate: nemo certe postea imitatus
           est.*
 
           <choice><sic>IAnvenit</sic><corr>Invenit</corr></choice> eadem eadem
-          <persName>aegyptos</persName> in <placeName>aethiopia</placeName>: quem vocant
+          <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et13">aegyptos</rs> in <placeName n="urn:cite2:pliny:place.v1:pl14">aethiopia</placeName>: quem vocant
           <w>basaniten</w>: ferrei coloris atque duritiae: unde et nomen ei dedit: numquam
-          hic maior repertus est quam in templo pacis ab imperatore <persName>vespasiano
+          hic maior repertus est quam in <placeName n="urn:cite2:pliny:place.v1:pl57">templo pacis</placeName> ab imperatore <persName n="urn:cite2:pliny:person.v1:p8">vespasiano
           augusto</persName> dicatus
 
         </p>
