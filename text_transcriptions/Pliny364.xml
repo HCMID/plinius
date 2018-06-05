@@ -21,28 +21,27 @@
   <body>
       <div n="36" >
         <div n="4">
-          <p>  marmore <choice><sic>scalpendo</sic><corr>sculpendo</corr></choice>.
+          <p>marmore <choice><sic>scalpendo</sic><corr>sculpendo</corr></choice>.
           primi onmnium in claruerunt <persName n="urn:cite2:pliny:person:p3">
           <choice><sic>diepenus</sic><corr>diedenus</corr></choice></persName> et
           <persName n="urn:cite2:pliny:person:p4">scyllis</persName>: geniti
           in <placeName n="urn:cite2:pliny:place:pl3">creta</placeName> insula
           <choice><sic>etiannum</sic><corr>etiamnum</corr></choice>
-           <rs type="ethnic" n="urn:cite2:pliny:ethnic:et2"> mediis</rs> imperantibus
+           <rs type="ethnic" n="urn:cite2:pliny:ethnic:et2">mediis</rs> imperantibus
           priusque quam <persName>n="urn:cite2:pliny:person:p6">cyrus</persName> in
-          <rs type="ethnic" n="urn:cite2:pliny:ethnic:et3"> persis </rs> regnare
+          <rs type="ethnic" n="urn:cite2:pliny:ethnic:et3">persis</rs> regnare
           inciperet. hoc est olympiade circiter <choice><sic>quinquagensima</sic>
           <corr>quinquagesima</corr></choice>.*
           Hi <placeName n="urn:cite2:pliny:place:pl4">sicyonem</placeName> se
           contulere quae diu fuit officinarum omnium talium patria deorum simulacra
-          publice <w>locaver<unclear><choice><sic>at</sic><corr>ant</corr></choice>
-          </unclear></w> iis <rs type="ethnic" n="urn:cite2:pliny:ethnic:et4">sicyoni</rs>:
+          publice locaverat hiis <rs type="ethnic" n="urn:cite2:pliny:ethnic:et4">sicyoni</rs>:
           quae priusquam absoluerentur artifices iniuriam quaesti abiere
           in <rs type="ethnic" n="urn:cite2pliny:ethnic:et5">aetolos</rs>: protenus
           <placeName n="urn:cite2:pliny:place:pl4">sicyonem</placeName> fames inuasit.
           ac sterelitas maerorque dirus: re medium petentiubs:
           <persName n="urn:cite2:pliny:person:p8">apollo pythius</persName> respondit:
-          si <persName n="urn:cite2:pliny:person:p3"> dipoenus </persName> et
-          <persName n="urn:cite2:pliny:person:p4"> scyllis </persName>
+          si <persName n="urn:cite2:pliny:person:p3">dipoenus</persName> et
+          <persName n="urn:cite2:pliny:person:p4">scyllis </persName>
           deorum simulacra perfecissent: quod magnis mercedibus obsequiisque
           <choice><sic>imperatum</sic><corr>impetratum</corr></choice> est fuere autem
           simulacra ea <persName n="urn:cite2:pliny:person:p8">apollinis</persName>:
@@ -52,34 +51,35 @@
           postea tactum est.* Cum hi essent iam fuerat in
           <placeName n="urn:cite2:pliny:place:pl5">chio</placeName> insula
           <persName n="urn:cite2:pliny:person:p12">melas</persName>
-          <choice><orig>scalptor</orig><reg>sculptor</reg></choice>. dein filius
+          <choice><sic>scalptor</sic><corr>sculptor</corr></choice>. dein filius
           eius <persName n="urn:cite2:pliny:person:p13">micciades</persName>: ac deinde
           nepos <persName n="urn:cite2:pliny:person:p14">archermus</persName> cuius filii:
           <persName n="urn:cite2:pliny:person:p15">bupalus</persName> et
           <persName n="urn:cite2:pliny:person:p16">athenis</persName>: uel clarissimi
           in ea scientia fuere: <persName n="urn:cite2:pliny:person:p17">hipponactis</persName>
-          poetae aetate quem certum est:<num> type="ordinal" value="60"> LX </num>: olympiade fuisse.* Quodsi quis horum familiam ad
+          poetae aetate quem certum est:<num> type="ordinal" value="60">LX</num>: olympiade fuisse.* Quodsi quis horum familiam ad
           <choice><sic>proauosn</sic><corr>proauos</corr></choice> usque retro agat inueniat
           artis eius originem: cum olympiadum initio coepisse <persName n="urn:cite2:pliny:person:p17">hipponacti</persName> notabilis
-          <choice><sic>foditas</sic><corr>foeditas</corr></choice> <choice><sic>voltuus</sic><corr>vultuus</corr></choice>
+          <choice><sic>foditas</sic><corr>foeditas</corr></choice> <choice><sic>uoltuus</sic><corr>uultuus</corr></choice>
           erat. quam obrem imaginem euis lasciuia locorum: hi proposuere ridentium
           circulis. quod <persName n="urn:cite2:pliny:person:p17">hipponax</persName> indignatus
           destrinxit amaritudinem carminum in tantum ut credatur aliquis ad laqueum eos conpulisse quod
           falsum est conplura enim in finitimis insulis simulacra postea fecere:
           sicut in <placeName n="urn:cite2:pliny:place:pl6">delo</placeName>
-          <choice><abbr>quib'</abbr><expan>quibus</expan></choice> subiecerunt
-          carmen: non <choice><abbr>vitib'</abbr><expan>vitibus</expan></choice>
-          tantum censeri <placeName n="urn:cite2:pliny:place:pl5">chion</placeName>
+          quibus subiecerunt carmen: non vitibus tantum censeri <placeName n="urn:cite2:pliny:place:pl5">chion</placeName>
           : sed operibus <persName n="urn:cite2:pliny:person:p14">archermi</persName>
-          filiorum ostendum: et <rs type="ethnic" n="urn:cite2:pliny:ethnic:et6">Iasii</rs>
+          filiorum ostendum: et <rs type="ethnic" n="urn:cite2:pliny:ethnic:et6">lasii</rs>
           <persName n="urn:cite2:pliny:person:p9">dianam</persName> manibus eorum factam in ipsa
           <placeName n="urn:cite2:pliny:place:pl5">chio</placeName> narrata est: operis
           eorum <persName n="urn:cite2:pliny:person:p9">dianae</persName> facies
-          in sublimi posita: cuius <choice><sic>voltum</sic><corr>vultum</corr></choice>
+          in sublimi posita: cuius <choice><sic>uoltum</sic><corr>uultum</corr></choice>
           intrantes triste: abeutes exhilaratum putant. <placeName n="urn:cite2:pliny:place:pl7">romae</placeName>
-          eorum signa sunt in <placeName n="urn:cite2:pliny:place:pl8">palatina</placeName> aede
+          eorum signa sunt in <placeName n="urn:cite2:pliny:place:pl47">palatina</placeName> aede
           <persName n="urn:cite2:pliny:person:p8">apollinis</persName> in fastigio et omnibus
-          fere quae fecit divus <persName n="urn:cite2:pliny:person:p18">augustus</persName>
+          fere quae fecit divus <persName n="urn:cite2:pliny:person:p18">augustus</persName> patris quoque: eorum et delisue re opera
+          et in <placeName n="urn:cite2:pliny:place.v1:pl18">lebedo</placeName> insula <persName n="urn:cite2:pliny:person:p3">dipoeni</persName>
+          quidem <placeName n="urn:cite2:pliny:place.v1:pl48">ambracia<placeName> <placeName n= "urn:cite2:pliny:place.v1:pl10">argos</placeName>:
+          <placeName n="urn:cite2:pliny:place.v1:pl49">cleonae</placeName> operibus refertae fuere.* 
 
 
 
