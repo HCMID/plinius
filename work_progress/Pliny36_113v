@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pliny the Elder's Natural History</title>
+        <author>Pliny the Elder</author>
+        <editor>Richard Ciolek</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digitally published through HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from manuscript photography of Pliny the Elder's Bamberg Manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body>
+      <div n="36" >
+        <div n="113r">
+          <p>
+            <persName n="urn:cite2:pliny:person.v1:p20">iouem</persName> fecit eboreum in <placeName n="urn:cite2:pliny:place.v1:pl73">metelli aede</placeName>
+            qua <placeName n="urn:cite2:pliny:place.v1:pl45">campus</placeName> petitur. acciditet cum in naualibus ubi ferae <placeName n="urn:cite2:pliny:place.v1:pl38">africanae</placeName>
+            erant per caueam intuens leonem caelaret: ut ex alia cauea panthera erumperet non leui periculo: diligentissimi artificis fecisse opera complura dicitur: quae fecerit nominantim non refertur*
+            <choice><sic>Arcesilaum</sic><corr><persName n="urn:cite2:pliny:person.v1:p142">Archesilaum</persName></corr></choice> quoque magnificae <persName n="urn:cite2:pliny:person.v1:p41">uarro</persName>
+            cuius se marmoream habuisse leanam aligerosque ludentis cum ea cupidines quorum aure ligatam tenerent: alii cornu cogerent bibere alii calciarent soccis ommnes ex uno lapide. idem et a
+            <persName n="urn:cite2:pliny:person.v1:p144">coronio</persName> et <persName n="urn:cite2:pliny:person.v1:p145">chanacum</persName> cum <choice><sic>laudatim</sic><corr>laudati</corr></choice> inter
+            statuarios fecisse marmorea.* Nec <persName n="urn:cite2:pliny:person.v1:p146">sauram</persName> atque <persName n="urn:cite2:pliny:person.v1:pl47">battrachum</persName> obliterari conuenit: qui fecere templa
+            <placeName n="urn:cite2:pliny:place.v1:pl76">octauiae porticibus</placeName> <choice><sic>incluta</sic><corr>inclita</corr></choice>: natione ipsi <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et18">lacones</rs>:
+            quidam et opibus praepotentes fuisse eos putant. ac sua in pensa construxisse in scriptionem sperantes. qua negata: hoc tamen aliomodo usurpasse: sunt certe etiam <choice><sic>nnum</sic><corr>num</corr></choice>
+            in columnarum <choice><sic>spiriis</sic><corr>spiris</corr></choice> <choice><sic>inscalptae</sic><corr>insculptae</corr></choice> nominum eorum argumento lacerta: atque rana in <persName n="urn:cite2:pliny:person.v1:p20">iouis</persName> aede.
+            ex <choice><sic>iis</sic><corr>hiis</corr></choice> pictura cultusque reliquus omnis femineis argumentis constat: erat enim facta <persName n="urn:cite2:pliny:person.v1:p99">iunoni</persName>. sed cum in <choice><sic>ferentur</sic><corr>ferrentur</corr></choice>
+            signa permutasse geruli traduntur: et relegione custoditum uelut ipsis diis sedem ita paratis: ergo et in <persName n="urn:cite2:pliny:person.v1:p99">iunonis</persName> aede: cultus est qui <persName n= "urn:cite2:pliny:person.v1:p20">iouis</persName>
+            esse debuit.*
+            Sunt et in <choice><sic>paruolis</sic><corr>paruoulis</corr></choice> marmoreis flammam consecuti <persName n="urn:cite2:pliny:person.v1:p158">myrmecides</persName> cuius quadrigam cum agitatore operuit <choice><sic>aliis</sic><corr>alis</corr></choice>
+            musca et <persName n="urn:cite2:pliny:person.v1:p164">gallicrastes</persName> cuius formicarum pedes atque alia membra per uidere non est.*
+            haec sint dicta de marmoris <choice><sic>scalptoribus</sic><corr>sculptoribus</corr></choice> summaque claritate artificum
+
+
+
+        </p>
+      </div>
+    </div>
+  </body>
+</text>
+</TEI>
