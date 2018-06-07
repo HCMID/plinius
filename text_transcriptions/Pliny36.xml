@@ -5,14 +5,16 @@
       <titleStmt>
         <title>Pliny the Elder's Natural History</title>
         <author>Pliny the Elder</author>
-        <editor>Michael Raheb</editor>
         <editor>Ellen Perry</editor>
         <editor>Melissa Gryan</editor>
         <editor>Richard Ciolek</editor>
+        <editor>Michael Raheb</editor>
         <editor>William Walker</editor>
         <editor>Jeffery Dickinson</editor>
         <editor>Jack Champagne</editor>
         <editor>John Sutter</editor>
+        <editor>Robbie Welsh</editor>
+        <editor>Andrew Palaia</editor>
       </titleStmt>
       <publicationStmt>
         <p>Digitally published through HC MID</p>
@@ -104,6 +106,683 @@
           iudicamus praetia: ante igitur artifices per <choice><sic>censibiumus</sic><corr>censebimus</corr></choice>
         </p>
       </div>
+      <div n="4">
+        <p>marmore <choice><sic>scalpendo</sic><corr>sculpendo</corr></choice>.
+        primi onmnium in claruerunt <persName n="urn:cite2:pliny:person:p3">
+        <choice><sic>diepenus</sic><corr>diedenus</corr></choice></persName> et
+        <persName n="urn:cite2:pliny:person:p4">scyllis</persName>: geniti
+        in <placeName n="urn:cite2:pliny:place:pl3">creta</placeName> insula
+        <choice><sic>etiannum</sic><corr>etiamnum</corr></choice>
+         <rs type="ethnic" n="urn:cite2:pliny:ethnic:et2">mediis</rs> imperantibus
+        priusque quam <persName n="urn:cite2:pliny:person:p6">cyrus</persName> in
+        <rs type="ethnic" n="urn:cite2:pliny:ethnic:et3">persis</rs> regnare
+        inciperet. hoc est olympiade circiter <choice><sic>quinquagensima</sic>
+        <corr>quinquagesima</corr></choice>.*
+        Hi <placeName n="urn:cite2:pliny:place:pl4">sicyonem</placeName> se
+        contulere quae diu fuit officinarum omnium talium patria deorum simulacra
+        publice locauerat hiis <rs type="ethnic" n="urn:cite2:pliny:ethnic:et4">sicyoni</rs>:
+        quae priusquam absoluerentur artifices iniuriam quaesti abiere
+        in <rs type="ethnic" n="urn:cite2pliny:ethnic:et5">aetolos</rs>: protenus
+        <placeName n="urn:cite2:pliny:place:pl4">sicyonem</placeName> fames inuasit.
+        ac sterelitas maerorque dirus: re medium petentiubs:
+        <persName n="urn:cite2:pliny:person:p8">apollo pythius</persName> respondit:
+        si <persName n="urn:cite2:pliny:person:p3">dipoenus</persName> et
+        <persName n="urn:cite2:pliny:person:p4">scyllis </persName>
+        deorum simulacra perfecissent: quod magnis mercedibus obsequiisque
+        <choice><sic>imperatum</sic><corr>impetratum</corr></choice> est fuere autem
+        simulacra ea <persName n="urn:cite2:pliny:person:p8">apollinis</persName>:
+        <persName n="urn:cite2:pliny:person:p9">dianae</persName>:
+        <persName n="urn:cite2:pliny:person:p10">herculis</persName>
+        <persName n="urn:cite2:pliny:person:p11">minervae</persName>: quo de caelo
+        postea tactum est.* Cum hi essent iam fuerat in
+        <placeName n="urn:cite2:pliny:place:pl5">chio</placeName> insula
+        <persName n="urn:cite2:pliny:person:p12">melas</persName>
+        <choice><sic>scalptor</sic><corr>sculptor</corr></choice>. dein filius
+        eius <persName n="urn:cite2:pliny:person:p13">micciades</persName>: ac deinde
+        nepos <persName n="urn:cite2:pliny:person:p14">archermus</persName> cuius filii:
+        <persName n="urn:cite2:pliny:person:p15">bupalus</persName> et
+        <persName n="urn:cite2:pliny:person:p16">athenis</persName>: uel clarissimi
+        in ea scientia fuere: <persName n="urn:cite2:pliny:person:p17">hipponactis</persName>
+        poetae aetate quem certum est:<num type="ordinal" value="60">LX</num>: olympiade fuisse.* Quodsi quis horum familiam ad
+        <choice><sic>proauosn</sic><corr>proauos</corr></choice> usque retro agat inueniat
+        artis eius originem: cum olympiadum initio coepisse <persName n="urn:cite2:pliny:person:p17">hipponacti</persName> notabilis
+        <choice><sic>foditas</sic><corr>foeditas</corr></choice> <choice><sic>uoltuus</sic><corr>uultuus</corr></choice>
+        erat. quam obrem imaginem euis lasciuia locorum: hi proposuere ridentium
+        circulis. quod <persName n="urn:cite2:pliny:person:p17">hipponax</persName> indignatus
+        destrinxit amaritudinem carminum in tantum ut credatur aliquis ad laqueum eos conpulisse quod
+        falsum est conplura enim in finitimis insulis simulacra postea fecere:
+        sicut in <placeName n="urn:cite2:pliny:place:pl6">delo</placeName>
+        quibus subiecerunt carmen: non uitibus tantum censeri <placeName n="urn:cite2:pliny:place:pl5">chion</placeName>:
+        sed operibus <persName n="urn:cite2:pliny:person:p14">archermi</persName>
+        filiorum ostendum: et <rs type="ethnic" n="urn:cite2:pliny:ethnic:et6">lasii</rs>
+        <persName n="urn:cite2:pliny:person:p9">dianam</persName> manibus eorum factam in ipsa
+        <placeName n="urn:cite2:pliny:place:pl5">chio</placeName> narrata est: operis
+        eorum <persName n="urn:cite2:pliny:person:p9">dianae</persName> facies
+        in sublimi posita: cuius <choice><sic>uoltum</sic><corr>uultum</corr></choice>
+        intrantes triste: abeutes exhilaratum putant. <placeName n="urn:cite2:pliny:place:pl7">romae</placeName>
+        eorum signa sunt in <placeName n="urn:cite2:pliny:place:pl47">palatina</placeName> aede
+        <persName n="urn:cite2:pliny:person:p8">apollinis</persName> in fastigio et omnibus
+        fere quae fecit diuus <persName n="urn:cite2:pliny:person:p18">augustus</persName> patris quoque: eorum et delisue re opera
+        et in <placeName n="urn:cite2:pliny:place.v1:pl18">lebedo</placeName> insula <persName n="urn:cite2:pliny:person:p3">dipoeni</persName>
+        quidem <placeName n="urn:cite2:pliny:place.v1:pl48">ambracia</placeName> <placeName n= "urn:cite2:pliny:place.v1:pl10">argos</placeName>:
+        <placeName n="urn:cite2:pliny:place.v1:pl49">cleonae</placeName> operibus refertae fuere.*
+        Omnes autem candido tantum marmore usi sunt et paro insula quem lapidem coepere lichniten
+        appellare quoniam ad lucernas in cuniculis <choice><sic>caederetur</sic><corr>cederetur</corr></choice> ut auctor
+        est <persName n="urn:cite2:pliny:person.v1:p41">uarro</persName>: multis postea candidioribus
+        repertis: nuper uero etiam in <placeName n="urn:cite2:pliny:place.v1:pl50">lunensium</placeName>
+        lapidicinis. sed in <rs type="ethnic" n="-------">phartorum</rs> mirabile proditur glaeba lapidis
+        unius cuneis diuidentium soluta imaginem <persName n="urn:cite2:pliny:person.v1:p65">sileni</persName>
+        intus extitisse. non imittendum hanc artem tanto uetustiorem fuisse quam picturam: aut statuarum
+        quarum utraque cum <persName n="urn:cite2:pliny:person.v1:p66">phidia</persName> coepit:
+        <choice><sic>octogensima</sic><corr>octogesima</corr></choice> tertia olympiade post annos circiter
+        <num type="cardinal" value="330">cccxxx</num> iis.*
+        Et ipsum <persName n="urn:cite2:pliny:person.v1:p66">phidian</persName> tradunt <choice><sic>scalpsisse</sic>
+        <corr>sculpsisse</corr></choice> marmora: <persName n="urn:cite2:pliny:person.v1:p64">ueneremque</persName>
+        <placeName n="urn.cite2:pliny:place.v1:pl7">romae</placeName>:
+        in <persName n="urn:cite2:pliny:person.v1:p67">octauiae</persName> operibus: eximiae pulchritudinis:
+        <persName n="urn:cite2:pliny:person.v1:p68">alchamen</persName>
+        <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et8">atheniensem</rs> quod certum est docuit in primis
+        nobilem. cuius sunt opera <placeName n="urn:cite2:pliny:place.v1:pl2">athenis</placeName> complura:
+        in aedibus sacris praeclarumque <persName n="urn:cite2:pliny:person.v1:p64">ueneris</persName>
+        extra muros: quae appellatur <persName n="urn:cite2:pliny:person.v1:p69">aphrodite</persName>
+        en cepoes. huic summam manum ipse <persName n="urn:cite2:pliny:person.v1:p66">phidias</persName>
+        inposuisse dicitur.*
+        Eiusdem discipulus fuit <persName n="urn:cite2:pliny:person.v1:p70">agoracritus</persName>
+        <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et9">parius</rs> et aetate gratus. itaque e suis
+        operibus pleraque nomini eius donasse: fertur: certauere autem inter se ambo discipuli
+        <persName n="urn:cite2:pliny:person.v1:p66">uenere</persName> facienda: uicitque
+        <persName n="urn:cite2:pliny:person.v1:p68">alchamenes</persName>: non opere sed ciuitatis
+        suffragiis contra peregrinum suo pauentis: qua re <persName n="urn:cite2:pliny:person.v1:p70">agoracritus</persName>
+        ea lege signum suum uendidisse traditur: Ne <placeName n="urn:cite2:pliny:place.v1:pl2">athenis</placeName>
+        esset et appellas se <persName n="urn:cite2:pliny:person.v1:p71">nemesin</persName> id positum est.
+        <placeName n="urn:cite2:pliny:place.v1:pl52">rhamnumte</placeName> pago
+        <placeName n="urn:cite2:pliny:place.v1:pl53">atticae</placeName>: quod
+        <persName n="urn:cite2:pliny:person.v1:p41">uarro</persName> omnibus signis praetulit: est et in matris
+        magnae delubro: eadem ciuitate <persName n="urn:cite2:pliny:person.v1:p70">agoracriti</persName> opus:
+        <persName n="urn:cite2:pliny:person.v1:p66">phidian</persName> clarissimum esse per omnes gentes: quae
+        <persName n="urn:cite2:pliny:person.v1:p20">iouis</persName><placeName n="urn:cite2:pliny:place.v1:pl11">olympii</placeName>
+        famam intellegunt nemo dubitat ; sed ut laudari merito sciant etiam qui opera eius non uiedere:
+        pro feremus argumenta parua: et ingeni tantum neque ad hoc
+        <persName n="urn:cite2:pliny:person.v1:p20">iouis</persName><placeName n="urn:cite2:pliny:place.v1:pl11">olympii</placeName>
+        pulcritudine utemur non <persName n="urn:cite2:pliny:person.v1:p11">mineruae</persName>
+        <placeName n="urn:cite2:pliny:place.v1:pl2">athenis</placeName> factae amplitudine cum sit ea cubitorum
+        <num type="cardinal" value="26">xxvi</num>: ebore haec et auro constat. sed in scuto eius
+        <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et10">amazonum</rs> proelium caelauit: in tumescente
+        ambitum paruae eiusdem concaua parte deorum et gigantum dimicationes. in soliis uero
+        <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et11">laphitarum</rs> et centaurorum: adeo
+        momenta omnia capacia artis illi fuere in uasi autem quod caelatum est
+        <persName n="urn:cite2:pliny:person.v1:p72">pandoras</persName> genesin appelant dii sunt
+        nascentes <num type="cardinal" value="20">xx</num> numero <persName n="urn:cite2:pliny:person.v1:p73">uictoria</persName>
+        praecipue mirabili: periti mirantur et serpentem ac sub ipsa cuspide aeream sphingem. haec sint
+        obiter dicta de artifice. Numquam satis laudato: simul ut noscatur illam magnificentiam aequalem fuisse
+        et in paruis:*
+        <persName n="urn:cite2:pliny:person.v1:p73">Praxitelis</persName> aetatem inter statuarios diximus qui marmoris
+        gloria superauit etiam semet. <choice><sic>et</sic><corr/></choice> opera eius sunt
+        <placeName n="urn:cite2:pliny:place.v1:pl2">athenis</placeName> in <placeName n="urn:cite2:pliny:place.v1:pl54">cheramico</placeName>
+        :sed ante omnia est non solum <persName n="urn:cite2:pliny:person.v1:p73">praxitele</persName>: uerum in toto orbe
+        terrarum <persName n="urn:cite2:pliny:person.v1:p66">uenus</persName>: quam ut uiderent multi
+        nauigauerunt <placeName n="urn:cite2:pliny:place.v1:pl55">cnidum</placeName>: duas fecerat simulque
+        uendebat: alteram uelata specie: quam ob id praetulerunt: quorum condicio era
+        <placeName n="urn:cite2:pliny:place.v1:pl56">coi</placeName> tum eodem praetio detulisset. seuerum id ac pudicum arbitrantes:
+        reiectam <unclear><choice><sic>nidi</sic><corr><placeName n="urn:cite2:pliny:place.v1:pl55">cnidi</placeName></corr></choice></unclear>
+        emerunt. in mensa differentia <unclear>famae</unclear>. uoluit eam a
+        <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et12">cnidiis</rs> postea mercari rex
+        <persName n="urn:cite2:pliny:person.v1:p75">Nicomedes</persName>: totum aes alienum: quod erat ingens
+        ciuitatis dissoluturum se promittens. omnia perpeti maluere nec inmerito. illo enim signo
+        <persName n="urn:cite2:pliny:person.v1:p73"><choice><sic>phaxitelis</sic><corr>praxitelis</corr></choice></persName>
+        <choice><sic>nibilitauit</sic><corr>nobilitavit</corr></choice> <placeName n="urn:cite2:pliny:place.v1:pl55">nidum</placeName>*
+        Aedicula eius tota aperitur ut conspici possit undique effigies: dea fauente ipsa ut creditur facta: nec minor ex
+        quacumque parte admiratio est. ferunt amore captum quendam cum delituisset noctu simulacro cohesisse:
+        eiusque cupiditatis esse indicem maculam in <placeName n="urn:cite2:pliny:place.v1:pl55">cnido</placeName>.
+        et alia signa marmorea in lustrium artificum <persName n="urn:cite2:pliny:person.v1:p77">liber</persName> pater
+        <persName n="urn:cite2:pliny:person.v1:p78">bruaxidis</persName>: et aliter <persName n="urn:cite2:pliny:person.v1:p79">scopae</persName>
+        et <persName n="urn:cite2:pliny:person.v1:p11">minerva</persName>: Nec maius aliud
+        <persName n="urn:cite2:pliny:person.v1:p64">veneris</persName> <persName n="urn:cite2:pliny:person.v1:p73">praxiteliae</persName>
+        specimen. quam quod inter haec sola re moratur. eiusdem est et <persName n="urn:cite2:pliny:person.v1:p82">cupido</persName>: obiectus a
+        <persName n="urn:cite2:pliny:person.v1:p7">cicerone</persName> <persName n="urn:cite2:pliny:person.v1:p80">uerri</persName>:
+        ille propter quem <placeName n="urn:cite2:pliny:place.v1:pl58">thespiae</placeName> uisebantur nunc
+        in <persName n="urn:cite2:pliny:person.v1:p67">octauiae</persName> scholis positus: eiusdem et alter nudus in
+        <placeName n="urn:cite2:pliny:place.v1:pl59">pario</placeName> colonia <placeName n="urn:cite2:pliny:place.v1:pl59">propontidis</placeName>
+        par <persName n="urn:cite2:pliny:person.v1:p64">ueneri</persName> <persName n="urn:cite2:pliny:place.v1:pl55">cnidae</persName>
+        nobilitate et iniuria. ad amauit enim <persName n="urn:cite2:pliny:person.v1:p83">alcetas</persName>
+        <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et14">rhodius</rs> atque in eo quoque simile amoris uestigium reliquid:
+        <placeName n="urn:cite2:pliny:place.v1:pl7">romae</placeName> <persName n="urn:cite2:pliny:person.v1:p73">praxitelis</persName>
+        opera sunt <persName n="urn:cite2:pliny:person.v1:p84">flora</persName>: <persName n="urn:cite2:pliny:person.v1:p85">treptolemus</persName>
+        <persName n="urn:cite2:pliny:person.v1:p86">ceres</persName> in hortis
+        <persName n="urn:cite2:pliny:person.v1:p87">seruilianis</persName>
+        <persName n="urn:cite2:pliny:person.v1:p88"><w>boni</w><w><choice><sic>euentuus</sic><corr>euentus</corr></choice></w></persName>
+        et <persName n="urn:cite2:pliny:person.v1:p89"><w>bonae</w><w>fortunae</w></persName> simulacra in
+        <placeName n="urn:cite2:pliny:place.v1:pl21">capitolio</placeName>: item
+        <persName n="urn:cite2:pliny:person.v1:p90">maenades</persName> et quas <persName n="urn:cite2:pliny:person.v1:p91">thyiadas</persName>
+        vocant et <persName n="urn:cite2:pliny:person.v1:p92">cariatydas</persName>: <persName n="urn:cite2:pliny:person.v1:p93">sileni</persName>
+        in <persName n="urn:cite2:pliny:person.v1:p94"><w>pollionis</w><w>asini</w></persName>: monimentis et
+        <persName n="urn:cite2:pliny:person.v1:p8">apollo</persName>. et
+        <persName n="urn:cite2:pliny:person.v1:p96"><choice><sic>necptunus</sic><corr>neptunus</corr></choice></persName>:*
+        <persName n="urn:cite2:pliny:person.v1:p73">Praxitelis</persName> filius. <persName n="urn:cite2:pliny:person.v1:p97">cephisidotus</persName>
+        et artis heres fuit cius laudatum est <placeName n="urn:cite2:pliny:place.v1:pl61">pergami</placeName>
+        <choice><sic>symplegam</sic><corr>symplega</corr></choice> nobile: digitis corpori uerius quam marmori inpressis:
+        <placeName n="urn:cite2:pliny:place.v1:pl7">romae</placeName> eius opera sunt: <persName n="urn:cite2:pliny:person.v1:p98">latona</persName>
+        in <persName n="urn:cite2:pliny:person.v1:p8"><choice><sic>palati</sic><corr>palatii</corr></choice></persName> delubro:
+        <persName n="urn:cite2:pliny:person.v1:p64">uenus</persName> in <persName n="urn:cite2:pliny:person.v1:p94"><w>pollionis</w><w>asini</w></persName>
+        monumentiset intra <persName n="urn:cite2:pliny:person.v1:p67">octauiae</persName> porticus in
+        <persName n="urn:cite2:pliny:person.v1:p99">iunonis</persName> aede
+        <persName n="urn:cite2:pliny:person.v1:p100">aesculapius</persName> ac <persName n="urn:cite2:pliny:person.v1:p9">diana</persName>:*
+        <persName n="urn:cite2:pliny:person.v1:p79">Scopae</persName> laus cum his certatus fecit
+        <persName n="urn:cite2:pliny:person.v1:p64">uenerem</persName> et <persName n="urn:cite2:pliny:person.v1:101">pothon</persName>:
+        qui <placeName n="urn:cite2:pliny:place.v1:pl63">samotrace</placeName> sanctissimis
+        <choice><sic>caerimonis</sic><corr>caerimoniis</corr></choice> coluntur: item
+        <persName n="urn:cite2:pliny:person.v1:p8"><w>apollinem</w><w>palatinum</w></persName>
+        <persName n="urn:cite2:pliny:person.v1:p104">uestam</persName> sedentem laudatam in
+        <placeName n="urn:cite2:pliny:place.v1:pl62"><w>seruilianus</w><w>hortis</w></placeName> duosque campteras circa eam: quorum
+        pares inanii monimentis sunt ubi et canephoros eiusdem. sed in maxima dignatione
+        <choice><sic>delibro</sic><corr>delubro</corr></choice>:
+        :<persName n="urn:cite2:pliny:person.v1:p108"><w><abbr>GN</abbr><expan>Gnaeus</expan></w>:<w>domitii</w></persName>:
+        in <placeName n="urn:cite2:pliny:place.v1:pl64"><w>circo</w><w>flaminio</w></placeName>
+        <persName n="urn:cite2:pliny:person.v1:p96">neptunus</persName> ipse et <persName n="urn:cite2:pliny:person.v1:p109">thetis</persName>:
+        atque: <persName n="urn:cite2:pliny:person.v1:p110">achilles</persName> <persName n="urn:cite2:pliny:person.v1:p111">nereides</persName>
+        supra delphinos: et cete aut hippocampos sedentes. item <persName n="urn:cite2:pliny:person.v1:p113">tritones</persName> chorusque
+        <persName n="urn:cite2:pliny:person.v1:p114">phorci</persName>: et pistrices: ac multa alia marina omnia eiusdem manu
+        praeclarum opus etiam si totius uitae fuisset:*
+        Nunc uero: praeter supradicta quaeque nescimus: <persName n="urn:cite2:pliny:person.v1:p115">mars</persName> et
+        <choice><sic>ian</sic><corr>iam</corr></choice> num est sedens <choice><sic>colossiaeus</sic><corr>colosseus</corr></choice>
+        eiusdem manci in templo <persName n="urn:cite2:pliny:person.v1:p119"><w>bruti</w><w>callaeci</w></persName>: apud circum
+        eundem. praeter ea <persName n="urn:cite2:pliny:person.v1:p64">uenus</persName> in eodem loco nuda:
+        <rs type="padj" n="urn:cite2:pliny:person.v1:p73">praxiteliam</rs> illam ante cedens: et quemcumque alium locum nobilitatura:
+        <placeName n="urn:cite2:pliny:place.v1:pl7">romae</placeName> quidem multitudo operum: etiam oblite ratio ac
+        <choice><sic>magi</sic><corr>magis</corr></choice> officiorum negotiorumque acerui omnis a contemplatione tamen abducunt
+        quoniam otiosorum et in magno loci silentio talis admiratio est. qua de causa ignoratur artifex eius quoque
+        <persName n="urn:cite2:pliny:person.v1:p64">ueneris</persName> quam <persName n="urn:cite2:pliny:person.v1:p81">uespasianus</persName>
+        imperator in operibus <placeName n="urn:cite2:pliny:place.v1:pl57">pacis</placeName> suae dicauit:
+        antiquorum dignam fama:*
+        Par haesitatio est in <placeName n="urn:cite2:pliny:place.v1:pl66"><w>templo</w><w>apollinis</w><w>sosiani</w></placeName>
+        <persName n="urn:cite2:pliny:person.v1:p120">niobae</persName> liberos morientes
+        <persName n="urn:cite2:pliny:person.v1:p79">scopas</persName> aN <persName n="urn:cite2:pliny:person.v1:p73">praxiteles</persName>
+        fecerit. item <persName n="urn:cite2:pliny:person.v1:p121"><w>ianus</w><w>pater</w></persName> in suo templo dicatus ab
+        <persName n="urn:cite2:pliny:person.v1:p18">augusto</persName>: ex <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName>
+        advectus utrius manus sit: iam quidem et auro occultatus: similiter in curia <persName n="urn:cite2:pliny:person.v1:p67">octauiae</persName>
+        quaeritur: de <persName n="urn:cite2:pliny:person.v1:p82">cupidine</persName> fulmen tenente: id demum adfirmatur
+        <persName n="urn:cite2:pliny:person.v1:p129">alcibiaden</persName> esse principem: forma in ea aetate multa. in
+        <choice><sic>edem</sic><corr>eadem</corr></choice> schola sine auctoribus placent saturi quattuor ex quibus unus
+        <persName n="urn:cite2:pliny:person.v1:p77"><w>liberum</w><w>patrem</w></persName> pala uelatum umeri praefert alter
+        <persName n="urn:cite2:pliny:person.v1:p130">liberam</persName> similiter. tertius ploratum infantis cohibet:
+        quartus cratere alterius sitim sedat: duaeque aurae uelificantes sua ueste. nec minor quaestio est in seaeptis
+        <placeName n="urn:cite2:pliny:place.v1:pl11">olympum</placeName>: et <persName n="urn:cite2:pliny:person.v1:p132">pana</persName>
+        <persName n="urn:cite2:pliny:person.v1:p133">chironem</persName> cum <persName n="urn:cite2:pliny:person.v1:p110">achille</persName>
+        qui fecerint: praesertim cum capitali satis datione fama iudicet dignos:*
+        <persName n="urn:cite2:pliny:person.v1:p79">Scopas</persName> habuit aemulos eadem aetate
+        <persName n="urn:cite2:pliny:person.v1:p78">bryaxim</persName> et <persName n="urn:cite2:pliny:person.v1:p135">timotheum</persName>
+        et <persName n="urn:cite2:pliny:person.v1:p136">leocharen</persName>: de quibus simul dicendum est quoniam pariter
+        caelauere <placeName n="urn:cite2:pliny:place.v1:pl68"><choice><sic>musoleum</sic><corr>mausoleum</corr></choice></placeName>
+        sepulcrum hoc est ab uxore <persName n="urn:cite2:pliny:person.v1:p137">artemisia</persName> factum
+        <persName n="urn:cite2:pliny:person.v1:p36">mausolo</persName> <placeName n="urn:cite2:pliny:place.v1:p70">cariae</placeName>
+        regulo: quo obiit: olympidis: <num type="ordinal" value="107">cvii</num>: anno secundo: opus id ut esset inter septem miracula:
+        hi maxime fecere artifices. patet ab austro: et septentriones sexagenos ternos pedes: breuius a frontibus: toto
+        <choice><sic>circumitu</sic><corr>circuitu</corr></choice> pedes: <num type="cardinal" value="440">cccxxx</num>: attolitur in altitudinem
+        <num type="cardinal" value="25">xxv</num>: cubitis cingitur columnis <num type="cardinal" value="36">xxxvi</num>: pteron uocauere.
+        <choice><sic>circumitum</sic><corr>circuitum</corr></choice> ab oriente caelauit
+        <persName n="urn:cite2:pliny:person.v1:p79">scopas</persName>. a septentrione <persName n="urn:cite2:pliny:person.v1:p78">bryaxis</persName>:
+        a meridie <persName n="urn:cite2:pliny:person.v1:p135">timotheus</persName> ab occasu
+        <persName n="urn:cite2:pliny:person.v1:p136">leochares</persName> priusque quam peragerent regina obit
+        non tamen recesserunt Nisi ab soluto iam id gloriae ipsorum artisque monimentum idicantes hodieque certant manus:*
+        Accessit et quintus artifex. namque supra pteron pyramis altitudine inferiorem aequat uiginti quattuor gradibus in metae cacumen se
+        contrahens. in summo est quadriga marmorea: quam fecit <persName n="urn:cite2:pliny:person.v1:p140">pythis</persName> haec adiecta
+        <num type="cardinal" value="140">cxxxx</num> pedum altitudine totum opus includit:
+        <persName n="urn:cite2:pliny:person.v1:p135">timothei</persName> manu
+        <persName n="urn:cite2:pliny:person.v1:p9"><choice><sic>deiana</sic><corr>diana</corr></choice></persName>
+        <placeName n="urn:cite2:pliny:place.v1:pl7">romae</placeName> est in
+        <placeName n="urn:cite2:pliny:person.v1:p10"><w>palatio</w><w>apollinis</w><w>delubro</w></placeName> cui signo caput reposuit
+        <persName n="urn:cite2:pliny:person.v1:p141"><w>auianus</w><w>euander</w></persName>: in magna admiratione est
+        <persName n="urn:cite2:pliny:person.v1:p10">hercules</persName> <persName n="urn:cite2:pliny:person.v1:p143">menestrati</persName>:
+        et haec ate <placeName n="urn:cite2:pliny:place.v1:pl75"><w>ephesii</w><w>in</w><w>templo</w><w>dianae</w></placeName>
+        post aedem: in cuius contemplatione admonent aeditui parcere oculis: tanta marmoris radiatio est: Non post feruntur et
+        <persName n="urn:cite2:pliny:person.v1:p148">charites</persName> in <placeName n="urn:cite2:pliny:place.v1:pl77">propylo</placeName>
+        <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et8">atheniensium</rs> quas
+        <persName n="urn:cite2:pliny:person.v1:p149">socrates</persName> fecit alius ille quam pictor: idem ut aliqui putant:
+        name <persName n="urn:cite2:pliny:person.v1:p150">myronis</persName> illius qui in aere laudatur anus ebria est
+        <placeName n="urn:cite2:pliny:place.v1:pl78">zmyrnae</placeName>: in primis inclita:
+        <persName n="urn:cite2:pliny:person.v1:p94"><w>pollio</w><w>asinius</w></persName> ut fuit acris uehementiae:
+        sic quoque spectari monumenta sua uoluit. in <choice><sic>iis</sic><corr>hiis</corr></choice> centauri nymphas gerentes
+        <persName n="urn:cite2:pliny:person.v1:p151"><w><choice><sic>arcae</sic><corr>archae</corr></choice>silae</w></persName>
+        <persName n="urn:cite2:pliny:person.v1:p152">despiades</persName>. <persName n="urn:cite2:pliny:person.v1:p153">cliomenis</persName>:
+        <persName n="urn:cite2:pliny:person.v1:p154">oceanus</persName>: et <persName n="urn:cite2:pliny:person.v1:p20">iuppiter</persName>
+        <persName n="urn:cite2:pliny:person.v1:p155">eniochi</persName> <persName n="urn:cite2:pliny:person.v1:p156">appiades</persName>.
+        <persName n="urn:cite2:pliny:person.v1:p157">stephani</persName> hermerotes <persName n="urn:cite2:pliny:person.v1:159">taurisci</persName>
+        non caelatoris illis sed <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et16"><choice><sic>traliani</sic><corr>traiani</corr></choice></rs>
+        <persName n="urn:cite2:pliny:person.v1:p20">iuppiter</persName> hospitalis <persName n="urn:cite2:pliny:person.v1:p163">papyli</persName>.
+        <persName n="urn:cite2:pliny:person.v1:p73">fraxitelis</persName> discipuli <persName n="urn:cite2:pliny:person.v1:p161">zethus</persName>
+        et <persName n="urn:cite2:pliny:person.v1:p162">ampion</persName> ac <persName n="urn:cite2:pliny:person.v1:p165">diree</persName>
+        et taurus uinculumque ex eodem lapide arhodo aduecta opera <persName n="urn:cite2:pliny:person.v1:p166">apolloni</persName>
+        <persName n="urn:cite2:pliny:person.v1:159">taurisci</persName> parentum. hi certamen de se fecere
+        <persName n="urn:cite2:pliny:person.v1:p168">menecraten</persName> uidere professi. sed esse naturalem
+        <persName n="urn:cite2:pliny:person.v1:p167">artemidorum</persName>. eodem loco <persName n="urn:cite2:pliny:person.v1:p77">liber pater</persName>
+        <persName n="urn:cite2:pliny:person.v1:p169">eutychidis</persName> laudatur.*
+        Ad <persName n="urn:cite2:pliny:person.v1:p67">octauiae</persName> uero <placeName n="urn:cite2:pliny:place.v1:pl76">porticum</placeName>
+        <persName n="urn:cite2:pliny:person.v1:p8">apollo</persName> <persName n="urn:cite2:pliny:person.v1:p170">philisci</persName>
+        <placeName n="urn:cite2:pliny:place.v1:pl65">rhodi</placeName> in delubro suo: item
+        <persName n="urn:cite2:pliny:person.v1:p98">latona</persName> et <persName n="urn:cite2:pliny:person.v1:p9">diana</persName>
+        et <persName n="urn:cite2:pliny:person.v1:p152">musae</persName> nouem et alter
+        <persName n="urn:cite2:pliny:person.v1:p8">apollo</persName> nudus: eum qui cytharam in eodem templo tenet
+        <persName n="urn:cite2:pliny:person.v1:p171">timarchides</persName> fecit: intra
+        <persName n="urn:cite2:pliny:person.v1:p67">octaviae</persName> uero <placeName n="urn:cite2:pliny:place.v1:pl76">porticum</placeName>
+        aedem <persName n="urn:cite2:pliny:person.v1:p99">iunonis</persName> ipsam deam
+        <persName n="urn:cite2:pliny:person.v1:p172">dyonisius</persName> et <persName n="urn:cite2:pliny:person.v1:p173">polycles</persName>:
+        aliam <persName n="urn:cite2:pliny:person.v1:p64">uenerem</persName> eodem loco <persName n="urn:cite2:pliny:person.v1:p170">philisicus</persName>.
+        cetera signa <persName n="urn:cite2:pliny:person.v1:p73">praxiteles</persName>:*
+        Idem <persName n="urn:cite2:pliny:person.v1:p173">polycles</persName> et <persName n="urn:cite2:pliny:person.v1:p172">dionysius</persName>
+        <persName n="urn:cite2:pliny:person.v1:p171">timarcidis</persName> <unclear>filii</unclear> quem qui est in proxima aede
+        fecerunt <persName n="urn:cite2:pliny:person.v1:p132">pana</persName> et <persName n="urn:cite2:pliny:person.v1:p175">olympum</persName>
+        luctantes. eodem loco <persName n="urn:cite2:pliny:person.v1:p174">heuodorus</persName>: quod est alterum in terris
+        symplegama Nobile <persName n="urn:cite2:pliny:person.v1:p64">uenerem</persName> lauantem se: sed
+        <persName n="urn:cite2:pliny:person.v1:p176">aedalsas</persName> stantem <persName n="urn:cite2:pliny:person.v1:p177">polycharimus</persName>:*
+        Ex honore apparet in magna auctoritate habitum <persName n="urn:cite2:pliny:person.v1:p178">lysiae</persName>
+        opus quod in <placeName n="urn:cite2:pliny:place.v1:pl47">palatio</placeName> super arcum
+        <persName n="urn:cite2:pliny:person.v1:p48"><w>diuus</w><w>augustus</w></persName> honori
+        <persName n="urn:cite2:pliny:person.v1:p179">octaui</persName> patris sui dicauit iN aedicula columnis adornata:
+        id est quadriga currrusque: et <persName n="urn:cite2:pliny:person.v1:p8">apollo</persName>
+        ac <persName n="urn:cite2:pliny:person.v1:p9">diana</persName>: ex uno lapide in <placeName n="urn:cite2:pliny:place.v1:pl62">hortis seruilianis</placeName> reperio
+        laudatos <persName n="urn:cite2:pliny:person.v1:p102">calamidis</persName> <persName n="urn:cite2:pliny:person.v1:p8">apolloine</persName> illius caelatosis <persName n="urn:cite2:pliny:person.v1:p103">dercylidis</persName>
+        piotas <placeName n="urn:cite2:pliny:person.v1:p105">amphistrari</placeName> <placeName n="urn:cite2:pliny:person.v1:p106">callistenen</placeName> stortarum scriptorem.*
+        Nec deinde multo plurium fama est quorumdam claritati in operibus <choice><sic>eximis</sic><corr>eximiis</corr></choice> obstant in numero artificum <choice><sic>quonim</sic><corr>quoniam</corr></choice> nec
+        unus occupat gloriam nec plures pariter nuncupari possunt sicut in <persName n="urn:cite2:pliny:person.v1:p107">laocoonte</persName>: qui est in <persName n="urn:cite2:pliny:person.v1:p112">titu</persName> imperatoris domo
+        opus omnibus in picturae et staturariae artis praeferendum ex uno lapide eum ac liberos. draconumque mirabiles <choice><sic>nexuus</sic><corr>nexus</corr></choice>: de consulii sententia fecere summi artafice: <persName n="urn:cite2:pliny:person.v1:p116">hagesander</persName>:
+        et <persName n="urn:cite2:pliny:person.v1:p117">polydorus</persName> et <persName n="urn:cite2:pliny:person.v1:p118">athenodorus</persName> <placeName n="urn:Cite2:pliny:place.v1:pl65">rhodi</placeName> similiter <placeName n="urn:cite2:pliny:place.v1:pl47">Palatinas</placeName>
+        domos caesarum repleuere probatissimis signis <choice><sic>craterus</sic><corr><persName n="urn:cite2:pliny:person.v1:p122">craterd</persName></corr></choice> cum <persName n="urn:cite2:pliny:person.v1:p123">phythodoro</persName> <persName n="urn:cite2:pliny:person.v1:p124">polydeucher</persName>
+        cum <persName n="urn:cite2:pliny:person.v1:p125">hermolao</persName> <persName n="urn:cite2:pliny:person.v1:p126">pyrhodorus</persName> alius cum <persName n="urn:cite2:pliny:person.v1:p127">artemone</persName>
+        et singularis <persName n="urn:cite2:pliny:person.v1:p127">"aphrochsius"</persName> <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et16">trallianus</rs> <persName n="urn:cite2:pliny:person.v1:p131">agrippae</persName> <placeName n="urn:cite2:pliny:place.v1:pl67">panthum</placeName> decorauit
+        <persName n="urn:cite2:pliny:person.v1:p134">diogenes</persName> <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et8">atheniensis</rs>: in columnis templi eius cariatidas probantur inter pauca operum sicut in fastigo posita signa sed propter altitudinem loci minus celebata*
+        Inhonorus est nec in templo ullo <persName n="urn:cite2:pliny:person.v1:p10">hercules</persName> ad quem poeni omnibus annis humana sacrifcauerant uictima humi stans ante adiutum <placeName n="urn:cite2:pliny:place.v1:pl69">porticus ad nationes</placeName> sitae fuere. et tessriades ad
+        <placeName n="urn:cite2:pliny:place.v1:pl71">aedem felicitatis</placeName>. quarum unam amavit eques <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et17">romanus</rs> <persName n="urn:cite2:pliny:person.v1:p138">iunius pisciculus</persName>: et tradit <persName n="urn:cite2:pliny:person.v1:p41">uarro</persName>
+        admirator: et <persName n="urn:cite2:pliny:person.v1:p139">fraxiteles</persName> qui et quinque uolumina scripsit nobilium operum in toto orbe: natus hic in <placeName n="urn:cite2:pliny:place.v1:pl72">greca italiae ora</placeName>: et ciuitate <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et17">romana</rs>
+        donatus: cum <choice><sic>is</sic><corr>iis</corr></choice> oppidis
+        <persName n="urn:cite2:pliny:person.v1:p20">iouem</persName> fecit eboreum in <placeName n="urn:cite2:pliny:place.v1:pl73">metelli aede</placeName>
+        qua <placeName n="urn:cite2:pliny:place.v1:pl45">campus</placeName> petitur. acciditet cum in naualibus ubi ferae <placeName n="urn:cite2:pliny:place.v1:pl38">africanae</placeName>
+        erant per caueam intuens leonem caelaret: ut ex alia cauea panthera erumperet non leui periculo: diligentissimi artificis fecisse opera complura dicitur: quae fecerit nominantim non refertur*
+        <choice><sic>Arcesilaum</sic><corr><persName n="urn:cite2:pliny:person.v1:p142">Archesilaum</persName></corr></choice> quoque magnificae <persName n="urn:cite2:pliny:person.v1:p41">uarro</persName>
+        cuius se marmoream habuisse leanam aligerosque ludentis cum ea cupidines quorum aure ligatam tenerent: alii cornu cogerent bibere alii calciarent soccis ommnes ex uno lapide. idem et a
+        <persName n="urn:cite2:pliny:person.v1:p144">coronio</persName> et <persName n="urn:cite2:pliny:person.v1:p145">chanacum</persName> cum <choice><sic>laudatim</sic><corr>laudati</corr></choice> inter
+        statuarios fecisse marmorea.* Nec <persName n="urn:cite2:pliny:person.v1:p146">sauram</persName> atque <persName n="urn:cite2:pliny:person.v1:pl47">battrachum</persName> obliterari conuenit: qui fecere templa
+        <placeName n="urn:cite2:pliny:place.v1:pl76">octauiae porticibus</placeName> <choice><sic>incluta</sic><corr>inclita</corr></choice>: natione ipsi <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et18">lacones</rs>:
+        quidam et opibus praepotentes fuisse eos putant. ac sua in pensa construxisse in scriptionem sperantes. qua negata: hoc tamen aliomodo usurpasse: sunt certe etiam <choice><sic>nnum</sic><corr>num</corr></choice>
+        in columnarum <choice><sic>spiriis</sic><corr>spiris</corr></choice> <choice><sic>inscalptae</sic><corr>insculptae</corr></choice> nominum eorum argumento lacerta: atque rana in <persName n="urn:cite2:pliny:person.v1:p20">iouis</persName> aede.
+        ex <choice><sic>iis</sic><corr>hiis</corr></choice> pictura cultusque reliquus omnis femineis argumentis constat: erat enim facta <persName n="urn:cite2:pliny:person.v1:p99">iunoni</persName>. sed cum in <choice><sic>ferentur</sic><corr>ferrentur</corr></choice>
+        signa permutasse geruli traduntur: et relegione custoditum uelut ipsis diis sedem ita paratis: ergo et in <persName n="urn:cite2:pliny:person.v1:p99">iunonis</persName> aede: cultus est qui <persName n= "urn:cite2:pliny:person.v1:p20">iouis</persName>
+        esse debuit.*
+        Sunt et in <choice><sic>paruolis</sic><corr>paruoulis</corr></choice> marmoreis flammam consecuti <persName n="urn:cite2:pliny:person.v1:p158">myrmecides</persName> cuius quadrigam cum agitatore operuit <choice><sic>aliis</sic><corr>alis</corr></choice>
+        musca et <persName n="urn:cite2:pliny:person.v1:p164">gallicrastes</persName> cuius formicarum pedes atque alia membra per uidere non est.*
+      </p>
+    </div>
+    <div n="5">
+      <p>   haec sint dicta de marmoris <choice><sic>scalptoribus</sic><corr>sculptoribus</corr></choice> summaque claritate artificum
+       quo intractatu subit mentem non fuisse tum auctoritatem
+        maculoso marmori. fecere et e <placeName n="urn:cite2:pliny:place:v1.pl9">thasio</placeName>
+        <rs type="ethnic" n="urn:cite2:pliny:ethnic:et7">cycladum</rs> insularum aeque et <placeName n="urn:cite2:pliny:place:v1:pl18">
+        helesbio</placeName>: <choice><sic>levidius</sic><corr>lividius</corr></choice>
+        hoc paulo versicolores quidem maculas: et in totum marmorum apparatum etiam
+        <persName n="urn:cite2:pliny:person:v1:p25">menander</persName>
+        diligentissimus: luxuriae interpres primus et raro attigit. columnis demum utebantur
+        in templis: nec lautiliae causa. nondum enim ista intellegebantur: sed quia firmiores
+        aliter statui non poterant sic est inchoatum <placeName n="urn:cite2:pliny:place.v1:pl2">
+        athenis</placeName> templum <persName n="urn:cite2:pliny:person.v1:p20">iovis</persName>
+        <placeName n="urn:cite2:pliny:place:v1:pl11">olympii</placeName>. ex quo
+        <persName n="urn:cite2:pliny:place:v1:p34">sylla</persName>
+        <placeName n="urn:cite2:pliny:place.v1:pl21">capitolinis</placeName> aedibus advexerat
+        columnas:*
+        Fuit tamen inter lapidem atque marmor differentia iam et apud
+        <persName n="urn:cite2:pliny:place:v1:p34">homerum</persName> dicit enim marmoreo
+        saxo percussum sed hactenus regias quoque domus cum lautissime praeter aes aurum
+        electrum argentum ebore tantum ad ornans.*
+        Primum ut arbitror uersicolores istas maculas <placeName n="urn:cite2:pliny:place.v1:pl5">
+        chiorum</placeName> lapicidinae ostenderunt cum exstruerent muros: faceto in id
+        <persName n="urn:cite2:pliny:person.v1:p7">
+        <w><choice><abbr><choice><sic>m</sic><corr>M</corr></choice></abbr><expan>Marcus</expan></choice></w>
+        <w>ciceronis</w></persName> sale. omnibus enim ostentabant ut magnificum multo inquit magis
+        mirarer si <placeName n="urn:cite2:pliny:place.v1:pl16">tiburtino</placeName> lapide fecissetis:
+        et <persName n="urn:cite2:pliny:person:v1:p10">hercules</persName>: non fuisset picturis
+        honos alius: non modo tantus aliqua marmorum auctoritate.*
+      </p>
+      </div>
+        <div n="6">
+          <p>
+        Secandi in crustas nescio an antefuerit inventum: antiquissima quod equidem inveniam
+        <placeName n="urn:cite2:pliny:place.v1:pl12">alicarnasi</placeName> domus:
+        <persName n="urn:cite2:pliny:place.v1:p36">mausolii</persName>
+        <placeName n="urn:cite2:pliny:place.v1:pl27"><choice><sic><w>procon</w><w>nescio</w></sic><corr>proconesio</corr></choice></placeName>
+        marmore exculta est. latericeis parietibus <persName n="urn:cite2:pliny:person.v1:p20">iovi</persName>:
+        id olympiadis <num type="cardinal" value="107">cuii</num> anno secundo:
+        urbis <placeName n="urn:cite2:pliny:person.v1:pl7">romae</placeName>:
+        <num type="cardinal" value="403">CDIII</num>:
+    </p>
+  </div>
+  <div n="7">
+    <p> primum
+    <placeName n="urn:cite2:pliny:place.v1:pl7">romae</placeName> parietes crusta marmoris
+    operuisse totos <choice><sic>domu</sic><corr>domus</corr></choice>
+    <choice><sic>ussuae</sic><corr>suae</corr></choice>in caelio monte <persName n="urn:cite2:pliny:person.v1:p21">cornelius nepos</persName> tradit: <persName n="urn:cite2:pliny:person.v1:p22">
+    mamurram</persName> formis natum equitem <choice><sic>romnum</sic><corr>romanum</corr></choice> praefectum fabrum <persName n="urn:cite2:pliny:person.v1:p23">
+    <choice><abbr>G</abbr><expan>Gaius</expan></choice>caesaris</persName> in <placeName n="urn:cite2:pliny:place.v1:pl13">gallia</placeName> nequid indignitati desit:
+    tali auctore inuenta se: hic namque est <persName n="urn:cite2:pliny:person.v1:p22">mamurra</persName> <persName n="urn:cite2:pliny:person.v1:p24">
+    catuli</persName> ueroniensis carminibus pro scissus quem ut res est domus uir clarius quam <persName n="urn:cite2:pliny:person.v1:p24">
+    catullus</persName> dixit habere: quidquid habuisset comata <placeName n="urn:cite2:pliny:place.v1:pl13">gallia</placeName>: namque adicit
+    idem nepos: primus totis aedibus nullam nisi e marmore columnam habuisse: et omnis solidas <placeName n="urn:cite2:pliny:place.v1:pl17">carystio</placeName>
+    aut luniense.*
+  </p>
+</div>
+<div n="8">
+  <p>
+    <persName n="urn:cite2:pliny:person.v1:p26"><choice><abbr>M</abbr><expan>Marcus</expan></choice>lepidus</persName> <persName
+    n="urn:cite2:pliny:person.v1:p27"><choice><abbr>q</abbr><expan>Quintus</expan></choice>catuli</persName> in consulatu conlega primus omnium
+    limina ex numidico marmore in domo posuit magna reprensione: is fuit <choice><abbr><choice><sic>cos</sic><corr>cons</corr></choice></abbr>
+    <expan>consul</expan></choice>: anno urbis: <num type="ordinal" value="666">D:C:LXVI</num>: hoc primum inuectu numidici marmoris uestigium
+    inuenio: non in columnis tamen crustisue ut supra <placeName n="urn:cite2:pliny:place.v1:pl17">carystis</placeName>
+    et in massa ac uilissimo liminum usu. Post hunc lepidum quadriennio: <persName n="urn:cites:pliny:person.v1:p29"><choice><abbr>L</abbr><expan>Lucius
+    </expan></choice>lucullus</persName> <choice><abbr><choice><sic>cos</sic><corr>cons</corr></choice></abbr><expan>consul</expan></choice> fuit:
+    qui nomen ut ex re apparet et <rs type ="padj" n="urn:cite2:pliny:person.v1:p29">lucullaeo</rs> marmorei dedit admodum delectatus illo: primus qui <placeName n="urn:cite2:pliny:place.v1:pl7">romam</placeName>
+    inuexit atrum. alio quicum cetera maculis aut coloribus commendentur: Nascitur autem in <placeName n="urn:cite2:pliny:place.v1:pl5">heo</placeName> insula. solumque paene hoc marmore ab amatore nomen accepit:
+    inter hos primum ut arbitror marmoreos parieter habuit scaena <persName n="urn:cite2:pliny:person.v1:p32">scauri</persName> non facile dixerim: secto
+    an solidis glaebis polito: sic uti est hodie <persName n="urn:cite2:pliny:person.v1:p20">iovis</persName> tonantus aedis in <placeName n="urn:cite2:pliny:place.v1:pl21">
+    capitolio</placeName>. nondum enim <choice><sic>septe</sic><corr>secti</corr></choice> marmoris uestigia inuenio in <placeName n="urn:cite2:pliny:place.v1:pl22">italia</placeName>
+  </p>
+</div>
+<div n="9">
+  <p> <choice><sic>Se</sic><corr>Sed</corr></choice> quisquis primus inuenit secare luxuriamque diuidere in portum ingenii fuit harena non fit et ferro.
+  uidetur fieri serra in praetenui linea premente harenas uersandoque tractui pro secante aethiopicae: haec maxime probatur:
+  nam id quoque accessit ut ab <placeName n="urn:cite2:pliny:place.v1:pl14">aethiopia</placeName> usque peteratur quod faceret
+  marmora: immouero etiam in <placeName n="urn:cite2:pliny:place.v1:pl15">indos</placeName>: quo margaritas quoque peti severis
+  moribus in <choice><sic>digneerat</sic><corr>digneverat</corr></choice>. haec proxime laudatur. mollior tamen quae
+  aethiopica illa nulla se scabritie secat indica non aeque leuat: sed combusta ea potientes marmora fricare iubentur: simile
+  naxiae unium est et coputidi: quae uocatur <placeName n="urn:cite2:pliny:place.v1:pl22">aegyptia</placeName> haec fuere
+  antiqua genera marmoribus secandis. post ea reperta est non minus probanda ex quodam <placeName n="urn:cite2:pliny:place.v1:pl51">adriatici</placeName> maris uado aestu nudante
+  ob seruatione non facili: iam quidem quacumque harena secare e fluuis omnibus fraus artificum aura est. quod dispendium ad
+  modum pauci intellegunt: <choice><sic>grassior</sic><corr>grossior</corr></choice> enim harena laxioribus segmentis terit:
+  et plus erodit marmoris maiusque opus scabritia politurae relinquit: ita sectae attenuantur crustae: rursus <placeName n="urn:cite2:pliny:place.v1:pl30">tebaica</placeName>
+  polituraris accommodatur: et quae sit: e poro lapide: aut e pumice:
+</p>
+</div>
+<div n="10">
+  <p>
+  signis e marmore poliendis gemmisque etiam
+  <choice><sic>scalpendis</sic><corr>sculpendis</corr></choice> atque limandis: naxum diu placuit ante alia. ita uocantur cotes
+  in <placeName n="urn:cite2:pliny:place.v1:pl24">cypro</placeName> insula genitae. uicere post ea ex
+  <placeName n="urn:cite2:pliny:place.v1:pl25">armenia</placeName> invectae
+</p>
+</div>
+
+<div n="11">
+  <p> Marmorum genera et colores non attient dicere in
+    tanta notitia. nec facile est enumerare in tanta multitudine: quoto cuique enim loco non suum marmor inuenitur: et tamen
+    celeberrimi generis dicta sunt in ambitu terrarum cum gentibus suis. non omnia autem in lapidicinis gignuntur sed multa et sub terra sparsa: praetiosissimi quidem generis sicut lacaedaemonium uiride cunctisque hilarius sicut et
+  <choice><sic>augustaeum</sic><corr><rs type="padj" n="urn:cite2:pliny:person.v1:p18">augusteum</rs></corr></choice>: ac deinde <rs type="padj" n="urn:cite2:pliny:person.v1:p74">tibereum</rs> in
+  <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName> <persName n="urn:cite2:pliny:person.v1:p18">augusti</persName>ac<choice><sic>
+  tiberi</sic><corr><persName n="urn:cite2:pliny:person.v1:p74">tiberii</persName></corr></choice>primum principatu reperta. differentia eorum est
+  ab ofiti cum sit illud serpentium maculis simile unde et nomen accepit: quod haec maculas
+  diuerso modo colligunt: <choice><sic>augustaeum</sic><corr><rs type="padj" n="urn:cite2:pliny:person.v1:p18">augusteum</rs></corr></choice>undatim
+  crispum in uertices: <rs type="padj" n="urn:cite2:pliny:person.v1:p74">tibereum</rs> sparsa non comuoluta neque ex ophite columnae nisi paruae ad
+  modum inueniuntur. duo eius genera molle candidi nigricans duri: dicuntur ambo capitis
+  dolores sedare adalligati et serpentium ictuus. quidam phreneticis aut lethargicis adalligari
+  iubent candicantem.* Contra serpentes autem a quibusdam praecipue laudatur. ex <choice><sic>iis</sic>
+  <corr>hiis</corr></choice> quem tephrian appellant a colore
+  cineris vocatur. et <placeName n="urn:cite2:pliny:place.v1:pl56">memphites</placeName> a loco gemmantis naturae. huius
+  usus conteri et <choice><sic>iis</sic><corr>hiis</corr></choice> quae urenda sint aut
+  secunda ex aceto inter line obstupescit ita corpus: nec sentit cruciatum: Rubet
+  <choice><sic>porpyrites</sic><corr>porphyrites</corr></choice>
+  in eadem <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName> ex eodem
+  candidis inter uenientibus punctis: leptosephos vocatur quantis libet molibus
+  caedendis suffiiunt lapidicinae: stanias ex eo
+  <persName n="urn:cite2:pliny:person.v1:p58">claudio caesari</persName> procurator eius in urbem ex
+  <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName>advexit <persName n="urn:cite2:pliny:person.v1:p76">uitriasius pollio</persName>. non admodum probata novitate: nemo certe postea imitatus
+  est.*
+  <choice><sic>IAnvenit</sic><corr>Invenit</corr></choice> eadem eadem
+  <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et13">aegyptos</rs> in <placeName n="urn:cite2:pliny:place.v1:pl14">aethiopia</placeName>: quem vocant
+  <w>basaniten</w>: ferrei coloris atque duritiae: unde et nomen ei dedit: numquam
+  hic maior repertus est quam in <placeName n="urn:cite2:pliny:place.v1:pl57">templo pacis</placeName> ab imperatore <persName n="urn:cite2:pliny:person.v1:p8">vespasiano
+  augusto</persName> dicatus argumento <placeName n="urn:cite2:pliny:place.v1:pl31">nili</placeName> sedecim circa ludentibus: per quos totidem cubita summi
+  incrementi augentis se omnis eius intelleguntur. non absimili illi narratur in <placeName n="urn:cite2:pliny:place.v1:pl30">thebis</placeName>
+  delubro <persName n="urn:cite2:pliny:person.v1:p42">serapis</persName> ut putant <persName n="urn:cite2:pliny:person.v1:p44">memnonis</persName>
+  statuae dicatus quem cotidiano solis ortu contactum radiis crepare tradunt.*
+  </p>
+  </div>
+<div n="12">
+  <p> Onychem in <placeName n="urn:cite2:pliny:place.v1:pl32">arabiae</placeName>
+  tantum montibus: nec usquam aliubi nasci putauere nostri ueteres. <persName n="urn:cite2:pliny:person.v1:p45">sudines</persName> in
+  <placeName n="urn:cite2:pliny:place.v1:pl33">carmania</placeName> potoris primum uasis inde factis dein pedibus lectorum sellisque
+  <persName n="urn:cite2:pliny:person.v1:p21">nepos cornelius</persName> tradit magno fuisse miraculo cum <persName n="urn:cite2:pliny:person.v1:p46">
+  publius lentulus spinther</persName> amphoras ex eo chiorum magnitudine cadorum ostendisset. post quinquennium deinde <num n="32">XXXII</num> pedum
+  longitudinis columnas videsse se uariatum in hoc lapide et postea est namque pro miraculo insigni: quattuor modicas in theatro suo
+  <persName n="urn:cite2:pliny:person.v1:p47">cornelius balbus</persName> posuit: nos ampliores <num n="30">XXX</num> uidimus in cenatione: quam <persName n="urn:cite2:pliny:person.v1:p95">callistus</persName>
+  <persName n="urn:cite2:pliny:person.v1:p23">caesaris claudi</persName> libertorum potentia notus: sibi ex aedificauerat: hunc aliqui lapidem alabastriten
+  uocant: quem cauant et aduasa unguentaria quoniam optume seruare incompita dicatur: idem et ustus emplastris conuenit: nascitur <choice><sic>ca</sic><corr>
+  circa</corr></choice> <placeName n="urn:cite2:pliny:place.v1:pl30">thebas aegyptias</placeName>: et <placeName n="urn:cite2:pliny:place.v1:pl35"> damascum
+</placeName> <placeName n="urn:cite2:pliny:place.v1:pl36">syriae</placeName>. hic ceretis candidior: probatissimus uero in <placeName n="urn:cite2:pliny:place.v1:pl33">carmania</placeName>. mox in <placeName
+  n="urn:cite2:pliny:place.v1:pl15">india</placeName>. iam quidem et in <placeName n="urn:cite2:pliny:place.v1:pl36">syria</placeName> <placeName n=
+  "urn:cite2:pliny:place.v1:pl29">asiaque</placeName>. uilissimus autem et sine ullo nitore in <placeName n="urn:cite2:pliny:place.v1:pl37">cappadocia</placeName>.
+  probantur quam maxime mellei coloris in uertices maculosi atque non <w><choice><sic>tra</sic><corr>trans</corr></choice>lucidi</w>. uitia iniis corneus color aut candidus
+  et <choice><sic>quid</sic><corr>quod</corr></choice> similis uitro est
+</p>
+</div>
+<div n="13">
+  <p>   paulum distare ab eo in unguentorum fide multi existimant: tygdinos in <placeName n="urn:cite2:pliny:place.v1:pl41">paro</placeName>repertos:
+  amplitudinem qua lances craterasque non excedant: antea ex <placeName
+  n="urn:cite2:pliny:place.v1:pl32">arabia</placeName> tantum aduehi solitos
+  candoris eximii: magnus et duabus contrariae inter se naturae honos corollitico
+  in <placeName n="urn:cite2:pliny:place.v1:pl29">asia</placeName> reperto mensurae
+  non ultra bina cubita candore proxime ebori. et quadam similitudine e diuerso niger
+  est <placeName n="urn:cite2:pliny:place.v1:pl46">alabandicus</placeName>
+  terrae suae nomine: quamquam et <placeName n="urn:cite2:pliny:place.v1:pl39">
+  mileti</placeName> nascens ad purpuram tamen magis aspectu declinante idem liquatur
+  igni funditurque ad usum uitri.*
+  <placeName n="urn:cite2:pliny:place.v1:pl30">Thebaicus</placeName> lapis inter
+  stinctus aureis guttis inuenitur in <placeName n="urn:cite2:pliny:place.v1:pl38">
+  africa</placeName> e parte <placeName n="urn:cite2:pliny:place.v1:p22">aegypto
+  </placeName> adscripta coticulis adterenda collyria quadam utilitate naturali
+  conueniens. circa <placeName n="urn:cite2:pliny:place.v1:pl40">syenen</placeName>
+  vero <placeName n="urn:cite2:pliny:place.v1:pl79">thebaidis</placeName> syenites quem antea pyrrhohoecilion
+  vocabant.
+</p>
+</div>
+<div n= "14">
+  <p>
+  trabes ex eo fecere reges quodam certamine
+  obeliscos vocantes <persName n="urn:cite2:pliny:person.v1:p191">solis</persName>nummini sacratos. radiorum eius
+  argumentum in effigie est ita significatur nomine <placeName n="urn:cite2:pliny:place.v1:pl22">aegypuo</placeName>.
+  Primus omnium id instituit <persName n="urn:cite2:pliny:person.v1:p57">mespheres</persName> qui regnabat in <persName n="urn:cite2:pliny:person.v1:p191">solis</persName> urbe
+  somnio iussus hoc ipsum inscriptum in eo et enim <choice><sic>scalpturae</sic>
+  <corr>sculpturae</corr></choice> illae effigiesque quas videmus <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et13">aegyptiae</rs>
+  sunt litterae. postea et alii excidere reges. statuit eos in supradicta urbe
+  <persName n="urn:cite2:pliny:person.v1:p184">sesothes</persName> quattuor numero: quadragenum octonum cubitorum longitudine:
+  <persName n="urn:cite2:pliny:person.v1:p185">rhamsesis</persName> autem quo regnante <placeName n="urn:cite2:pliny:place.v1:pl85"> ilium</placeName> captum est. <num n="330">cxxx</num>:
+  cubitorum idem digressis inde ubi fuit in neu vidis regia posuit alium longitudine
+  quidem <num n="320">cxx</num> cubitorum: sed <choice><sic>prodiosa</sic><corr>prodigiosa</corr></choice>
+<choice> <sic>crassitudine</sic><corr>crossitudine</corr></choice>: undenis per laterix cubitis. opus
+  id fecisse dicuntur <num n="120">cxx</num>: hominum: ipse rex cum surrecturus esset
+  verebatur que ne machinae ponderi non sufficerent: quo maius periculum
+    curae artificum denuntiaret filium suum adalligavit cacumini: ut salus
+    eius apud molientes prodesset at lapidi: hac admiratione operis effectum
+    est ut cum opidum id expugnart <persName n="urn:cite2:pliny:person.v1:p49">
+    cambyses</persName> rex ventum que esset incendiis ad crepidines obelisci
+    extingui iuberet: molis reverentia qui nullam habuerat urbis. sunt alii
+    duo unus a <persName n="urn:cite2:pliny:person.v1:p50">Zmarre</persName>
+    alter a <persName n="urn:cite2:pliny:person.v1:p51">Phio</persName> sine
+    notis quadragenum octogenum cubitorum <placeName n="urn:cite2:pliny:place.v1:pl19">
+    Alexandriae</placeName> statuit unum <persName n="urn:cite2:pliny:person.v1:p52">
+    ptolemaeus philadelphus</persName> octoginta cubitorum ceciderat eum nec
+    <persName n="urn:cite2:pliny:person.v1:p53">necthebis</persName> rex purum
+    maiusque opus inde vehendo: statuendove: multum est quam in <unclear>extdendo</unclear>
+    a <persName n="urn:cite2:pliny:person.v1:p54">satyro</persName> architecto:
+    aliqui devectum tradunt rati. <persName n="urn:cite2:pliny:person.v1:p55">
+    callixenus</persName> a <placeName n="urn:cite2:pliny:place.v1:pl42">phoenice</placeName>
+    fossa perduto: usque adiacentem obiliscum <placeName n="urn:cite2:pliny:place.v1:pl31">
+    nilo</placeName>: navesque duas in latitudinem patulas pedalibus: ex eodem lapide:
+    ad rationem geminati per duplicem mensuram ponderis oneratas <choice><sic>iet</sic>
+    <corr>ita</corr></choice><choice><sic>aut</sic><corr>ut</corr></choice> subirent
+    obiliscum pendentem extremitatibus suis: in ripis utrimque postea egestis
+    laterculis allevatas navis <choice><sic>excepis</sic><corr>excipi</corr></choice>
+    onus statum autem in sex talis e monte eodem et artificem donatum talentis:
+    <num type="cardinal" value="50">L</num>:*
+
+    hic fuit in ***<persName n="urn:cite2:pliny:person.v1:p56"><choice><sic>arsinoeo</sic><corr>arsinoe</corr></choice></persName>***
+    positus a rege supradicto munus amoris in coniuge eademque
+    sorore <persName n="urn:cite2:pliny:person.v1:p56">arsinoe</persName>.
+    inde eum navalibus incommodum maximus quidam praefectus
+    <placeName n="urn:cite2:pliny:place.v1:pl22">aegypti</placeName> transtulit
+    in forum reciso cacumine dum voluit
+    fastigium addere auratum. quod postea omisit: et alii duo sunt
+    <placeName n="urn:cite2:pliny:place.v1:pl19">alexandreae</placeName> ad portum
+    in <persName n="urn:cite2:pliny:person.v1:p23">caesaris</persName> templa quos
+    excidit <persName n="urn:cite2:pliny:person.v1:p57">mesphres</persName> rex quadragenum
+    binum cubitorum. Super omnia accessit difficultas mari <placeName n="urn:cite2:pliny:place.v1:pl7">romam</placeName>
+    deuehendi: spectatis admodum nauibus: diuus <persName n="urn:cite2:pliny:person.v1:p18">augustus</persName> eam: quae
+    priorem aduexerat miraculi gratia puteolis perpetuis naualibus dicauerat incendio consumpta ea est: diuus
+    <persName n="urn:cite2:pliny:person.v1:p58">claudius</persName> aliquot per annos adseruatam quam
+    <persName n="urn:cite2:pliny:person.v1:p230>">Gaius caesar</persName> inportauerat omnibus quae umquam in mari uisa
+    sunt mirabiliores in ipsa turribus puteolis e puluere ex aedificatis per ductam <placeName n="urn:cite2:pliny:place.v1:pl43">
+    <choice><sic>ostiam</sic><corr>ostia</corr></choice></placeName> <choice><sic>portuus</sic><corr>portus</corr></choice>
+    <choice><sic>gratiam</sic><corr>gratia</corr></choice> mersit Alia ex hoc cura nauium quae <placeName n="urn:cite2:pliny:place.v1:pl44">
+    tiberi</placeName> subuehant. quo experimento patuit non minus aquarum huic <choice><sic>amnis</sic><corr>amni</corr></choice> esse
+    quam <placeName n="urn:cite2:pliny:place.v1:pl31">nilo</placeName>. is autem obeliscus quem diuus <persName n="urn:cite2:pliny:person.v1:p18">
+    augustus</persName> in <rs type="bldg" n="urn:cite2:pliny:building.v1:bldg1">circo magno</rs> statuit excisus est a rege
+    <persName n="urn:cite2:pliny:person.v1:p59">spem et nepserphreo</persName> quo regnante <persName n="urn:cite2:pliny:person.v1:p60">pythagoras</persName>
+    in <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName> fuit <num n="85">LXXXV</num> pedum et dodrantis: preter basim
+    eiusdem lapidis: is uero quem in <placeName n="urn:cite2:pliny:place.v1:pl45">campo martio</placeName> nouem pedibus minor <unclear>assesothide</unclear>
+    inscripti ambo rerum naturae inter praetationem aegyptiorum philosophia continent:
+
+  </p>
+</div>
+<div n="15">
+<p>
+     ei qui est in campo diuus <persName n="urn:cite2:pliny:person.v1:p18">augustus
+    </persName> addidit mirabilem usum ad deprendendas solis umbras dierumque ac noctium. ita magnitudines strato lapide ad longitudinem obeliscy cui par
+    fieret <choice><sic>umbrarumae</sic><corr>umbra brumae</corr></choice> confectae solis ipsius dissono cursu et caeli qliqua ratione mutato: sive uniuersa tellure a centro suo
+      aliqui demota ut deprehendi et <choice><sic>alis</sic><corr>aliis</corr></choice> in locis accipio:
+      siue orbis tremoribus: ibi tantum gonomone intorto siue in undationibus
+      <placeName n="urn:cite2:pliny:place.v1:pl44">tiberis</placeName> sedimento molis facto: quamquam ad
+      altitudinem inpositi oneris in terram quoque dicuntur acta fundamenta:* Tertius est
+      <placeName n="urn:cite2:pliny:place.v1:pl7">romae</placeName> in
+      <placeName n="urn:cite2:pliny:place.v1:pl80">uaticano</placeName>:
+      <persName n="urn:cite2:pliny:person.v1:p180">gai</persName> et <persName n="urn:cite2:pliny:person.v1:p181">neronis</persName>
+      principum circo ex omnibus usus omnino fracts est in immolatione quem fecerat
+      <persName n="urn:cite2:pliny:person.v1:p182">sesodis</persName> filius
+      <persName n="urn:cite2:pliny:person.v1:p183">nencoreus</persName> eiusdem. remanet et alius centum
+      cubitorum quem post caecitatem uisui reddito ex oraculo <persName n="urn:cite2:pliny:person.v1:p191">soli</persName>
+      sacrauit</p>
+    </div>
+    <div n="16">
+    <p>Dicantur obiter et pyramides: in eadem <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName>
+      regum pecunia otiosa ac stulta ostentatio quippe cum faciendi eas causa a plerisque tradatur Ne pecuniam
+      successoribus aut aemulis insidiantibus praeberent aut ne pleps esset otiosa. multa circa hoc uanitas
+      hominum illorum fuit uestigia complurium <choice><sic>incoatarum</sic><corr>inchoatarum</corr></choice>
+      extant: una est in <placeName n="urn:cite2:pliny:place.v1:pl81">arsino</placeName> item
+      nomo: duae in <placeName n="urn:cite2:pliny:place.v1:pl56">memphite</placeName>: non procul
+      labyrintho: de quo et ipso dicemus totidem ubi fuit <placeName n="urn:cite2:pliny:place.v1:pl82">moeridis</placeName>
+      lacus hoc est fossa: grandis sed <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et13">aegyptiis</rs>
+      inter mira ac memoranda narratio: harum cacumina extra aquam eminere dicuntur Reliquae tres quae orbem terrarum
+      inplevere fama sanae conspicuae undique ad navigantibus sitae sunt in parte
+      <placeName n="urn:cite2:pliny:place.v1:pl38">africae</placeName> monte
+      <choice><sic>saxeos</sic><corr>saxeo</corr></choice> sterili que inter
+      <placeName n="urn:cite2:pliny:place.v1:pl56">memphim</placeName> oppidum et quod appellari
+      diximus delta a <placeName n="urn:cite2:pliny:place.v1:pl83">nilo</placeName> minus illi
+      <choice><sic>millia</sic><corr>milia</corr></choice> passum ad
+      <placeName n="urn:cite2:pliny:place.v1:pl56">memphim</placeName>:
+      <num type="cardinal" value="7500">VIID</num> vico adposito quem uocant
+    <persName n="urn:cite2:pliny:place.v1:pl84">busirinin</persName> eo sunt adsueti scandere illas.*
+    </p>
+    </div>
+
+
+<div n="17">
+  <p>Ante est sphinx. uel magis narranda de qua siluere. numen accolentium
+  <persName n="urn:cite2:pliny:perspon.v1:186">harmain</persName> regem putant in ea conditum ut uolunt
+  inuectam uideri.est Autem saxo naturali elaborata rubrica facies monstri colitur: capitis per
+  frontem ambitus centum duos pedes colligit: longitudo pedum: <num type="cardinal" value ="243">CCXLIII</num>
+  : est altitudo: a ventre ad summam aspidem in capite: <num type="cardinal" value="61.5">LXIs</num>:
+  pyramis amplissimi ex <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et19">arabicis</rs> lapicidinis
+  constat. <num type="cardinal" value="360">CCCLX</num>: milia hominum annis
+  <num type="cardinal" value="20">20</num>: eam construxisse produntur: tres vero factae annis
+  <num type="cardinal" value="79">LXXIX</num>: mensibus <num type="cardinal" value="4">IIII</num>: qui
+  de <choice><sic>iis</sic><corr>hiis</corr></choice> scripserunt: sunt
+  <persName n="urn:cite2:pliny:person.v1:p29">eurhodotus</persName>:
+  <persName n="urn:cite2:pliny:person.v1:p187">euhemerus</persName>
+  <persName n="urn:cite2:pliny:person.v1:p188">duris</persName>
+  <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et20">samius</rs>
+  <persName n="urn:cite2:pliny:person.v1:p189">aristagoras</persName>:
+  <persName n="urn:cite2:pliny:person.v1:p172">dionysius</persName>:
+  <persName n="urn:cite2:pliny:person.v1:p167">artemidorus</persName>:
+  <persName n="urn:cite2:pliny:person.v1:p190">alexander polyhistor</persName>
+  <persName n="urn:cite2:pliny:person.v1:p192">butoridas</persName>:
+  <persName n="urn:cite2:pliny:person.v1:p193">antisthenes</persName>:
+  <persName n="urn:cite2:pliny:person.v1:p194">demetrius</persName>
+  <persName n="urn:cite2:pliny:person.v1:p31">demoteles</persName>
+  <persName n="urn:cite2:pliny:person.v1:p195">apion</persName>:
+  Inter omnes non constat a quibus factae sint iustissimo casu obliteratis tantae vanitatis auctoribus
+  aliqui ex <choice><sic>iis</sic><corr>hiis</corr></choice> prodiderunt: in
+  raphanos et <choice><sic>alium</sic><corr>allium</corr></choice> ac cepas
+  <num type="cardinal" value="1500">MD</num> talenta erogata
+  Amplissima septem iugera optinet soli quattuor angulorum laterum altitudo a
+  <choice><sic>cacumina</sic><corr><w>cacumin<unclear>e</unclear></w></corr></choice>
+  ad solum: pedes <num type="cardinal" value="725">DCCXXV</num>: colligit ambitus cacuminis
+  <abbr>p:</abbr><expan>pedes</expan> <num type="cardinal" value="16.5">XVIs</num>: alterius intervalla
+  singula per quattuor angulos pedes <num type="cardinal" value="757.5">DCCLVIIs</num> comprehendunt:
+  tertia minor quidem praedictis sed multo spectatior:
+  <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et21">aethiopicis</rs> lapidibus adsurgit:
+  <num type="cardinal" value="363">CCCLXIII</num>: pedius inter angulos vestigia inter aedificationum
+  nulla exstant harena latepura: circa lentis similitudinem qualis in maiore parte
+  <placeName n="urn:cite2:pliny:place.v1:pl38">africae</placeName>.*
+  Questionum summa est quanam ratione in tantam altitudinem subiecta sint caementa: alii nitro ac salem
+  ad aggeratis cum crescente opere et peracto fluminis in rigatione dilutis.
+  alii lateribus eluto faciis ex <w><unclear>fr</unclear>uctos</w> pontes per acto opere. lateribus in priuatas domos distributus nilum enim non putant rigare potuisse multo humiliorum in pyramide maxima est intus puteus <num n="86">XXCVI</num>: cubitorum flumen illo <w>admis<unclear>s</unclear>um</w> arbitrantur mensuram altitudinis earum omnemqui similem deprehendere inuenit <persName n="urn:cite2:pliny:person.v1:p19">thales milesius</persName> umbram <unclear>me uendo</unclear> qua hora par esse corpori solet haec sunt pyramidum <w>mi<unclear>y</unclear>txculas</w> supremumque illud: nequis regum opes miretur minimam ex <unclear>his</unclear> sed laudatissimam <unclear>arhodo</unclear> pedemere tricula factam.
+  <unclear>esopi</unclear> fabellarum philosophi conserua quondam et
+  <unclear>cornuber</unclear>
+  <w>na<unclear>l</unclear>is</w> haec fuit maiore miraculo: tantas opes meretricio esse conquisitas.
+</p>
+</div>
+<div n="18">
+<p>
+  Magnificatur et aliaturris arege facta et in insula pharo portum optinente
+  <placeName>Alexandriae</placeName> quam confittisse <num n="800">DCCC</num>
+  <add>talentis</add> tradunt: magno animo nequid <unclear>omit tam iis</unclear>: <persName n="urn:cite2:pliny:person.v1:p28">ptolemei</persName> regis: quo in ea permiserit sostrati gnidi archi tecti structura ipsa nomen inscribi: usus eius nocturno nauium cursu ignes ostendere adprae nuntianda uada portu usque <w>intro<unclear>tium</unclear></w> quales iam compluribus flagrant sicut ostiae ac <placeName n="urn:cite2:pliny:place.v1:pl20">ravennae</placeName> periculum inco<unclear>nt</unclear>inuatione ignium nesidus existimetur: quoniam <unclear>elonginquo</unclear> similis flammarum aspectus est: hic idem architectus primus omnium pensilem ambulationem: <w><unclear>eni</unclear>difecisse</w> traditur.
+</p>
+</div>
+<div n="19">
+  <p>
+  Dicamus et labyrinthos vel portentissimum humani in pendii opus sed non ut existi mari potest falsum. durat etiam num in
+   <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName>: in heracleo polite nomo: qui primus factus est ante annos ut tradunt: <num n="3600">MMMDC</num> apete suchi rege sive <w>ut<unclear>h</unclear>oe</w> quamquam
+   <persName n="urn:cite2:pliny:person.v1:p29">herodotus</persName>: totum opus <num n="12">XII</num>: regum esse dicit. Novis simique <persName n="urn:cite2:pliny:person.v1:p30">psamethichi</persName>. Causas faciendi: varie inter praetantur <persName n="urn:cite2:pliny:person.v1:p31">demoteles</persName> regia moteri diffuisse lyceas sepulcrum moeridis. plures solis sacrum id exstructum quod maxime creditur. hinc utique sumpsisse <persName n="urn:cite2:pliny:person.v1:p33">daedalum</persName>: exemplar eius labyrinthi quem fecit increta non est dubium. sed <w>ce<unclear>nter</unclear>isimam</w> tantum portionem eius imitatum quae itinerum ambages occursusque acre cussus  inexplicabiles continet: non ut pauimentis puerorum ueludigris campestribus uidemus breui lagines millia passuum plura ambulationis continentem. sedere <unclear>bris</unclear> foribus inditis ad fallendos occursus redeundum que inerrores eosdem. Secundus hic fuit ab
+   <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName> labyrinthus testius in lemno: quas tus in <placeName n="urn:cite2:pliny:place.v1:pl21">italia</placeName> omnis lapide polito fornicibus tecti: <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName> quod miror equidem intro itu lapidis eparo columnisque reliqua <choice><sic>estenite</sic><corr>existenite</corr></choice> ***molibus*** compositis quare lis soluere ne saecula quidem possint adiuuantibus <placeName n="urn:cite2:pliny:place.v1:pl23">heracleo</placeName> politis quod opus inuisum mire spectauere. Positionem operis eius singularque pasti <w>sena<unclear>tt</unclear>are</w> non est: cum sit in regio nes diuisum atque praefecturas quas uocant nomos:
+   <num n="21">XXI</num> nominibus eorum totidem uastis dominibus ad tributis praeterea templa omnia <placeName n="urn:cite2:pliny:place.v1:pl22">aegypti</placeName> deorum contineat superque nemesis <num n="11">XI</num> aediculis incluserit pyramides compluses quadringenarum             binarum senas; <choice><sic>sa</sic><corr>asa</corr></choice> dice aruras optinentes; fessi iam fundo;
+               per ueniunt ad uiarum illum in explicabilem errorem; quin et cenacula cliuis excelsa; posticusque descenduntur non agenis gradibus. Intus columna porphyrite lapide
+               deorum simulacra regum statuae; monsrifciae effigies; <w>qua<unclear>s</unclear></w> undam <choice><sic>domum</sic><corr>dommum</corr></choice> talis est situs ut
+               adaperientibus foreston itrum intus terribible existat; maire autem <unclear>inpastettratitus</unclear> est per tenebra Aliae rursus exiram urum labyrinthi aedificiorum
+               moles pteron appellant inde aliae per fossis cuniculis sub terra ne aedomus; refecit unus omnino pauca ibi <persName n="urn:cite2:pliny:person.v1:p37">chaeremon</persName> spado nec thebis regis. <num n="500">D</num> ante <persName n="urn:cite2:pliny:person.v1:p38">alexandrum magnum</persName> idquoque traditur fulsisse trabibus spinae oleo incoctae dum fornices quadrati lapides adsurgerent Et de cretico labyrintho satis dictum est. lemnius similis illi columnis tantum <num n="150">CL</num> memorabilior fuit quarum in officina turbines ita librati pependerunt ut puero circum agente et ornarentur architecti fecere milus <persName n="urn:cite2:pliny:person.v1:p39">etrhoecus</persName> et <persName n="urn:cite2:pliny:person.v1:p40">theodorus</persName>
+               <choice><sic>indignae</sic><corr>indigenae</corr></choice> exstantque adhuc reliquiae eius cum cretici italicique nulla uestigia exstant: Namque et itali cum dici conuenit quem fecit sibi porsinarex etruriae sepulchri causa simul ut externorum regum uanitas quoque talis superetur: sed cum excedat omnia fabulositas uternus ipsius
+               <persName n="urn:cite2:pliny:person.v1:p41"><abbr>m</abbr><expan>marcus</expan>varronis</persName> in expositione ex <choice><sic>urbis</sic><corr>uerbis</corr></choice>. Sepultus sub urbe clusio: in quoloco monimentum reliquit: lapide quadrato: quadratum singula latera pedum tricenum: alta quiinquagenum
+               inquabasi quadrata intus labyrinthum inextricabile: quo siquis intro ierit sine glomere lini exitum inuenire neque at supra id quadratum pyramides stant quinque: quattuor in agulis et in medio una: ima elatae pedum quinum septuagenum: altae centenum quinquagenum ita fastigatae ut in summo orbis aeneus: et petasus unus omnibus sit inpositus ex quo pendeant ex apta catenis tintinabula: quae uento agitata longe sonitus referant ut <placeName n="urn:cite2:pliny:place.v1:pl28">dodonae</placeName> olim factum. supra quem orbem quattor pyramydes quarum insuper singulas stant altae pedum centenum. supra quas uno solo quinque pyramides. Quarum altitudinem <persName n="urn:cite2:pliny:pers.v1:p41">varronem</persName> puduit adicere: fabulae etruscae tradunt eandem fuisse quam totius operis ad eas uae sana dementia quae sisse gloriam: inpendio nulli pro futuro: paeter ea fatigasse regni uires ut tamen laus maior artificis esset.
+</p>
+</div>
+<div n="20">
+  <p>
+
+     Legitur et pensilis hostus immouero totum oppidum
+               <placeName n="urn:cite2:pliny:place.v1:pl22">aegypti</placeName> aethebae exercitus armatos subterrae ducere solitis regibus nullo opidanorum sentiente: etiam num hoc minus mirum quamquod flumine medium oppidum inter fluente quaesi fuissent non dubium est <persName n="urn:cite2:pliny:place.v1:p35">homerum</persName> dicturum fuisse cum centum portas ibi praedicaret.
+</p>
+</div>
+<div n="21">
+  <p>
+   Grecae magnificentiae uera admiratio: exstat templum ephesiae <persName n="urn:cite2:pliny:pers.v1:p9">dianae</persName> <num n="120">CXX</num>: annis factum a tota <placeName n="urn:cite2:pliny:place.v1:pl29">asia</placeName>: in solo id palustri fecere ne terrae inotus sentiret aut hiatus timeret: rursus ne in lubrico atque instabili
+   fundamenta tantae molis locarentur: calcatis ea sub strauere carbonibus de in uelleribus Lanae.  uniuerso templo longitudo est <num n="325">CCCXXV</num> pedum latitudo <num n="225">CCXXV</num> columnae <num n="127">CXXVII</num>a singulis regibus factae <num n="60">LX</num> pedum altitudine ex is <num n="36">XXXVI</num> caelate una ascopa.  Operipre fuit <persName n="urn:cite2:pliny:person.v1:p43">cheresiphron</persName>architectus summam miraculi epystilia tantae moles at toli potuisse.  id consecutus ille est eronibus harenae plenis mollicliuo super capita columnarum ex <unclear>aeggerato</unclear> paulatim ex inaniensi mos ut sensim opus in loco sederet difficilime hoc contigit inlimine ipso quod foribus in ponebat et enim ea maxima moles fuit nec sedit in cubili anxio astifice mortis destinatione suprema: tradunt in ea cogitatione fessum nocturno tempore inquiete uidisse praesentum deam cui templum fierit hortantem ut uiueret: recompossuisse lapidem atque ita postera luce apparuit pondere ipso correctus videbatur cetera eius operis ornamenta plurium librorum instar optinent nihil ad speciemen naturae pertinentia.
+ </p>
+</div>
+<div n="22">
+  <p>
+   Durat et <placeName n="urn:cite2:pliny:place.v1:pl34">Cyzici</placeName> delubrum in quo milium aureum commissuris omnibus posilici lapidis subiecit artifex eboreum iouem dicaturus intus coronantem cum marmoreo apolline.  <w>transluc<unclear>n</unclear></w> ergo iuncturae tenus simis capilla amentis lenique ad flatu simulacra refouent et praeter ingenium artificis ipsa materia ingenii quam uis occulta in praetio operis intellegitur: eodem in oppido est
+   Lapis: fugitiuis appellatus: argonautae eum pro ancora usi reliquerant ibi hunc  eprytaneo ita uocatur locus saepe profugum uinxere plumbo: <unclear>I</unclear> adem in urbe iuxta portam quae tracia vocatur turres septem acceptas voces numer<unclear>osoore</unclear> percussam multiplicant.  Nomen huic miraculo: echo est agrecis datum.  et hoc quidem locorum naturae venit ac plerumque convallium ibi casu accidit.  <placeName n="urn:cite2:pliny:place.v1:pl11">Olympiae</placeName> autem arte mirabili: modo in porticu quam ob id eptaphonon appellant quoniam septiens eadem vox redditur <placeName n="urn:cite2:pliny:place.v1:pl34">Cyzici</placeName> et buleuterium vocans aedificium amplum sine ferreo clauo: ita disposita contignatione ut eximantur trades sine futuris acre ponantur: quod item romae in ponte sublicio religiosum est postea quam cocliti oratio defendent e aegre <choice><sic>reuolsus</sic><corr>reuulsus</corr></choice> est </p>
+</div>
+   <div n="24">
+   <p>Verum et ad urbis nostrae miracula <choice><sic>trasire</sic><corr>transire</corr></choice> conveniat <num n= "800">DCCC</num> que annorum dociles scrutare vires et sic quoque terrarum orbem victum ostendare quod <choice><sic>accidissetotiens</sic><corr>accidisse totiens</corr></choice> paene quod referentur miracula apparebit: uniuersitate vero aceruata et in quendam unum cumulum <choice><sic>coiecta</sic><corr>coniecta</corr></choice> non alia magnitudo exurget quam si mundus alius quidam in uno loco narretur: ne ut circum maximum a caesare dictatore ex structum longitudine stadiorum trium latitudine unius: sed cum aedificiis iugerum quaternum ad sedum <num n="250">CCL</num> inter magna opera dicamus non
+   <choice><sic>ter</sic><corr>inter</corr></choice> magnifica basilicam pauli: columnis ephrygibus mirabilum: eorumque <persName n="urn:cite2:pliny:person.v1:p48">divi augusti</persName>:  et templum pacis uespasiani  <choice><abbr>aug</abbr><expan>augustus</expan></choice> pulcherrima operum quae umquam uidit orbis.  non ut tectum dilibitori ob agrippa factis cum theatrum ante texerit romae ualerius ostensis archetectus ludis libonis.
+
+ </p>
+</div>
+
+
     </div>
 </body>
 </text>
