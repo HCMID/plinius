@@ -1,2 +1,2 @@
 Text URN#Format#Document#Namespace mapping#Citation model
-urn:cts:latinLit:phi0978.phi001.bamberg:#xml#bamberg/nh.xml#tei->http://www.tei-c.org/ns/1.0#/tei:TEI/tei:text/tei:body/tei:div[@n = '?']/tei:div[@n = '?']
+urn:cts:latinLit:phi0978.phi001.bamberg:#xml#bamberg/pliny.xml#tei->http://www.tei-c.org/ns/1.0#/tei:TEI/tei:text/tei:body/tei:div[@n = '?']/tei:div[@n = '?']
