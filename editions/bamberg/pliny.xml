@@ -27,19 +27,23 @@
 <text>
   <body>
     <div n="36">
-      <div n="1">
+
         <p>
-        Lapidum natura restat: hoc est praecipua morum insania:
-        etiam ut gemmae cum sucinis: atque crystallinis
-        <choice><sic>murinisque</sic><corr>murrinisque</corr></choice>
-        sileantur. omnia namque quae usque
-        adhoc uolumen tractauimus: hominum genita causa uideri
-        possunt. montes natura sibi fecerat: et quasdam compages
-        telluris uisceribus densandis simul ad fluminum impetus domandos:
-        fluctuus refrangendos. ac minime quietas partes coercendas
-        durissima sui materia caedimus hos trahimusque
-        nulla alia quam deliciarum causa. quos transcendisse quoque
-        mirum fuit in portento prope maiores habuere
+          <seg n="1">
+          Lapidum natura restat: hoc est praecipua morum insania:
+          etiam ut gemmae cum sucinis: atque crystallinis
+          <choice><sic>murinisque</sic><corr>murrinisque</corr></choice>
+          sileantur. omnia namque quae usque
+          adhoc uolumen tractauimus: hominum genita causa uideri
+          possunt. montes natura sibi fecerat: et quasdam compages
+          telluris uisceribus densandis simul ad fluminum impetus domandos:
+          fluctuus refrangendos. ac minime quietas partes coercendas
+          durissima sui materia caedimus hos trahimusque
+          nulla alia quam deliciarum causa. quos transcendisse quoque
+          mirum fuit
+        </seg>
+        <seg n="2">
+         in portento prope maiores habuere
         <placeName n="urn:cite2:pliny:place:pl1">alpiis</placeName>
         ab <persName n="urn:cite2:pliny:person:p1">hannibale</persName>
         exsuperatas et postea
@@ -54,14 +58,20 @@
         <choice><sic>ut</sic><corr/></choice> potus
         <choice><sic>us</sic><corr/></choice> uas
         petitur in nubila caeloque proximae rupes cauantur ut bibatur glacies.
+        </seg>
+        <seg n="3">
         et cum quisque cogitet et quae praetia horum audiat quas uehi
         trahique moles videat. et quam sine <choice><sic>iis</sic><corr>hiis</corr></choice>
         multorum sit beatior uita: ista facere immo verius pati
         mortales: quos ob usus quasue ad uoluptates alias Nisi inter maculas lapidum
         iaceant ceu uero non tenebris Noctium dimidia parte uitae
         cuiusque gaudia haec auferentibus:^
+        </seg>
         </p>
-      </div>
+
+
+
+      <!--
       <div n="2">
         <p>
         Ingens ista reputantem subit etiam antiquitatis rubor: exstant censoriae leges
@@ -173,7 +183,7 @@
         appellare quoniam ad lucernas in cuniculis <choice><sic>caederetur</sic><corr>cederetur</corr></choice> ut auctor
         est <persName n="urn:cite2:pliny:person.v1:p41">uarro</persName>: multis postea candidioribus
         repertis: nuper uero etiam in <placeName n="urn:cite2:pliny:place.v1:pl50">lunensium</placeName>
-        lapidicinis. sed in <rs type="ethnic" n="-------">phartorum</rs> mirabile proditur glaeba lapidis
+        lapidicinis. sed in <rs type="ethnic" n="">phartorum</rs> mirabile proditur glaeba lapidis
         unius cuneis diuidentium soluta imaginem <persName n="urn:cite2:pliny:person.v1:p65">sileni</persName>
         intus extitisse. non imittendum hanc artem tanto uetustiorem fuisse quam picturam: aut statuarum
         quarum utraque cum <persName n="urn:cite2:pliny:person.v1:p66">phidia</persName> coepit:
@@ -444,16 +454,15 @@
         honos alius: non modo tantus aliqua marmorum auctoritate.*
       </p>
       </div>
-        <div n="6">
-          <p>
-        Secandi in crustas nescio an antefuerit inventum: antiquissima quod equidem inveniam
-        <placeName n="urn:cite2:pliny:place.v1:pl12">alicarnasi</placeName> domus:
-        <persName n="urn:cite2:pliny:place.v1:p36">mausolii</persName>
-        <placeName n="urn:cite2:pliny:place.v1:pl27"><choice><sic><w>procon</w><w>nescio</w></sic><corr>proconesio</corr></choice></placeName>
-        marmore exculta est. latericeis parietibus <persName n="urn:cite2:pliny:person.v1:p20">iovi</persName>:
-        id olympiadis <num type="cardinal" value="107">cuii</num> anno secundo:
-        urbis <placeName n="urn:cite2:pliny:person.v1:pl7">romae</placeName>:
-        <num type="cardinal" value="403">CDIII</num>:
+      <div n="6">
+        <p>Secandi in crustas nescio an antefuerit inventum: antiquissima quod equidem inveniam
+      <placeName n="urn:cite2:pliny:place.v1:pl12">alicarnasi</placeName> domus:
+      <persName n="urn:cite2:pliny:place.v1:p36">mausolii</persName>
+      <placeName n="urn:cite2:pliny:place.v1:pl27"><choice><sic><w>procon</w><w>nescio</w></sic><corr>proconesio</corr></choice></placeName>
+      marmore exculta est. latericeis parietibus <persName n="urn:cite2:pliny:person.v1:p20">iovi</persName>:
+      id olympiadis <num type="cardinal" value="107">cuii</num> anno secundo:
+      urbis <placeName n="urn:cite2:pliny:person.v1:pl7">romae</placeName>:
+      <num type="cardinal" value="403">CDIII</num>:
     </p>
   </div>
   <div n="7">
@@ -785,7 +794,7 @@
  </p>
 </div>
 
-
+-->
     </div>
 </body>
 </text>
