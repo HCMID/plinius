@@ -110,26 +110,27 @@
       </div>
       <div n="4">
         <p>marmore <choice><sic>scalpendo</sic><corr>sculpendo</corr></choice>.
-        primi onmnium in claruerunt <persName n="urn:cite2:pliny:person:p3">
-        <choice><sic>diepenus</sic><corr>diedenus</corr></choice></persName> et
+        primi omnium in claruerunt
+        <persName n="urn:cite2:pliny:person:p3"><choice><sic>diepenus</sic><corr>diedenus</corr></choice></persName> et
         <persName n="urn:cite2:pliny:person:p4">scyllis</persName>: geniti
         in <placeName n="urn:cite2:pliny:place:pl3">creta</placeName> insula
         <choice><sic>etiannum</sic><corr>etiamnum</corr></choice>
-         <rs type="ethnic" n="urn:cite2:pliny:ethnic:et2">mediis</rs> imperantibus
+        <rs type="ethnic" n="urn:cite2:pliny:ethnic:et2">mediis</rs> imperantibus
         priusque quam <persName n="urn:cite2:pliny:person:p6">cyrus</persName> in
         <rs type="ethnic" n="urn:cite2:pliny:ethnic:et3">persis</rs> regnare
         inciperet. hoc est olympiade circiter <choice><sic>quinquagensima</sic>
-        <corr>quinquagesima</corr></choice>.*
+        <corr>quinquagesima</corr></choice>.^
         Hi <placeName n="urn:cite2:pliny:place:pl4">sicyonem</placeName> se
         contulere quae diu fuit officinarum omnium talium patria deorum simulacra
         publice locauerat hiis <rs type="ethnic" n="urn:cite2:pliny:ethnic:et4">sicyoni</rs>:
         quae priusquam absoluerentur artifices iniuriam quaesti abiere
-        in <rs type="ethnic" n="urn:cite2pliny:ethnic:et5">aetolos</rs>: protenus
+        in <rs type="ethnic" n="urn:cite2pliny:ethnic:et5">aetolos</rs>:
+        <choice><sic>protenus</sic><corr>protinus</corr></choice>
         <placeName n="urn:cite2:pliny:place:pl4">sicyonem</placeName> fames inuasit.
-        ac sterelitas maerorque dirus: re medium petentiubs:
+        ac sterelitas maerorque dirus: re medium petentibus:
         <persName n="urn:cite2:pliny:person:p8">apollo pythius</persName> respondit:
         si <persName n="urn:cite2:pliny:person:p3">dipoenus</persName> et
-        <persName n="urn:cite2:pliny:person:p4">scyllis </persName>
+        <persName n="urn:cite2:pliny:person:p4">scyllis</persName>
         deorum simulacra perfecissent: quod magnis mercedibus obsequiisque
         <choice><sic>imperatum</sic><corr>impetratum</corr></choice> est fuere autem
         simulacra ea <persName n="urn:cite2:pliny:person:p8">apollinis</persName>:
@@ -491,7 +492,7 @@
   nam id quoque accessit ut ab <placeName n="urn:cite2:pliny:place.v1:pl14">aethiopia</placeName> usque peteratur quod faceret
   marmora: immouero etiam in <placeName n="urn:cite2:pliny:place.v1:pl15">indos</placeName>: quo margaritas quoque peti severis
   moribus in <choice><sic>digneerat</sic><corr>digneverat</corr></choice>. haec proxime laudatur. mollior tamen quae
-  aethiopica illa nulla se scabritie secat indica non aeque leuat: sed combusta ea potientes marmora fricare iubentur: simile
+  <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et21">aethiopica</rs> illa nulla se scabritie secat indica non aeque leuat: sed combusta ea potientes marmora fricare iubentur: simile
   naxiae unium est et coputidi: quae uocatur <placeName n="urn:cite2:pliny:place.v1:pl22">aegyptia</placeName> haec fuere
   antiqua genera marmoribus secandis. post ea reperta est non minus probanda ex quodam <placeName n="urn:cite2:pliny:place.v1:pl51">adriatici</placeName> maris uado aestu nudante
   ob seruatione non facili: iam quidem quacumque harena secare e fluuis omnibus fraus artificum aura est. quod dispendium ad
