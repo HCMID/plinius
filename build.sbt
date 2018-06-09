@@ -1,5 +1,5 @@
 
-scalaVersion := "2.12.3"
+scalaVersion := "2.12.4"
 
 
 resolvers += Resolver.jcenterRepo
@@ -8,13 +8,15 @@ resolvers += Resolver.bintrayRepo("neelsmith", "maven")
 
 libraryDependencies ++= Seq(
 
-  "edu.holycross.shot.cite" %% "xcite" % "3.2.1",
-  "edu.holycross.shot" %% "scm" % "5.1.5",
-  "edu.holycross.shot" %% "ohco2" % "10.3.0",
-  "edu.holycross.shot" %% "citeobj" % "5.0.0",
-  "edu.holycross.shot" %% "cex" % "6.1.0",
 
-  "edu.holycross.shot.mid" %% "latin-text-model" % "0.0.2"
+  "edu.holycross.shot.cite" %% "xcite" % "3.4.0",
+  "edu.holycross.shot" %% "ohco2" % "10.8.1",
+  "edu.holycross.shot" %% "dse" % "3.1.0",
+  "edu.holycross.shot" %% "scm" % "6.1.0",
+  "org.homermultitext" %% "hmt-textmodel" % "2.2.3",
+  "org.homermultitext" %% "hmtcexbuilder" % "3.1.1",
+  "edu.holycross.shot" %% "citerelations" % "2.2.0"
 
+  //"org.vegas-viz" %% "vegas" % "0.3.11"
 
 )
