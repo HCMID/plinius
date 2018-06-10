@@ -15,7 +15,7 @@ val textRepo = TextRepositorySource.fromFiles(catalog, citation, editions)
 // q&d word generator...
 val node1 = textRepo.corpus.nodes(0)
 val u = node1.urn
-val t = node1.textRepo
+val t = node1.text
 
 val analysisV = TeiReader.teiToTokens(u,t,coll)
 
