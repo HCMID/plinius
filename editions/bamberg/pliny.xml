@@ -27,7 +27,6 @@
 <text>
   <body>
     <div n="36">
-
         <p>
           <seg n="1">
           Lapidum natura restat: hoc est praecipua morum insania:
@@ -41,66 +40,64 @@
           durissima sui materia caedimus hos trahimusque
           nulla alia quam deliciarum causa. quos transcendisse quoque
           mirum fuit
-        </seg>
-        <seg n="2">
-         in portento prope maiores habuere
-        <placeName n="urn:cite2:pliny:place:pl1">alpiis</placeName>
-        ab <persName n="urn:cite2:pliny:person:p1">hannibale</persName>
-        exsuperatas et postea
-        <rs type="ethnic" n="urn:cite2:pliny:ethnic:et1">acimbris</rs>:
-        Nunc <choice><sic>ipsae</sic><corr>ipsa</corr></choice> caeduntur
-        in mille genera marmorum promunturia aperiuntur mari et rerum natura
-        agitur in planum euehimus ea <choice><sic>quae</sic><corr>que</corr></choice>
-        separandis gentibus pro terminis constituta erant: Navesque marmorum
-        causa fiunt ac per fluctus saeuissimam rerum naturae partem. huc
-        illuc portantur iuga maiore <choice><sic>etiannum</sic><corr>etiamnum</corr></choice>
-        uenia. quam cum ad frigidos
-        <del>ut</del> potus
-        <del>us</del> uas
-        petitur in nubila caeloque proximae rupes cauantur ut bibatur glacies.
-        </seg>
-        <seg n="3">
-        et cum quisque cogitet et quae praetia horum audiat quas uehi
-        trahique moles videat. et quam sine <choice><sic>iis</sic><corr>hiis</corr></choice>
-        multorum sit beatior uita: ista facere immo verius pati
-        mortales: quos ob usus quasue ad uoluptates alias Nisi inter maculas lapidum
-        iaceant ceu uero non tenebris Noctium dimidia parte uitae
-        cuiusque gaudia haec auferentibus:^
-        </seg>
+          </seg>
+          <seg n="2">
+          in portento prope maiores habuere
+          <placeName n="urn:cite2:pliny:place:pl1">alpiis</placeName>
+          ab <persName n="urn:cite2:pliny:person:p1">hannibale</persName>
+          exsuperatas et postea
+          <rs type="ethnic" n="urn:cite2:pliny:ethnic:et1">acimbris</rs>:
+          Nunc <choice><sic>ipsae</sic><corr>ipsa</corr></choice> caeduntur
+          in mille genera marmorum promunturia aperiuntur mari et rerum natura
+          agitur in planum euehimus ea <choice><sic>quae</sic><corr>que</corr></choice>
+          separandis gentibus pro terminis constituta erant: Navesque marmorum
+          causa fiunt ac per fluctus saeuissimam rerum naturae partem. huc
+          illuc portantur iuga maiore <choice><sic>etiannum</sic><corr>etiamnum</corr></choice>
+          uenia. quam cum ad frigidos
+          <del>ut</del> potus <del>us</del> uas
+          petitur in nubila caeloque proximae rupes cauantur ut bibatur glacies.
+          </seg>
+          <seg n="3">
+          et cum quisque cogitet et quae praetia horum audiat quas uehi
+          trahique moles videat. et quam sine <choice><sic>iis</sic><corr>hiis</corr></choice>
+          multorum sit beatior uita: ista facere immo verius pati
+          mortales: quos ob usus quasue ad uoluptates alias Nisi inter maculas lapidum
+          iaceant ceu uero non tenebris Noctium dimidia parte uitae
+          cuiusque gaudia haec auferentibus:^
+          </seg>
         </p>
-
-
-
-
-      <div n="2">
         <p>
-        Ingens ista reputantem subit etiam antiquitatis rubor: exstant censoriae leges
-        <rs type ="padj" n="urn:cite2:pliny:person.v1:p61">claudianae</rs> in cenis glires et alia dictu
-        minora. adponi uetantes marmora invehi maria
-        huius rei causa transiri quae uitaret lex. nulla lata est dicat fortassis aliquis: non
-        enim inuehebantur: id quidem falso <num type ="cardinal" value="360">CCC:LX</num>: columnas
-        <persName n="urn:cite2:pliny:person:p2"><choice><abbr>m.</abbr><expan>marcus</expan></choice>
-        scaurii</persName> aedilitate ad scaenam theatri temporari: et uix mense
-        uno futuri in usu uiderunt portari silentio legum: sed publicis nimirum indulgentes
-        uoluptatibus id ipsum cura ut quam magis uia inrepunt uitia quam publica: quo enim
-        alio modo in priuatos <choice><sic>usuus</sic><corr>usus</corr></choice> uenere:
-        ebora: aurum gemmae aut omnino diis reliquimus.^
-        Verum esto indulserint publicis
-        uoluptatibus <choice><sic>etianne</sic><corr>etiamne</corr></choice> tacuerunt
-        maximas earum atque adeo duodequadragenum pedum
-        <rs type="padj" n="urn:cite2:pliny:person.v1:p28"><choice><sic>lucullei</sic><corr>luculli</corr></choice></rs>
-        marmoris in atrio <persName n="urn:cite2:pliny:person:p2">scauri</persName> conlocari nec
-        clam id occulteque factum est. satis dare
-        sibi damni infecti coegit re redemptor cloacarum cum in
-        <placeName n="urn:cite2:pliny:place.v1:pl47">palatium</placeName>
-        <choice><sic>eae</sic><corr>hae</corr></choice> traherentur non ergo in tam malo exemplo:
-        moribus caueri utilius fuerat: tacuere
-        tantas moles in priuatam domum trahi praeter fictilia deorum fastigia.^
+          <seg n="4">Ingens ista reputantem subit etiam antiquitatis rubor: exstant censoriae leges
+          <rs type ="padj" n="urn:cite2:pliny:person.v1:p61">claudianae</rs> in cenis glires et alia dictu
+          minora. adponi uetantes marmora invehi maria
+          huius rei causa transiri quae uitaret lex. nulla lata est
+          </seg>
+          <seg n="5">
+          dicat fortassis aliquis: non enim inuehebantur: id quidem falso
+          <num type ="cardinal" value="360">CCC:LX</num>: columnas
+          <persName n="urn:cite2:pliny:person:p2"><choice><abbr>m.</abbr><expan>marcus</expan></choice>
+          scaurii</persName> aedilitate ad scaenam theatri temporari: et uix mense
+          uno futuri in usu uiderunt portari silentio legum: sed publicis nimirum indulgentes
+          uoluptatibus id ipsum cura ut quam magis uia inrepunt uitia quam publica: quo enim
+          alio modo in priuatos <choice><sic>usuus</sic><corr>usus</corr></choice> uenere:
+          ebora: aurum gemmae aut omnino diis reliquimus.^
+          </seg>
         </p>
-      </div>
-      <div n="3">
         <p>
-          Nec potest uideri <persName n="urn:cite2:pliny:person.v1:p2">scaurus</persName>
+          <seg n="6">Verum esto indulserint publicis uoluptatibus <choice><sic>etianne</sic><corr>etiamne</corr></choice>
+          tacuerunt maximas earum atque adeo duodequadragenum pedum
+          <rs type="padj" n="urn:cite2:pliny:person.v1:p28"><choice><sic>lucullei</sic><corr>luculli</corr></choice></rs>
+          marmoris in atrio <persName n="urn:cite2:pliny:person:p2">scauri</persName> conlocari nec
+          clam id occulteque factum est. satis dare
+          sibi damni infecti coegit re redemptor cloacarum cum in
+          <placeName n="urn:cite2:pliny:place.v1:pl47">palatium</placeName>
+          <choice><sic>eae</sic><corr>hae</corr></choice> traherentur non ergo in tam malo exemplo:
+          moribus caueri utilius fuerat: tacuere
+          tantas moles in priuatam domum trahi praeter fictilia deorum fastigia.^
+          </seg>
+        </p>
+        <p>
+          <seg n="7">Nec potest uideri <persName n="urn:cite2:pliny:person.v1:p2">scaurus</persName>
           rudi et huius mali in prouidae ciuitati obrepisse quodam uitii
           rudimento iam: <persName n="urn:cite2:pliny:person.v1:p62"><choice><abbr>l:</abbr><expan>lucium</expan></choice> crassum</persName>
           oratorem illum qui primus peregrini marmoris columnas habuit
@@ -110,44 +107,48 @@
           in <choice><sic>iurgis</sic><corr>iurgiis</corr></choice> ob id
           <persName n="urn:cite2:pliny:person.v1:p64">uenerem</persName>
           <rs type="pladj" n="urn:cite2:pliny:place.v1:pl47">palatinam</rs>
-          appellauerat: Nimirum ista omisere moribus uictis: frustraque interdicta
+          appellauerat: </seg>
+          <seg n="8">Nimirum ista omisere moribus uictis: frustraque interdicta
           quae uetuerant cernentes nullas potius quam inritas esse leges maluerunt. haec
           atque quae secuntur melioris esse nos probabunt. quis enim hodie:
           tantarum columnarum atrium habet<unclear>n</unclear>. sed priusquam de marmoribus dicamus
           hominum in <choice><sic>iis</sic><corr>hiis</corr></choice> praeferenda
-          iudicamus praetia: ante igitur artifices per <choice><sic>censibiumus</sic><corr>censebimus</corr></choice>
+          iudicamus praetia: ante igitur artifices <w>per<choice><sic>censibiumus</sic><corr>censebimus</corr></choice></w>
+          </seg>
         </p>
-      </div>
-      <div n="4">
-        <p>marmore <choice><sic>scalpendo</sic><corr>sculpendo</corr></choice>.
-        primi omnium in claruerunt
-        <persName n="urn:cite2:pliny:person:p3"><choice><sic>diepenus</sic><corr>diedenus</corr></choice></persName> et
-        <persName n="urn:cite2:pliny:person:p4">scyllis</persName>: geniti
-        in <placeName n="urn:cite2:pliny:place:pl3">creta</placeName> insula
-        <choice><sic>etiannum</sic><corr>etiamnum</corr></choice>
-        <rs type="ethnic" n="urn:cite2:pliny:ethnic:et2">mediis</rs> imperantibus
-        priusque quam <persName n="urn:cite2:pliny:person:p6">cyrus</persName> in
-        <rs type="ethnic" n="urn:cite2:pliny:ethnic:et3">persis</rs> regnare
-        inciperet. hoc est olympiade circiter <choice><sic>quinquagensima</sic>
-        <corr>quinquagesima</corr></choice>.^
-        Hi <placeName n="urn:cite2:pliny:place:pl4">sicyonem</placeName> se
-        contulere quae diu fuit officinarum omnium talium patria deorum simulacra
-        publice locauerat hiis <rs type="ethnic" n="urn:cite2:pliny:ethnic:et4">sicyoni</rs>:
-        quae priusquam absoluerentur artifices iniuriam quaesti abiere
-        in <rs type="ethnic" n="urn:cite2pliny:ethnic:et5">aetolos</rs>:
-        <choice><sic>protenus</sic><corr>protinus</corr></choice>
-        <placeName n="urn:cite2:pliny:place:pl4">sicyonem</placeName> fames inuasit.
-        ac sterelitas maerorque dirus: re medium petentibus:
-        <persName n="urn:cite2:pliny:person:p8">apollo pythius</persName> respondit:
-        si <persName n="urn:cite2:pliny:person:p3">dipoenus</persName> et
-        <persName n="urn:cite2:pliny:person:p4">scyllis</persName>
-        deorum simulacra perfecissent: quod magnis mercedibus obsequiisque
-        <choice><sic>imperatum</sic><corr>impetratum</corr></choice> est fuere autem
-        simulacra ea <persName n="urn:cite2:pliny:person:p8">apollinis</persName>:
-        <persName n="urn:cite2:pliny:person:p9">dianae</persName>:
-        <persName n="urn:cite2:pliny:person:p10">herculis</persName>
-        <persName n="urn:cite2:pliny:person:p11">minervae</persName>: quo de caelo
-        postea tactum est.^ Cum hi essent iam fuerat in
+        <!--
+        <p>
+          <seg n="9">marmore <choice><sic>scalpendo</sic><corr>sculpendo</corr></choice>.
+          primi omnium in claruerunt
+          <persName n="urn:cite2:pliny:person:p3"><choice><sic>diepenus</sic><corr>diedenus</corr></choice></persName> et
+          <persName n="urn:cite2:pliny:person:p4">scyllis</persName>: geniti
+          in <placeName n="urn:cite2:pliny:place:pl3">creta</placeName> insula
+          <choice><sic>etiannum</sic><corr>etiamnum</corr></choice>
+          <rs type="ethnic" n="urn:cite2:pliny:ethnic:et2">mediis</rs> imperantibus
+          priusque quam <persName n="urn:cite2:pliny:person:p6">cyrus</persName> in
+          <rs type="ethnic" n="urn:cite2:pliny:ethnic:et3">persis</rs> regnare
+          inciperet. hoc est olympiade circiter <choice><sic>quinquagensima</sic>
+          <corr>quinquagesima</corr></choice>.^
+          Hi <placeName n="urn:cite2:pliny:place:pl4">sicyonem</placeName> se
+          contulere quae diu fuit officinarum omnium talium patria deorum simulacra
+          publice locauerat hiis <rs type="ethnic" n="urn:cite2:pliny:ethnic:et4">sicyoni</rs>:
+          quae priusquam absoluerentur artifices iniuriam quaesti abiere
+          in <rs type="ethnic" n="urn:cite2pliny:ethnic:et5">aetolos</rs>:
+          <choice><sic>protenus</sic><corr>protinus</corr></choice>
+          <placeName n="urn:cite2:pliny:place:pl4">sicyonem</placeName> fames inuasit.
+          ac sterelitas maerorque dirus: re medium petentibus:
+          <persName n="urn:cite2:pliny:person:p8">apollo pythius</persName> respondit:
+          si <persName n="urn:cite2:pliny:person:p3">dipoenus</persName> et
+          <persName n="urn:cite2:pliny:person:p4">scyllis</persName>
+          deorum simulacra perfecissent: quod magnis mercedibus obsequiisque
+          <choice><sic>imperatum</sic><corr>impetratum</corr></choice> est fuere autem
+          simulacra ea <persName n="urn:cite2:pliny:person:p8">apollinis</persName>:
+          <persName n="urn:cite2:pliny:person:p9">dianae</persName>:
+          <persName n="urn:cite2:pliny:person:p10">herculis</persName>
+          <persName n="urn:cite2:pliny:person:p11">minervae</persName>: quo de caelo
+          postea tactum est.^
+
+          Cum hi essent iam fuerat in
         <placeName n="urn:cite2:pliny:place:pl5">chio</placeName> insula
         <persName n="urn:cite2:pliny:person:p12">melas</persName>
         <choice><sic>scalptor</sic><corr>sculptor</corr></choice>. dein filius
@@ -760,7 +761,7 @@
    <persName n="urn:cite2:pliny:person.v1:p29">herodotus</persName>: totum opus <num n="12">XII</num>: regum esse dicit. Novis simique <persName n="urn:cite2:pliny:person.v1:p30">psamethichi</persName>. Causas faciendi: varie inter praetantur <persName n="urn:cite2:pliny:person.v1:p31">demoteles</persName> regia moteri diffuisse lyceas sepulcrum moeridis. plures solis sacrum id exstructum quod maxime creditur. hinc utique sumpsisse <persName n="urn:cite2:pliny:person.v1:p33">daedalum</persName>: exemplar eius labyrinthi quem fecit increta non est dubium. sed <w>ce<unclear>nter</unclear>isimam</w> tantum portionem eius imitatum quae itinerum ambages occursusque acre cussus  inexplicabiles continet: non ut pauimentis puerorum ueludigris campestribus uidemus breui lagines millia passuum plura ambulationis continentem. sedere <unclear>bris</unclear> foribus inditis ad fallendos occursus redeundum que inerrores eosdem. Secundus hic fuit ab
    <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName> labyrinthus testius in lemno: quas tus in <placeName n="urn:cite2:pliny:place.v1:pl21">italia</placeName> omnis lapide polito fornicibus tecti: <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName> quod miror equidem intro itu lapidis eparo columnisque reliqua <choice><sic>estenite</sic><corr>existenite</corr></choice> molibus compositis quare lis soluere ne saecula quidem possint adiuuantibus <placeName n="urn:cite2:pliny:place.v1:pl23">heracleo</placeName> politis quod opus inuisum mire spectauere. Positionem operis eius singularque pasti <w>sena<unclear>tt</unclear>are</w> non est: cum sit in regio nes diuisum atque praefecturas quas uocant nomos:
    <num n="21">XXI</num> nominibus eorum totidem uastis dominibus ad tributis praeterea templa omnia <placeName n="urn:cite2:pliny:place.v1:pl22">aegypti</placeName> deorum contineat superque nemesis <num n="11">XI</num> aediculis incluserit pyramides compluses quadringenarum             binarum senas; <choice><sic>sa</sic><corr>asa</corr></choice> dice aruras optinentes; fessi iam fundo;
-               per ueniunt ad uiarum illum in explicabilem errorem; quin et cenacula cliuis excelsa; posticusque descenduntur non agenis gradibus. Intus columna porphyrite lapide
+   per ueniunt ad uiarum illum in explicabilem errorem; quin et cenacula cliuis excelsa; posticusque descenduntur non agenis gradibus. Intus columna porphyrite lapide
                deorum simulacra regum statuae; monsrifciae effigies; <w>qua<unclear>s</unclear></w> undam <choice><sic>domum</sic><corr>dommum</corr></choice> talis est situs ut
                adaperientibus foreston itrum intus terribible existat; maire autem <unclear>inpastettratitus</unclear> est per tenebra Aliae rursus exiram urum labyrinthi aedificiorum
                moles pteron appellant inde aliae per fossis cuniculis sub terra ne aedomus; refecit unus omnino pauca ibi <persName n="urn:cite2:pliny:person.v1:p37">chaeremon</persName> spado nec thebis regis. <num n="500">D</num> ante <persName n="urn:cite2:pliny:person.v1:p38">alexandrum magnum</persName> idquoque traditur fulsisse trabibus spinae oleo incoctae dum fornices quadrati lapides adsurgerent Et de cretico labyrintho satis dictum est. lemnius similis illi columnis tantum <num n="150">CL</num> memorabilior fuit quarum in officina turbines ita librati pependerunt ut puero circum agente et ornarentur architecti fecere milus <persName n="urn:cite2:pliny:person.v1:p39">etrhoecus</persName> et <persName n="urn:cite2:pliny:person.v1:p40">theodorus</persName>
