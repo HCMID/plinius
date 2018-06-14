@@ -619,10 +619,10 @@
           <placeName n="urn:cite2:pliny:place.v1:pl2">athenis</placeName> templum
           <persName n="urn:cite2:pliny:person.v1:p20">iovis</persName>
           <placeName n="urn:cite2:pliny:place:v1:pl11">olympii</placeName>. ex quo
-          <persName n="urn:cite2:pliny:place:v1:p34">sylla</persName>
+          <persName n="urn:cite2:pliny:place:v1:5">sylla</persName>
           <placeName n="urn:cite2:pliny:place.v1:pl91">capitolinis</placeName> aedibus advexerat columnas:^
           Fuit tamen inter lapidem atque marmor differentia iam et apud
-          <persName n="urn:cite2:pliny:place:v1:p34">homerum</persName>
+          <persName n="urn:cite2:pliny:person.v1:p35">homerum</persName>
         </ab>
         <ab n="46">
           dicit enim marmoreo saxo percussum sed hactenus regias quoque domus cum lautissime praeter aes aurum
@@ -680,7 +680,7 @@
         <ab n="50">
           Nascitur autem in <placeName n="urn:cite2:pliny:place.v1:pl5">heo</placeName> insula. solumque: paene hoc
           marmore ab amatore nomen accepit: inter hos primum ut arbitror marmoreos parietes habuit scaena
-          <persName n="urn:cite2:pliny:person.v1:p32">scauri</persName> Non facile dixerim: secto an solidis glaebis
+          <persName n="urn:cite2:pliny:person.v1:p2">scauri</persName> Non facile dixerim: secto an solidis glaebis
           polito: sicuti est hodie <persName n="urn:cite2:pliny:person.v1:p20">iovis</persName> tonantus aedis in
           <placeName n="urn:cite2:pliny:place.v1:pl91">capitolio</placeName>. Nondum enim
           <choice><sic>septe</sic><corr>secti</corr></choice> marmoris uestigia inuenio in
@@ -861,7 +861,7 @@
           sunt alii duo unus a <persName n="urn:cite2:pliny:person.v1:p50">zmarre</persName> positus alter a
           <persName n="urn:cite2:pliny:person.v1:p51">phio</persName> sine notis quadragenum octogenum cubitorum
           <placeName n="urn:cite2:pliny:place.v1:pl19">Alexandriae</placeName> statuit unum
-          <persName n="urn:cite2:pliny:person.v1:p52">ptolemaeus philadelphus</persName> octoginta cubitorum
+          <persName n="urn:cite2:pliny:person.v1:p28">ptolemaeus philadelphus</persName> octoginta cubitorum
           ceciderat eum <persName n="urn:cite2:pliny:person.v1:p53">necthebis</persName> rex purum maiusque
           opus in deuehendo: statuendoue: multum est quam in <unclear>exidendo</unclear> a
           <persName n="urn:cite2:pliny:person.v1:p54">satyro</persName> architecto: aliqui deuectum tradunt rati.
