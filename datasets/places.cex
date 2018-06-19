@@ -1,24 +1,24 @@
 URN#Label
-urn:cite2:pliny:place.v1:pl1#Alps
-urn:cite2:pliny:place.v1:pl2#Athens
-urn:cite2:pliny:place.v1:pl3#Creta
-urn:cite2:pliny:place.v1:pl4#Sicyon
-urn:cite2:pliny:place.v1:pl5#Chio
-urn:cite2:pliny:place.v1:pl6#Delos
-urn:cite2:pliny:place.v1:pl7#Rome
-urn:cite2:pliny:place.v1:pl8#Lebedus
-urn:cite2:pliny:place.v1:pl9#Thasos
-urn:cite2:pliny:place.v1:pl10#Argos
-urn:cite2:pliny:place.v1:pl11#Olympus
+urn:cite2:pliny:place.v1:pl1#The Alps ("Alpes Montes," Barrington Atlas Map 1, E2)
+urn:cite2:pliny:place.v1:pl2#Athens ("Athenae," Barrington Atlas Map 59, section 3B)
+urn:cite2:pliny:place.v1:pl3#Creta ("Creta," Barrington Atlas Map 60, section D2)
+urn:cite2:pliny:place.v1:pl4#Sicyon ("Sicyon," Barrington Atlas Map 58, section D2)
+urn:cite2:pliny:place.v1:pl5#Chios ("Chios," Barrington Atlas Map 56, section B5)
+urn:cite2:pliny:place.v1:pl6#Delos ("Delos," Barrington Atlas Map 61, section A3)
+urn:cite2:pliny:place.v1:pl7#Rome ("Roma," Barrington Atlas Map 43, section B2)
+urn:cite2:pliny:place.v1:pl8#
+urn:cite2:pliny:place.v1:pl9#Thasos ("Thasos," Barrington Atlas Map 51, section D3)
+urn:cite2:pliny:place.v1:pl10#Argos ("Argos," Barrington Atlas Map 58, section D2)
+urn:cite2:pliny:place.v1:pl11#
 urn:cite2:pliny:place.v1:pl12#Halicarnassus
 urn:cite2:pliny:place.v1:pl13#Gaul
 urn:cite2:pliny:place.v1:pl14#Ethiopia
 urn:cite2:pliny:place.v1:pl15#India
 urn:cite2:pliny:place.v1:pl16#Tibur 
 urn:cite2:pliny:place.v1:pl17#Carystus
-urn:cite2:pliny:place.v1:pl18#Lesbos
+urn:cite2:pliny:place.v1:pl18#Lesbos/Lebedos ("Lesbos," Barrington Atlas Map 56, section C3)
 urn:cite2:pliny:place.v1:pl19#Alexandria
-urn:cite2:pliny:place.v1:pl20#Ravennae
+urn:cite2:pliny:place.v1:pl20#Ravenna
 urn:cite2:pliny:place.v1:pl21#Italy
 urn:cite2:pliny:place.v1:pl22#Egypt
 urn:cite2:pliny:place.v1:pl23#Heracleopolis
@@ -47,7 +47,7 @@ urn:cite2:pliny:place.v1:pl45#Campus Martius
 urn:cite2:pliny:place.v1:pl46#Alabandica
 urn:cite2:pliny:place.v1:pl47#Palatine Hill
 urn:cite2:pliny:place.v1:pl48#Ambracia
-urn:cite2:pliny:place.v1:pl49#Cleonae
+urn:cite2:pliny:place.v1:pl49#Cleonae ("Kleonai," Barrington Atlas Map 58, section D2)
 urn:cite2:pliny:place.v1:pl50#Lunensia
 urn:cite2:pliny:place.v1:pl51#Adriatic Sea
 urn:cite2:pliny:place.v1:pl52#Rhamnus
@@ -64,7 +64,7 @@ urn:cite2:pliny:place.v1:pl62#Gardens of Servilianis
 urn:cite2:pliny:place.v1:pl63#Samothrace
 urn:cite2:pliny:place.v1:pl64#Circus Flaminius
 urn:cite2:pliny:place.v1:pl65#Rhodes
-urn:cite2:pliny:place.v1:pl66#Temple of the Sosian Apollo
+urn:cite2:pliny:place.v1:pl66#Olympia
 urn:cite2:pliny:place.v1:pl67#Pantheon
 urn:cite2:pliny:place.v1:pl68#Mausoleum at Halicarnassus
 urn:cite2:pliny:place.v1:pl69#Portico of Nations
