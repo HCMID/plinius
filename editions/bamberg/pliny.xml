@@ -288,7 +288,7 @@
           <placeName n="urn:cite2:pliny:place.v1:pl59">pario</placeName> colonia
           <placeName n="urn:cite2:pliny:place.v1:pl59">propontidis</placeName>
           par <persName n="urn:cite2:pliny:person.v1:p64">ueneri</persName>
-          <persName n="urn:cite2:pliny:place.v1:pl55">cnidae</persName>
+          <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et12">cnidae</rs>
           nobilitate et iniuria. ad amauit enim <persName n="urn:cite2:pliny:person.v1:p83">alcetas</persName>
           <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et14">rhodius</rs> atque in eo quoque simile amoris
           uestigium reliquid:
@@ -365,7 +365,7 @@
           tamen abducunt quoniam otiosorum et in magno loci silentio talis admiratio est. qua de causa ignoratur
           artifex eius quoque <persName n="urn:cite2:pliny:person.v1:p64">ueneris</persName> quam
           <persName n="urn:cite2:pliny:person.v1:p81">uespasianus</persName>
-          imperator in operibus <placeName n="urn:cite2:pliny:place.v1:pl57">pacis</placeName> suae dicauit:
+          imperator in operibus <persName n="urn:cite2:pliny:person.v1:p198">pacis</persName> suae dicauit:
           antiquorum dignam fama:^
         </ab>
         <ab n="28">
@@ -1043,7 +1043,7 @@
           <add>talentis</add> tradunt: magno animo ne quid omittamus:
           <persName n="urn:cite2:pliny:person.v1:p28">ptolemei</persName> regis: quo in ea permiserit
           <persName n="urn:cite2:pliny:person.v1:p208">sostrati</persName>
-          <placeName n="urn:cite2:pliny:place.v1:pl55">gnidi</placeName>
+          <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et12">gnidi</rs>
           architecti structura ipsa nomen inscribi: usus eius nocturno nauium cursu ignes ostendere ad praenuntianda
           uada <choice><sic>portuusque</sic><corr>portusque</corr></choice> introitum quales iam compluribus flagrant:
           sicut <placeName n="urn:cite2:pliny:place.v1:pl43">ostiae</placeName> ac
