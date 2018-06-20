@@ -1,22 +1,22 @@
-URN#Label
-urn:cite2:pliny:place.v1:pl1#The Alps
-urn:cite2:pliny:place.v1:pl2#Athens
-urn:cite2:pliny:place.v1:pl3#Creta
-urn:cite2:pliny:place.v1:pl4#Sicyon
-urn:cite2:pliny:place.v1:pl5#Chios
-urn:cite2:pliny:place.v1:pl6#Delos
-urn:cite2:pliny:place.v1:pl7#Rome
-urn:cite2:pliny:place.v1:pl8#
-urn:cite2:pliny:place.v1:pl9#Thasos
-urn:cite2:pliny:place.v1:pl10#Argos
-urn:cite2:pliny:place.v1:pl11#
-urn:cite2:pliny:place.v1:pl12#Halicarnassus
-urn:cite2:pliny:place.v1:pl13#Gaul
-urn:cite2:pliny:place.v1:pl14#Ethiopia
-urn:cite2:pliny:place.v1:pl15#India
+URN#Label#Pleiades ID
+urn:cite2:pliny:place.v1:pl1#The Alps#783
+urn:cite2:pliny:place.v1:pl2#Athens#579885
+urn:cite2:pliny:place.v1:pl3#Creta#589748
+urn:cite2:pliny:place.v1:pl4#Sicyon#570668
+urn:cite2:pliny:place.v1:pl5#Chios#550497
+urn:cite2:pliny:place.v1:pl6#Delos#599588
+urn:cite2:pliny:place.v1:pl7#Rome#423025
+urn:cite2:pliny:place.v1:pl8#Argos#570106
+urn:cite2:pliny:place.v1:pl9#Halicarnassus#599636
+urn:cite2:pliny:place.v1:pl10#Gaul#993
+urn:cite2:pliny:place.v1:pl11#Ethiopia#39274
+urn:cite2:pliny:place.v1:pl12#India#50004
+urn:cite2:pliny:place.v1:pl13#Carystus#570336
+urn:cite2:pliny:place.v1:pl14#Lesbos#550696
+urn:cite2:pliny:place.v1:pl15#Alexandria, Egypt
 urn:cite2:pliny:place.v1:pl16#
-urn:cite2:pliny:place.v1:pl17#Carystus
-urn:cite2:pliny:place.v1:pl18#Lesbos/Lebedos
+urn:cite2:pliny:place.v1:pl17#
+urn:cite2:pliny:place.v1:pl18#
 urn:cite2:pliny:place.v1:pl19#Alexandria, Egypt
 urn:cite2:pliny:place.v1:pl20#Ravenna
 urn:cite2:pliny:place.v1:pl21#Italy
