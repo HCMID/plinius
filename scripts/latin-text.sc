@@ -6,7 +6,19 @@ import java.text.Normalizer
 
 //val coll = Cite2Urn("urn:cite2:mid:orcafied.plinius:")
 
+case class StringCount(s: String, count: Int) {
+  def cex :  String = {
+    s + "#" + count
+  }
+}
 
+case class StringOccurrence(urn: CtsUrn, s: String)
+
+def stringSeq = tokens.map( tkn => {
+    // this step is ok...
+    StringOccurrence(tkn.analysis.editionUrn, tkn.analysis.readWithAlternate)
+  }
+)
 // Obtain a full TextRepository object from source files:
 val catalog = "editions/catalog.cex"
 val citation = "editions/citation.cex"
@@ -61,7 +73,6 @@ def tokenHisto(tokens: Vector[TokenAnalysis]) : Vector[StringCount] = {
 }
 
 def tokenIndex(tokens: Vector[TokenAnalysis]) : Vector[String] = {
-  def stringSeq = tokens.map( t => StringOccurrence(t.analysis.editionUrn, t.readWithAlternate.text))
   def grouped = stringSeq.groupBy ( occ => occ.s).toVector
   val idx = for (grp <- grouped) yield {
     val str = grp._1
