@@ -5,7 +5,6 @@ import edu.holycross.shot.mid.latinmodel._
 import java.text.Normalizer
 
 //val coll = Cite2Urn("urn:cite2:mid:orcafied.plinius:")
-
 case class StringCount(s: String, count: Int) {
   def cex :  String = {
     s + "#" + count
