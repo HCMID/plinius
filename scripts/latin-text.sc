@@ -44,14 +44,9 @@ def strToCps(s: String, cpVector: Vector[Int] = Vector.empty[Int], idx : Int = 0
 def codepointHisto(corpus: Corpus): Vector[CodePointCount] = {
 	val bigString:String =  Normalizer.normalize(corpus.nodes.view.map(_.text).reduce(_ + _).replaceAll("\\s", ""), Normalizer.Form.NFC)
 
-
-
 	val codePointVec:Vector[Int] = strToCps( bigString )
 	val cpHisto = codePointVec.groupBy(s => s).map(m => (m._1, m._2.size)).toSeq.sortBy(_._2).reverse.toVector
 
-	//val stringHisto = cpHisto.map(m => ( new String(Character.toChars(m._1)), m._2))
-	//stringHisto
-  //cpHisto.map( m => CodePointCount(m_.1, m_.2))
   cpHisto.map{ case (k,v) => CodePointCount(k,v)}
 }
 
