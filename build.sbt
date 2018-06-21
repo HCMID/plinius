@@ -16,7 +16,7 @@ libraryDependencies ++= Seq(
   "org.homermultitext" %% "hmt-textmodel" % "2.2.3",
   "org.homermultitext" %% "hmtcexbuilder" % "3.1.1",
   "edu.holycross.shot" %% "citerelations" % "2.2.0",
-  "edu.holycross.shot.mid" %% "latin-text-model" % "1.1.0"
+  "edu.holycross.shot.mid" %% "latin-text-model" % "1.2.0"
   //"org.vegas-viz" %% "vegas" % "0.3.11"
 
 )
