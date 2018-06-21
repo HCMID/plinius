@@ -2,8 +2,9 @@ import edu.holycross.shot.ohco2._
 import edu.holycross.shot.cite._
 import java.io.PrintWriter
 import edu.holycross.shot.mid.latinmodel._
+import java.text.Normalizer
 
-val coll = Cite2Urn("urn:cite2:mid:orcafied.plinius:")
+//val coll = Cite2Urn("urn:cite2:mid:orcafied.plinius:")
 
 
 // Obtain a full TextRepository object from source files:
@@ -15,8 +16,32 @@ val corpus = textRepo.corpus
 
 
 case class StringCount(s: String, count: Int)
-
+case class CodePointCount(cp: Int, count: Int)
 case class StringOccurrence(urn: CtsUrn, s: String)
+
+
+def strToCps(s: String, cpVector: Vector[Int] = Vector.empty[Int], idx : Int = 0) : Vector[Int] = {
+	if (idx >= s.length) {
+		cpVector
+	} else {
+		val cp = s.codePointAt(idx)
+		strToCps(s, cpVector :+ cp, idx + java.lang.Character.charCount(cp))
+	}
+}
+
+def codepointHisto(corpus: Corpus): Vector[CodePointCount] = {
+	val bigString:String =  Normalizer.normalize(corpus.nodes.view.map(_.text).reduce(_ + _).replaceAll("\\s", ""), Normalizer.Form.NFC)
+
+
+
+	val codePointVec:Vector[Int] = strToCps( bigString )
+	val cpHisto = codePointVec.groupBy(s => s).map(m => (m._1, m._2.size)).toSeq.sortBy(_._2).reverse.toVector
+
+	//val stringHisto = cpHisto.map(m => ( new String(Character.toChars(m._1)), m._2))
+	//stringHisto
+  //cpHisto.map( m => CodePointCount(m_.1, m_.2))
+  cpHisto.map{ case (k,v) => CodePointCount(k,v)}
+}
 
 
 def profileTokens(tokens: Vector[TokenAnalysis]) {
