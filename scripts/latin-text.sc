@@ -4,6 +4,8 @@ import java.io.PrintWriter
 import edu.holycross.shot.mid.latinmodel._
 import java.text.Normalizer
 
+val tokens = LatinTeiReader.fromCorpus(textRepo.corpus)
+
 //val coll = Cite2Urn("urn:cite2:mid:orcafied.plinius:")
 case class StringCount(s: String, count: Int) {
   def cex :  String = {
@@ -86,7 +88,7 @@ def wordList(tokens: Vector[TokenAnalysis]): Vector[String] = {
 
 def profileCorpus (c: Corpus) = {
   println("Citable nodes:  " + c.size)
-  val tokens = LatinTeiReader.fromCorpus(textRepo.corpus)
+
   profileTokens(tokens)
   val lexTokens = tokens.filter(_.analysis.lexicalCategory == LexicalToken)
   val words = wordList(lexTokens)
