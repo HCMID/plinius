@@ -646,10 +646,10 @@
         <ab n="48">
           primum <placeName n="urn:cite2:pliny:place.v1:pl7">romae</placeName> parietes crusta marmoris
           operuisse totos <choice><sic>domu</sic><corr>domus</corr></choice>
-          <choice><sic>ussuae</sic><corr>suae</corr></choice>in <placeName n="urn:cite2:pliny:place.v1:pl95">caelio</placeName> monte
+          <choice><sic>ussuae</sic><corr>suae</corr></choice>in <placeName n="urn:cite2:pliny:place.v1:pl18">caelio</placeName> monte
           <persName n="urn:cite2:pliny:person.v1:p21">cornelius Nepos</persName> tradit:
           <persName n="urn:cite2:pliny:person.v1:p22">mamurram</persName>
-          <placeName n="urn:cite2:pliny:place.v1:pl96">formis</placeName> natum equitem
+          <placeName n="urn:cite2:pliny:place.v1:pl17">formis</placeName> natum equitem
           <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et17"><choice><sic>romnum</sic><corr>romanum</corr></choice></rs>
           praefectum <choice><sic>fabruum</sic><corr>fabrum</corr></choice>
           <persName n="urn:cite2:pliny:person.v1:p23"><choice><abbr>G:</abbr><expan>Gaius</expan></choice>caesaris</persName>
@@ -706,7 +706,7 @@
           scabritie secat <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et29">indica</rs>
           non aeque leuat: sed combusta ea potientes marmora fricare iubentur: simile
           <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et30">naxiae</rs>
-          uitium est et <placeName n="urn:cite2:pliny:place.v1:pl93">coptitidi</placeName>:
+          uitium est et <placeName n="urn:cite2:pliny:place.v1:pl20">coptitidi</placeName>:
           quae uocatur <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et13">aegyptia</rs>
           Haec fuere antiqua genera marmoribus secandis. postea reperta est non minus probanda ex quodam
           <placeName n="urn:cite2:pliny:place.v1:pl51">hadriatici</placeName> maris uado aestu nudante ob seruatione
@@ -897,11 +897,11 @@
         </ab>
         <ab n="70">
           <persName n="urn:cite2:pliny:person.v1:p48">diuus augustus</persName> eam: quae priorem aduexerat miraculi
-          gratia <placeName n="urn:cite2:pliny:place.v1:pl94">puteolis</placeName> perpetuis Naualibus dicauerat incendio
+          gratia <placeName n="urn:cite2:pliny:place.v1:pl19">puteolis</placeName> perpetuis Naualibus dicauerat incendio
           consumpta ea est: <persName n="urn:cite2:pliny:person.v1:p213">diuus claudius</persName> aliquot per annos adseruatam
           quam: <persName n="urn:cite2:pliny:person.v1:p23"><choice><abbr>G:</abbr><expan>Gaius</expan></choice> caesar</persName>
           inportauerat omnibus quae umquam in mari uisa sunt mirabiliores in ipsa turribus
-          <placeName n="urn:cite2:pliny:place.v1:pl94">puteolis</placeName> e puluere exaedificatis per ductam
+          <placeName n="urn:cite2:pliny:place.v1:pl19">puteolis</placeName> e puluere exaedificatis per ductam
           <placeName n="urn:cite2:pliny:place.v1:pl43"><choice><sic>ostiam</sic><corr>ostia</corr></choice></placeName>
           <choice><sic>portuus</sic><corr>portus</corr></choice>
           <choice><sic>gratiam</sic><corr>gratia</corr></choice> mersit Alia ex hoc cura Nauium quae
@@ -980,7 +980,7 @@
           <persName n="urn:cite2:pliny:perspon.v1:186">harmain</persName> regem putant in ea conditum ut uolunt
           inuectam uideri. est Autem saxo naturali elaborata rubrica facies monstri colitur: capitis per
           frontem ambitus centum duos pedes colligit: longitudo pedum: <num type="cardinal" value ="243">ⅭⅭⅩⅬⅢ</num>:
-          est altitudo: a uentre ad summam aspidem in capite: <num type="cardinal" value="61.5">ⅬⅩⅠS:</num>
+          est altitudo: a uentre ad summam aspidem in capite: <num type="cardinal" value="61.5">ⅬⅩⅠS</num>:
         </ab>
         <ab n="78">
           pyramis amplissimi: ex <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et19">arabicis</rs> lapicidinis
@@ -1047,7 +1047,7 @@
           architecti structura ipsa nomen inscribi: usus eius nocturno nauium cursu ignes ostendere ad praenuntianda
           uada <choice><sic>portuusque</sic><corr>portusque</corr></choice> introitum quales iam compluribus flagrant:
           sicut <placeName n="urn:cite2:pliny:place.v1:pl43">ostiae</placeName> ac
-          <placeName n="urn:cite2:pliny:place.v1:pl20">ravennae</placeName>
+          <placeName n="urn:cite2:pliny:place.v1:pl16">ravennae</placeName>
           periculum in continuatione ignium ne sidus existimetur: quoniam e longuinquo similis flammarum aspectus est:
           hic idem architectus primus omnium pensilem ambulationem:
           <placeName n="urn:cite2:pliny:place.v1:pl55">cnidi</placeName> fecisse traditur.^
