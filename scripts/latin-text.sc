@@ -28,7 +28,11 @@ val textRepo = TextRepositorySource.fromFiles(catalog, citation, editions)
 val corpus = textRepo.corpus
 
 
-case class StringCount(s: String, count: Int)
+case class StringCount(s: String, count: Int) {
+    def cex :  String = {
+    s + "#" + count
+  }
+}
 case class CodePointCount(cp: Int, count: Int)
 case class StringOccurrence(urn: CtsUrn, s: String)
 
@@ -62,7 +66,7 @@ def profileTokens(tokens: Vector[TokenAnalysis]) {
 }
 
 def tokenHisto(tokens: Vector[TokenAnalysis]) : Vector[StringCount] = {
-  val strs = tokens.map(_.readWithAlternate.text)
+  val strs = tokens.map(_.analysis.readWithAlternate)
   val grouped = strs.groupBy(w => w).toVector
   val counted =  grouped.map{ case (k,v) => StringCount(k,v.size) }
   counted.sortBy(_.count).reverse
@@ -86,15 +90,22 @@ def wordList(tokens: Vector[TokenAnalysis]): Vector[String] = {
 }
 
 
-def profileCorpus (c: Corpus) = {
+def profileCorpus (c: Corpus, fileBase: String = "corpus", dir: String = "validation") = {
   println("Citable nodes:  " + c.size)
 
   profileTokens(tokens)
   val lexTokens = tokens.filter(_.analysis.lexicalCategory == LexicalToken)
   val words = wordList(lexTokens)
-  new PrintWriter("wordlist.txt"){ write(words.mkString("\n")); close;}
+  new PrintWriter(dir + s"/${fileBase}-wordlist.txt"){ write(words.mkString("\n")); close;}
   val idx = tokenIndex(lexTokens)
-  new PrintWriter("wordindex.txt"){ write(idx.mkString("\n")); close;}
+  new PrintWriter(dir + s"/${fileBase}-wordindex.txt"){ write(idx.mkString("\n")); close;}
+
+  val histoCex = tokenHisto(lexTokens).map(_.cex)
+  new PrintWriter(dir +  s"/${fileBase}-wordhisto.cex"){write(histoCex.mkString("\n")); close; }
+
+
+
+
 
   println("\n\nWrote index of all lexical tokens in file 'wordindex.txt'.")
   println("Wrote list of unique lexical token forms in file 'wordlist.txt'")
