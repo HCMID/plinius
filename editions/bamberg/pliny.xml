@@ -340,7 +340,7 @@
         </ab>
         <ab n="26">
           sed in maxima dignatione <choice><sic>delibro</sic><corr>delubro</corr></choice>:
-          :<persName n="urn:cite2:pliny:person.v1:p108"><w><abbr>GN:</abbr><expan>Gnaeus</expan></w>: domitii</persName>:
+          :<persName n="urn:cite2:pliny:person.v1:p108"><w><abbr>GN</abbr><expan>Gnaeus</expan></w>: domitii</persName>:
           in circo <rs type="ethnic" n="urn:cite2:pliny:person.v1:p218">flaminio</rs>
           <persName n="urn:cite2:pliny:person.v1:p96">neptunus</persName> ipse et
           <persName n="urn:cite2:pliny:person.v1:p109">thetis</persName>:
