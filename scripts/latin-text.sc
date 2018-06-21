@@ -4,7 +4,7 @@ import java.io.PrintWriter
 import edu.holycross.shot.mid.latinmodel._
 import java.text.Normalizer
 
-val tokens = LatinTeiReader.fromCorpus(textRepo.corpus)
+val tokens = LatinTeiReader.fromCorpus(corpus)
 
 //val coll = Cite2Urn("urn:cite2:mid:orcafied.plinius:")
 case class StringCount(s: String, count: Int) {
