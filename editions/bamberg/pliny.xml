@@ -608,7 +608,7 @@
           <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et46">helesbio</rs>:
           <choice><sic>leuidius</sic><corr>liuidius</corr></choice>
           hoc paulo uersicolores quidem maculas: et in totum marmorum apparatum etiam
-          <persName n="urn:cite2:pliny:person:v1:p25">menander</persName>
+          <persName n="urn:cite2:pliny:person.v1:p25">menander</persName>
           diligentissimus: luxuriae interpres primus et raro attigit.
         </ab>
         <ab n="45">
@@ -617,7 +617,7 @@
           <placeName n="urn:cite2:pliny:place.v1:pl2">athenis</placeName> templum
           <persName n="urn:cite2:pliny:person.v1:p20">iouis</persName>
           <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et42">olympii</rs>. ex quo
-          <persName n="urn:cite2:pliny:place:v1:5">sylla</persName>
+          <persName n="urn:cite2:pliny:place.v1:5">sylla</persName>
           <placeName n="urn:cite2:pliny:place.v1:pl91">capitolinis</placeName> aedibus aduexerat columnas:^
           Fuit tamen inter lapidem atque marmor differentia iam et apud
           <persName n="urn:cite2:pliny:person.v1:p35">homerum</persName>.
@@ -630,7 +630,7 @@
           <persName n="urn:cite2:pliny:person.v1:p7"><choice><abbr><choice><sic>m</sic><corr>:M:</corr></choice></abbr><expan>Marcus</expan></choice> ciceronis</persName>
           sale. omnibus enim ostentabant ut magnificum multo inquit magis mirarer si
           <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et40">tiburtino</rs> lapide fecissetis: et
-          <persName n="urn:cite2:pliny:person:v1:p10">hercules</persName>: non fuisset picturis honos alius: non modo
+          <persName n="urn:cite2:pliny:person.v1:p10">hercules</persName>: non fuisset picturis honos alius: non modo
           tantus aliqua marmorum auctoritate.^
         </ab>
         <ab n="47">
@@ -676,7 +676,7 @@
           inuenio: Non in columnis tamen crustisue ut supra
           <placeName n="urn:cite2:pliny:place.v1:pl13">carystis</placeName>
           et in massa ac uilissimo liminum usu. Post hunc <persName n="urn:cite2:pliny:person.v1:p26">lepidum</persName> quadriennio:
-          <persName n="urn:cites:pliny:person.v1:p29"><choice><abbr>:l:</abbr><expan>Lucius</expan></choice> lucullus</persName>
+          <persName n="urn:cite2:pliny:person.v1:p29"><choice><abbr>:l:</abbr><expan>Lucius</expan></choice> lucullus</persName>
           <choice><abbr><choice><sic>cos</sic><corr>cons</corr></choice></abbr><expan>consul</expan></choice> fuit:
           qui nomen ut ex re apparet et <rs type ="padj" n="urn:cite2:pliny:person.v1:p29">lucullaeo</rs>
           marmorei dedit admodum delectatus illo: primus qui <placeName n="urn:cite2:pliny:place.v1:pl7">romam</placeName>
