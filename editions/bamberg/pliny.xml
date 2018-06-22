@@ -340,7 +340,7 @@
         </ab>
         <ab n="26">
           sed in maxima dignatione <choice><sic>delibro</sic><corr>delubro</corr></choice>:
-          :<persName n="urn:cite2:pliny:person.v1:p108"><w><abbr>GN</abbr><expan>Gnaeus</expan></w>: domitii</persName>:
+          :<persName n="urn:cite2:pliny:person.v1:p108"><abbr>GN</abbr><expan>Gnaeus</expan>: domitii</persName>:
           in circo <rs type="ethnic" n="urn:cite2:pliny:person.v1:p218">flaminio</rs>
           <persName n="urn:cite2:pliny:person.v1:p96">neptunus</persName> ipse et
           <persName n="urn:cite2:pliny:person.v1:p109">thetis</persName>:
@@ -445,7 +445,7 @@
         <ab n="33">
           <persName n="urn:cite2:pliny:person.v1:p94">pollio asinius</persName> ut fuit acris uehementiae:
           sic quoque spectari monumenta sua uoluit. in <choice><sic>iis</sic><corr>hiis</corr></choice> sunt centauri
-          nymphas gerentes <persName n="urn:cite2:pliny:person.v1:p151"><w><choice><sic>arcae</sic><corr>archae</corr></choice>silae</w></persName>
+          nymphas gerentes <persName n="urn:cite2:pliny:person.v1:p151"><choice><sic>arcae</sic><corr>archae</corr></choice>silae</persName>
           <persName n="urn:cite2:pliny:person.v1:p152">despiades</persName>: <persName n="urn:cite2:pliny:person.v1:p153">cliomenis</persName>:
           <persName n="urn:cite2:pliny:person.v1:p154">oceanus</persName>: et <persName n="urn:cite2:pliny:person.v1:p20">iuppiter</persName>
           <persName n="urn:cite2:pliny:person.v1:p155">eniochi</persName> <persName n="urn:cite2:pliny:person.v1:p156">appiades</persName>.
@@ -1219,7 +1219,7 @@
         <ab n="102">
           ne ut circum maximum a
           <persName n="urn:cite2:pliny:person.v1:p23">caesare</persName> dictatore exstructum longitudine stadiorum
-          trium latitudine uNius: sedcum aedificiis iugerum quaternum ad sedem <num type="cardinal" value="250000">ⅭⅭⅬʹ</num>
+          trium latitudine uNius: sed cum aedificiis iugerum quaternum ad sedem <num type="cardinal" value="250000">ⅭⅭⅬʹ</num>
           inter magna opera dicamus non <choice><sic>ter</sic><corr>inter</corr></choice> magnifica:
           basilicam <persName n="urn:cite2:pliny:person.v1:p197">pauli</persName>: columnis
           <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et22">ephrygibus</rs> mirabilem: eorumque
