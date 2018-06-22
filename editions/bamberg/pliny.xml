@@ -72,7 +72,7 @@
         <ab n="6">
           Verum esto indulserint publicis uoluptatibus <choice><sic>etianne</sic><corr>etiamne</corr></choice>
           tacuerunt maximas earum atque adeo duodequadragenum pedum
-          <rs type="padj" n="urn:cite2:pliny:person.v1:p28"><choice><sic>lucullei</sic><corr>luculli</corr></choice></rs>
+          <rs type="padj" n="urn:cite2:pliny:person.v1:p139"><choice><sic>lucullei</sic><corr>luculli</corr></choice></rs>
           marmoris in atrio <persName n="urn:cite2:pliny:person:p2">scauri</persName> conlocari nec
           clam id occulteque factum est. satis dare sibi damni infecti coegit re redemptor cloacarum cum in
           <placeName n="urn:cite2:pliny:place.v1:pl47">palatium</placeName>
@@ -676,9 +676,9 @@
           inuenio: Non in columnis tamen crustisue ut supra
           <placeName n="urn:cite2:pliny:place.v1:pl13">carystis</placeName>
           et in massa ac uilissimo liminum usu. Post hunc <persName n="urn:cite2:pliny:person.v1:p26">lepidum</persName> quadriennio:
-          <persName n="urn:cite2:pliny:person.v1:p29"><choice><abbr>:l:</abbr><expan>Lucius</expan></choice> lucullus</persName>
+          <persName n="urn:cite2:pliny:person.v1:p139"><choice><abbr>:l:</abbr><expan>Lucius</expan></choice> lucullus</persName>
           <choice><abbr><choice><sic>cos</sic><corr>cons</corr></choice></abbr><expan>consul</expan></choice> fuit:
-          qui nomen ut ex re apparet et <rs type ="padj" n="urn:cite2:pliny:person.v1:p29">lucullaeo</rs>
+          qui nomen ut ex re apparet et <rs type ="padj" n="urn:cite2:pliny:person.v1:p139">lucullaeo</rs>
           marmorei dedit admodum delectatus illo: primus qui <placeName n="urn:cite2:pliny:place.v1:pl7">romam</placeName>
           inuexit atrum. alioqui cum cetera maculis aut coloribus commendentur:
         </ab>
