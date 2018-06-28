@@ -1,2 +1,5 @@
 header line, omitted in parsing
-testdata.rule1#nunc
+testdata.rule1#etiam
+testdata.rule2#ut
+testdata.rule3#cum
+testdata.rule4#atque
