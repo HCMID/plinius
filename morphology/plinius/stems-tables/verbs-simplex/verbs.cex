@@ -89,7 +89,7 @@ plinymorph.verb85#lexent.n29328#mis#pftact
 plinymorph.verb86#lexent.n7375#cens#conj2
 plinymorph.verb87#lexent.n44698#solu#c3pres
 plinymorph.verb88#lexent.n44698#solu#pftact
-plinymorph.verb89#lexent.n50077#uad#c3jpres
+plinymorph.verb89#lexent.n50077#uad#c3pres
 plinymorph.verb90#lexent.n50077#uas#pftact
 plinymorph.verb91#lexent.n45590#string#c3pres
 plinymorph.verb92#lexent.n45590#strinx#pftact
@@ -97,3 +97,4 @@ plinymorph.verb93#lexent.n34447#pell#c3pres
 plinymorph.verb94#lexent.n34447#pepull#pftact
 plinymorph.verb95#lexent.n14602#doc#conj2
 plinymorph.verb96#lexent.n30406#narr#conj1
+plinymorph.verb97#lexent.n3120#appar#conj2
