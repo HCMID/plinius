@@ -3,6 +3,8 @@
 
 Editing manuscripts of Pliny the Elder, *Natural History*.
 
+See the [project web site](https://hcmid.github.io/plinius/).
+
 
 ## Quick reference
 
