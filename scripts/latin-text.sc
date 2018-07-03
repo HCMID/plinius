@@ -92,9 +92,9 @@ def wordList(tokens: Vector[TokenAnalysis]): Vector[String] = {
 
 def profileCorpus (c: Corpus, fileBase: String = "corpus", dir: String = "validation") = {
   println("Citable nodes:  " + c.size)
-
-  profileTokens(tokens)
-  val lexTokens = tokens.filter(_.analysis.lexicalCategory == LexicalToken)
+  val tkns = LatinTeiReader.fromCorpus(c)
+  profileTokens(tkns)
+  val lexTokens = tkns.filter(_.analysis.lexicalCategory == LexicalToken)
   val words = wordList(lexTokens)
   new PrintWriter(dir + s"/${fileBase}-wordlist.txt"){ write(words.mkString("\n")); close;}
   val idx = tokenIndex(lexTokens)
@@ -110,7 +110,7 @@ def profileCorpus (c: Corpus, fileBase: String = "corpus", dir: String = "valida
   println("\n\nWrote index of all lexical tokens in file 'wordindex.txt'.")
   println("Wrote list of unique lexical token forms in file 'wordlist.txt'")
 
-  val errs = tokens.filter(_.analysis.errors.nonEmpty).map(err => "\n" + err.analysis.editionUrn.toString + s" has ${err.analysis.errors.size} error(s)\n\t" + err.analysis.errors.mkString("\n\t"))
+  val errs = tkns.filter(_.analysis.errors.nonEmpty).map(err => "\n" + err.analysis.editionUrn.toString + s" has ${err.analysis.errors.size} error(s)\n\t" + err.analysis.errors.mkString("\n\t"))
   println("\n\nWrote index of all lexical tokens in file 'wordindex.txt'.")
   println("Wrote list of unique lexical token forms in file 'wordlist.txt'")
 
