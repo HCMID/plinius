@@ -77,7 +77,6 @@ neque
 sub
 obiter
 Numquam
-simulque
 tum
 a
 undique
