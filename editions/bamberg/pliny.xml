@@ -182,7 +182,7 @@
           <placeName n="urn:cite2:pliny:place.v1:pl41">paro</placeName> insula quem lapidem coepere lichniten
           appellare quoniam ad lucernas in cuniculis <choice><sic>caederetur</sic><corr>cederetur</corr></choice> ut auctor
           est <persName n="urn:cite2:pliny:person.v1:p41">uarro</persName>: multis postea candidioribus
-          repertis: nuper uero etiam in <placeName n="urn:cite2:pliny:place.v1:pl50">lunensium</placeName>
+          repertis: nuper uero etiam in <rs type="ethnic" n="urn:cite2:pliny:place.v1:pl50">lunensium</rs>
           lapidicinis. sed in <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et9">phartorum</rs> mirabile proditur glaeba lapidis
           unius cuneis diuidentium soluta imaginem <persName n="urn:cite2:pliny:person.v1:p65">sileni</persName>
           intus extitisse.
