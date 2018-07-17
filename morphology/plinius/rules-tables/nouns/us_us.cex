@@ -24,8 +24,10 @@ agnouninfl.us_us17#us_us#u#neut#abl#sg
 agnouninfl.us_us18#us_us#ua#neut#nom#pl
 agnouninfl.us_us19#us_us#uum#neut#gen#pl
 agnouninfl.us_us20#us_us#ibus#neut#dat#pl
+agnouninfl.us_us20b#us_us#ubus#neut#dat#pl
 agnouninfl.us_us21#us_us#ua#neut#acc#pl
 agnouninfl.us_us22#us_us#ibus#neut#abl#pl
+agnouninfl.us_us22b#us_us#ubus#neut#abl#pl
 agnouninfl.us_us23#us_us#u#neut#voc#sg
 agnouninfl.us_us24#us_us#ua#neut#voc#pl
 
