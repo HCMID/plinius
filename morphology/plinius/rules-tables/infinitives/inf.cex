@@ -2,7 +2,7 @@ RuleUrn#InflectionClass#Ending#Tense#Voice
 lverbinfl.are_inf1#conj1#are#pres#act
 lverbinfl.are_inf2#conj1#ari#pres#pass
 lverbinfl.are_inf3#conj1#auisse#pft#act
-lverbinfl.are_inf3b#conj1#asse#pres#act
+lverbinfl.are_inf3b#conj1#asse#pft#act
 
 lverbinfl.are_inf4#c1pres#are#pres#act
 lverbinfl.are_inf5#c1pres#ari#pres#pass

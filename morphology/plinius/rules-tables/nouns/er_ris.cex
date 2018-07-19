@@ -12,3 +12,16 @@ agnouninfl.er_ris9#er_ris#res#masc#acc#pl
 agnouninfl.er_ris10#er_ris#ribus#masc#abl#pl
 agnouninfl.er_ris11#er_ris#er#masc#voc#sg
 agnouninfl.er_ris12#er_ris#res#masc#voc#pl
+
+agnouninfl.er_ris1#er_ris#er#fem#nom#sg
+agnouninfl.er_ris2#er_ris#ris#fem#gen#sg
+agnouninfl.er_ris3#er_ris#ri#fem#dat#sg
+agnouninfl.er_ris4#er_ris#rem#fem#acc#sg
+agnouninfl.er_ris#er_ris#re#fem#abl#sg
+agnouninfl.er_ris6#er_ris#res#fem#nom#pl
+agnouninfl.er_ris7#er_ris#rum#fem#gen#pl
+agnouninfl.er_ris8#er_ris#ribus#fem#dat#pl
+agnouninfl.er_ris9#er_ris#res#fem#acc#pl
+agnouninfl.er_ris10#er_ris#ribus#fem#abl#pl
+agnouninfl.er_ris11#er_ris#er#fem#voc#sg
+agnouninfl.er_ris12#er_ris#res#fem#voc#pl
