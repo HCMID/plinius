@@ -152,7 +152,7 @@
           <persName n="urn:cite2:pliny:person:p17">hipponacti</persName> notabilis
           <choice><sic>foditas</sic><corr>foeditas</corr></choice>
           <choice><sic>uoltuus</sic><corr>uultuus</corr></choice>
-          erat. quam obrem imaginem euis lasciuia locorum: hi proposuere ridentium
+          erat. quam ob rem imaginem eius lasciuia locorum: hi proposuere ridentium
           circulis. quod <persName n="urn:cite2:pliny:person:p17">hipponax</persName> indignatus
           destrinxit amaritudinem carminum in tantum ut credatur aliquis ad laqueum eos conpulisse quod
           falsum est conplura enim in finitimis insulis simulacra postea fecere:
@@ -171,7 +171,7 @@
           <persName n="urn:cite2:pliny:person:p8">apollinis</persName> in fastigio
           <choice><sic>et</sic><corr>ex</corr></choice> omnibus
           fere quae fecit <persName n="urn:cite2:pliny:person:p48">diuus augustus</persName> patris quoque
-          eorum et delisue re opera et in <placeName n="urn:cite2:pliny:place.v1:pl14">lebedo</placeName> insula
+          eorum et deli fuere opera et in <placeName n="urn:cite2:pliny:place.v1:pl14">lebedo</placeName> insula
         </ab>
         <ab n="14">
           <persName n="urn:cite2:pliny:person:p3">dipoeni</persName>
@@ -235,7 +235,7 @@
           <num type="cardinal" value="26">ⅩⅩⅥ</num>: ebore haec et auro constat. sed in scuto eius
           <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et10">amazonum</rs> proelium caelauit: in tumescente
           ambitum paruae eiusdem concaua parte deorum et gigantum dimicationes. in soliis uero
-          <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et11">laphitarum</rs> et centaurorum: adeo
+          <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et11">laphitharum</rs> et centaurorum: adeo
           momenta omnia capacia artis illi fuere
         </ab>
         <ab n="19">
