@@ -1,6 +1,7 @@
 StemUrn#LexicalEntity#String#Gender#Case#Number
 ag.irrpqui1#lexent.n40103#qui#masc#nom#sg
 ag.irrpqui2#lexent.n40103#cuius#masc#gen#sg
+ag.irrpqui2b#lexent.n40103#cius#masc#gen#sg
 ag.irrpqui3#lexent.n40103#cui#masc#dat#sg
 ag.irrpqui4#lexent.n40103#quem#masc#acc#sg
 ag.irrpqui5#lexent.n40103#quo#masc#abl#sg
