@@ -278,7 +278,7 @@
           <persName n="urn:cite2:pliny:person.v1:p79">scopae</persName> et
           <persName n="urn:cite2:pliny:person.v1:p11">minerua</persName>: Nec maius aliud
           <persName n="urn:cite2:pliny:person.v1:p64">ueneris</persName>
-          <persName n="urn:cite2:pliny:person.v1:p73">praxiteliae</persName>
+          <rs type="padj" n="urn:cite2:pliny:person.v1:p73">praxiteliae</rs>
           specimen. quam quod inter haec sola re moratur. eiusdem est et
           <persName n="urn:cite2:pliny:person.v1:p82">cupido</persName>: obiectus a
           <persName n="urn:cite2:pliny:person.v1:p7">cicerone</persName>
@@ -332,7 +332,8 @@
           <persName n="urn:cite2:pliny:person.v1:101">pothon</persName>:
           qui <placeName n="urn:cite2:pliny:place.v1:pl63">samotrace</placeName> sanctissimis
           <choice><sic>caerimonis</sic><corr>caerimoniis</corr></choice> coluntur. item
-          <persName n="urn:cite2:pliny:person.v1:p8">apollinem</persName> palatinum
+          <persName n="urn:cite2:pliny:person.v1:p8">apollinem</persName>
+          <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et39">palatinum</rs>
           <persName n="urn:cite2:pliny:person.v1:p104">uestam</persName> sedentem laudatam in
           <persName n="urn:cite2:pliny:person.v1:p87">seruilianis</persName> hortis duosque campteras circa eam:
           quorum pares in <persName n="urn:cite2:pliny:person.v1:p94">anii</persName> monimentis sunt ubi et
@@ -340,7 +341,7 @@
         </ab>
         <ab n="26">
           sed in maxima dignatione <choice><sic>delibro</sic><corr>delubro</corr></choice>:
-          :<persName n="urn:cite2:pliny:person.v1:p108"><abbr>GN</abbr><expan>Gnaeus</expan>: domitii</persName>:
+          :<persName n="urn:cite2:pliny:person.v1:p108"><choice><abbr>GN</abbr><expan>Gnaeus</expan></choice>: domitii</persName>:
           in circo <rs type="ethnic" n="urn:cite2:pliny:person.v1:p218">flaminio</rs>
           <persName n="urn:cite2:pliny:person.v1:p96">neptunus</persName> ipse et
           <persName n="urn:cite2:pliny:person.v1:p109">thetis</persName>:
@@ -360,7 +361,7 @@
           alium locum nobilitatura:
         </ab>
         <ab n="27">
-          <placeName n="urn:cite2:pliny:place.v1:pl7">romae</placeName> quidem multitudo operum: etiam oblite ratio ac
+          <placeName n="urn:cite2:pliny:place.v1:pl7">romae</placeName> quidem multitudo operum: etiam obliteratio ac
           <choice><sic>magi</sic><corr>magis</corr></choice> officiorum negotiorumque acerui omnis a contemplatione
           tamen abducunt quoniam otiosorum et in magno loci silentio talis admiratio est. qua de causa ignoratur
           artifex eius quoque <persName n="urn:cite2:pliny:person.v1:p64">ueneris</persName> quam
@@ -392,7 +393,7 @@
           <persName n="urn:cite2:pliny:person.v1:p132">pana</persName>
           <persName n="urn:cite2:pliny:person.v1:p133">chironem</persName> cum
           <persName n="urn:cite2:pliny:person.v1:p110">achille</persName>
-          qui fecerint: praesertim cum capitali satis datione fama iudicet dignos:^
+          qui fecerint: praesertim cum capitali satisdatione fama iudicet dignos:^
         </ab>
         <ab n="30">
           <persName n="urn:cite2:pliny:person.v1:p79">Scopas</persName> habuit aemulos eadem aetate
@@ -524,7 +525,7 @@
           <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et14">rhodi</rs>
         </ab>
         <ab n="38">
-          similiter <rs type="padj" n="urn:cite2:pliny:ethnic.v1:et39">Palatinas</rs>
+          similiter <rs type="pladj" n="urn:cite2:pliny:ethnic.v1:et39">Palatinas</rs>
           domos <persName n="urn:cite2:pliny:person.v1:p32">caesarum</persName> repleuere probatissimis signis
           <persName n="urn:cite2:pliny:person.v1:p122"><choice><sic>craterus</sic><corr>craters</corr></choice></persName>
           cum <persName n="urn:cite2:pliny:person.v1:p123">phythodoro</persName>
