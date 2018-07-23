@@ -432,7 +432,8 @@
           <persName n="urn:cite2:pliny:person.v1:p8">apollinis</persName> delubro cui signo caput
           reposuit <persName n="urn:cite2:pliny:person.v1:p141">auianus euander</persName>: in magna admiratione est
           <persName n="urn:cite2:pliny:person.v1:p10">hercules</persName>
-          <persName n="urn:cite2:pliny:person.v1:p143">menestrati</persName>: et haec ate
+          <persName n="urn:cite2:pliny:person.v1:p143">menestrati</persName>: et
+          <persName n="urn:cite2:pliny:person.v1:p142">haecate</persName>
           <placeName n="urn:cite2:pliny:place.v1:pl75">ephesii</placeName> in templo
           <persName n="urn:cite2:pliny:person.v1:p9">dianae</persName>
           post aedem: in cuius contemplatione admonent aeditui parcere oculis: tanta marmoris radiatio est: Non post
@@ -484,7 +485,7 @@
           <persName n="urn:cite2:pliny:person.v1:p172">dyonisius</persName>: et
           <persName n="urn:cite2:pliny:person.v1:p173">polycles</persName>: aliam
           <persName n="urn:cite2:pliny:person.v1:p64">uenerem</persName> eodem loco
-          <persName n="urn:cite2:pliny:person.v1:p170">philisicus</persName>.
+          <persName n="urn:cite2:pliny:person.v1:p170">philiscus</persName>.
           cetera signa <persName n="urn:cite2:pliny:person.v1:p73">praxiteles</persName>:^
           Idem <persName n="urn:cite2:pliny:person.v1:p173">polycles</persName> et
           <persName n="urn:cite2:pliny:person.v1:p172">dionysius</persName>
@@ -493,7 +494,7 @@
           <persName n="urn:cite2:pliny:person.v1:p175">olympum</persName>
           luctantes. eodem loco <persName n="urn:cite2:pliny:person.v1:p174">heuodorus</persName>: quod est alterum
           in terris symplegama Nobile <persName n="urn:cite2:pliny:person.v1:p64">uenerem</persName> lauantem se:
-          sed <persName n="urn:cite2:pliny:person.v1:p176">aedalsas</persName> stantem
+          se <persName n="urn:cite2:pliny:person.v1:p176">daedalsas</persName> stantem
           <persName n="urn:cite2:pliny:person.v1:p177">polycharimus</persName>:^
         </ab>
         <ab n="36">
@@ -507,7 +508,7 @@
           laudatos <persName n="urn:cite2:pliny:person.v1:p102"><choice><sic>calamidis</sic><corr>clamidis</corr></choice></persName>
           <persName n="urn:cite2:pliny:person.v1:p8">apolline</persName> illius caelatoris
           <persName n="urn:cite2:pliny:person.v1:p103">dercylidis</persName>
-          piotas <placeName n="urn:cite2:pliny:person.v1:p105">amphistrati</placeName>
+          pictas <placeName n="urn:cite2:pliny:person.v1:p105">amphistrati</placeName>
           <placeName n="urn:cite2:pliny:person.v1:p106">callistenen</placeName> stortarum scriptorem.^
         </ab>
         <ab n="37">
