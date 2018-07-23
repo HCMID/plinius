@@ -865,8 +865,7 @@ marmori
 inpressis
 latona
 iN
-monumentis
-et
+monumentiset
 intra
 porticus
 iunonis
@@ -894,7 +893,6 @@ ubi
 canephoros
 maxima
 dignatione
-GN
 Gnaeus
 domitii
 circo
@@ -942,8 +940,7 @@ locum
 nobilitatura
 multitudo
 operum
-oblite
-ratio
+obliteratio
 officiorum
 negotiorumque
 acerui
@@ -1030,7 +1027,7 @@ achille
 fecerint
 praesertim
 capitali
-datione
+satisdatione
 iudicet
 dignos
 Scopas
