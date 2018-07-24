@@ -1,6 +1,6 @@
 # HCMID Pliny Project
 
-Public web site for the project.
+Public web site for the HC MID Plinius project. Click [here](abstract) to see our project abstract.
 
 See the project's [github repository](https://github.com/HCMID/plinius).
 
