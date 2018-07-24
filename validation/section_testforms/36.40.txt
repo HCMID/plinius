@@ -26,5 +26,5 @@ periculo
 diligentissimi
 artificis
 fecisse
-nominantim
+nominatim
 refertur
