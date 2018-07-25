@@ -146,7 +146,7 @@ plinymorph.verb143#lexent.n50968#uinc#c3pres
 plinymorph.verb144#lexent.n50968#uic#pftact
 plinymorph.verb145#lexent.n7554#cern#c3pres
 plinymorph.verb146#lexent.n7554#creu#pftact
-plinymorph.verb147#lexent.n21886#impero#conj1
+plinymorph.verb147#lexent.n21886#imper#conj1
 plinymorph.verb148#lexent.n22350#incip#c3iopres
 plinymorph.verb149#lexent.n22350#incep#pftact
 plinymorph.verb150#lexent.n40089#quer#c3pres
@@ -211,3 +211,8 @@ plinymorph.verb208#lexent.n42192#sacrific#conj1
 plinymorph.verb209#lexent.n44405#sino#conj1
 plinymorph.verb210#lexent.n43092#scrib#c3pres
 plinymorph.verb211#lexent.n43092#scrips#pftact
+plinymorph.verb212#lexent.n10632#constitu#conj3
+plinymorph.verb213#lexent.n23190#infic#c3iopres
+plinymorph.verb214#lexent.n50967#uict#pftpass
+plinymorph.verb215#lexent.n40089#quaer#c3pres
+plinymorph.verb216#lexent.n40089#quaest#pftpass
