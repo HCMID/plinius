@@ -15,8 +15,7 @@ nec
 clam
 occulteque
 factum
-satis
-dare
+satisdare
 damni
 infecti
 coegit
