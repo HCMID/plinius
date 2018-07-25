@@ -33,8 +33,8 @@ urn:cite2:pliny:place.v1:pl31#Nile River#727172
 urn:cite2:pliny:place.v1:pl32#Arabia#981506
 urn:cite2:pliny:place.v1:pl33#Carmania#29517
 urn:cite2:pliny:place.v1:pl34#Cyzicus#511218
-urn:cite2:pliny:place.v1:pl35#Damascus#678106 
-urn:cite2:pliny:place.v1:pl36#Syria#1306 
+urn:cite2:pliny:place.v1:pl35#Damascus#678106
+urn:cite2:pliny:place.v1:pl36#Syria#1306
 urn:cite2:pliny:place.v1:pl37#Cappadocia#628949
 urn:cite2:pliny:place.v1:pl38#Africa
 urn:cite2:pliny:place.v1:pl39#Miletus#599799
@@ -47,14 +47,14 @@ urn:cite2:pliny:place.v1:pl45#
 urn:cite2:pliny:place.v1:pl46#
 urn:cite2:pliny:place.v1:pl47#Palatine Hill#a hill in the city of Rome
 urn:cite2:pliny:place.v1:pl48#Ambracia
-urn:cite2:pliny:place.v1:pl49#Kleonai#570361 
+urn:cite2:pliny:place.v1:pl49#Kleonai#570361
 urn:cite2:pliny:place.v1:pl50#
 urn:cite2:pliny:place.v1:pl51#Hadriatic Sea#1004
 urn:cite2:pliny:place.v1:pl52#Rhamnus
 urn:cite2:pliny:place.v1:pl53#Attica#579888
 urn:cite2:pliny:place.v1:pl54#Ceramiceus#a neighborhood in Athens
 urn:cite2:pliny:place.v1:pl55#Cnidus#599575
-urn:cite2:pliny:place.v1:pl56#Memphis#736963 
+urn:cite2:pliny:place.v1:pl56#Memphis#736963
 urn:cite2:pliny:place.v1:pl57#
 urn:cite2:pliny:place.v1:pl58#Thespia
 urn:cite2:pliny:place.v1:pl59#Parium
@@ -68,7 +68,7 @@ urn:cite2:pliny:place.v1:pl66#Olympia
 urn:cite2:pliny:place.v1:pl67#
 urn:cite2:pliny:place.v1:pl68#
 urn:cite2:pliny:place.v1:pl69#
-urn:cite2:pliny:place.v1:pl70#Caria
+urn:cite2:pliny:place.v1:pl70#Caria#991381 
 urn:cite2:pliny:place.v1:pl71#
 urn:cite2:pliny:place.v1:pl72#
 urn:cite2:pliny:place.v1:pl73#
@@ -80,7 +80,7 @@ urn:cite2:pliny:place.v1:pl78#Smyrna#550771
 urn:cite2:pliny:place.v1:pl79#Thebaid
 urn:cite2:pliny:place.v1:pl80#Vatican Hill#a hill in the city of Rome
 urn:cite2:pliny:place.v1:pl81#Arsinoe#736893
-urn:cite2:pliny:place.v1:pl82#Lake Moeris#736967 
+urn:cite2:pliny:place.v1:pl82#Lake Moeris#736967
 urn:cite2:pliny:place.v1:pl83#
 urn:cite2:pliny:place.v1:pl84#Busiris
 urn:cite2:pliny:place.v1:pl85#Troy#550595
@@ -90,8 +90,3 @@ urn:cite2:pliny:place.v1:pl88#Clusium#413096
 urn:cite2:pliny:place.v1:pl89#Lemnos Insula#550693
 urn:cite2:pliny:place.v1:pl90#Pharus#197434
 urn:cite2:pliny:place.v1:pl91#Capitoline Hill#a hill in the city of Rome
-
-
-
-
-
