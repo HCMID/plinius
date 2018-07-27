@@ -1,3 +1,22 @@
 RuleUrn#InflectionClasses#Ending#Degree
 
 advnfl.us_a_um1#us_a_um#e#pos
+advnfl.us_a_um2#us_a_um#ius#comp
+advnfl.us_a_um3#us_a_um#issime#superl
+
+advnfl.er_ra_rum1#er_ra_rum#re#pos
+advnfl.er_ra_rum2#er_ra_rum#rius#comp
+advnfl.er_ra_rum3#er_ra_rum#errime#superl
+
+advnfl.er_ris_re1#er_ris_re#riter#pos
+advnfl.er_ris_re2#er_ris_re#rius#comp
+advnfl.er_ris_re3#er_ris_re#errime#superl
+
+advnfl.is_e1#is_e#iter#pos
+advnfl.is_e2#is_e#ius#comp
+advnfl.is_e3#is_e#issime#superl
+
+advnfl.0_a_um1#0_a_um#e#pos
+advnfl.0_a_um1b#0_a_um#iter#pos
+advnfl.0_a_um2#0_a_um#ius#comp
+advnfl.0_a_um3#0_a_um#errime#superl
