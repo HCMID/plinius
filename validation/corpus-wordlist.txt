@@ -249,8 +249,7 @@ nec
 clam
 occulteque
 factum
-satis
-dare
+satisdare
 damni
 infecti
 coegit
@@ -698,6 +697,7 @@ obiter
 dicta
 artifice
 Numquam
+satis
 laudato
 noscatur
 illam
@@ -1111,7 +1111,7 @@ magna
 admiratione
 hercules
 menestrati
-ate
+haecate
 ephesii
 aedem
 admonent
@@ -1193,7 +1193,7 @@ deam
 dyonisius
 polycles
 aliam
-philisicus
+philiscus
 cetera
 Idem
 dionysius
@@ -1207,7 +1207,7 @@ terris
 symplegama
 Nobile
 lauantem
-aedalsas
+daedalsas
 stantem
 polycharimus
 Ex
@@ -1227,7 +1227,7 @@ reperio
 laudatos
 apolline
 dercylidis
-piotas
+pictas
 amphistrati
 callistenen
 stortarum
@@ -1245,7 +1245,7 @@ titi
 imperatoris
 domo
 picturae
-staturariae
+statuariae
 praeferendum
 draconumque
 mirabiles
@@ -1266,7 +1266,7 @@ hermolao
 pyhodorus
 artemone
 singularis
-aphrochsius
+aphrodisius
 trallianus
 agrippae
 pantheum
@@ -1284,7 +1284,7 @@ ullo
 poeni
 annis
 humana
-sacrifcauerant
+sacrificauerant
 uictima
 humi
 stans
@@ -1333,7 +1333,7 @@ periculo
 diligentissimi
 artificis
 fecisse
-nominantim
+nominatim
 refertur
 magnificat
 marmoream
