@@ -14,11 +14,19 @@ lverbinfl.ere_inf3#conj2#uisse#pft#act
 lverbinfl.ere_inf4#c2pres#ere#pres#act
 lverbinfl.ere_inf5#c2pres#eri#pres#pass
 
-lverbinfl.ere3_inf1#c3pres#ere#pres#act
-lverbinfl.ere3_inf2#c3pres#i#pres#pass
+lverbinfl.ere3_inf1#conj3#ere#pres#act
+lverbinfl.ere3_inf2#conj3#i#pres#pass
+lverbinfl.ere3_inf3#conj3#isse#pft#act
 
-lverbinfl.ereio_inf1#c3iopres#ere#pres#act
-lverbinfl.ereio_inf2#c3iopres#i#pres#pass
+lverbinfl.ere3_inf4#c3pres#ere#pres#act
+lverbinfl.ere3_inf5#c3pres#i#pres#pass
+
+lverbinfl.ereio_inf1#conj3io#ere#pres#act
+lverbinfl.ereio_inf2#conj3io#i#pres#pass
+lverbinfl.ereio_inf3#conj3io#isse#pft#act
+
+lverbinfl.ereio_inf4#c3iopres#ere#pres#act
+lverbinfl.ereio_inf5#c3iopres#i#pres#pass
 
 lverbinfl.ire_inf1#conj4#ire#pres#act
 lverbinfl.ire_inf2#conj4#iri#pres#pass
