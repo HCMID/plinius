@@ -30,7 +30,7 @@ plinymorph.multiverb21#lexent.n37010#posit#pftpass
 
 plinymorph.multiverb22#lexent.n45457#st#c1pres
 plinymorph.multiverb23#lexent.n45457#stet#pftact
-plinymorph.multiverb24#lexent.n45457#statur#pftpass
+plinymorph.multiverb24#lexent.n45457#stat#pftpass
 
 plinymorph.multiverb25#lexent.n35822#pet#c3pres
 plinymorph.multiverb26#lexent.n35822#petiu#pftact
@@ -48,13 +48,13 @@ plinymorph.multiverb34#lexent.n9072#collig#c3pres
 plinymorph.multiverb35#lexent.n9072#colleg#pftact
 plinymorph.multiverb36#lexent.n9072#collect#pftact
 
-plinymorph.multiverb37#lexent.n43232#sec#c3pres
+plinymorph.multiverb37#lexent.n43232#sec#c1pres
 plinymorph.multiverb38#lexent.n43232#secu#pftact
-plinymorph.multiverb39#lexent.n43232#secut#pftpass
+plinymorph.multiverb39#lexent.n43232#sect#pftpass
 
 plinymorph.multiverb40#lexent.n14599#d#c1pres
 plinymorph.multiverb41#lexent.n14599#ded#pftact
-plinymorph.multiverb42#lexent.n14599#datur#pftpass
+plinymorph.multiverb42#lexent.n14599#dat#pftpass
 
 plinymorph.multiverb43#lexent.n33147#ostend#c3pres
 plinymorph.multiverb44#lexent.n33147#ostend#pftact
@@ -92,9 +92,9 @@ plinymorph.multiverb67#lexent.n50766#uet#c1pres
 plinymorph.multiverb68#lexent.n50766#uetu#pftact
 plinymorph.multiverb69#lexent.n50766#uetit#pftact
 
-plinymorph.multiverb70#lexent.n41387#spond#c2pres
-plinymorph.multiverb71#lexent.n41387#spepond#pftact
-plinymorph.multiverb72#lexent.n41387#spons#pftact
+plinymorph.multiverb70#lexent.n45100#spond#c2pres
+plinymorph.multiverb71#lexent.n45100#spepond#pftact
+plinymorph.multiverb72#lexent.n45100#spons#pftact
 
 plinymorph.multiverb73#lexent.n16898#exist#c3pres
 plinymorph.multiverb74#lexent.n16898#exstit#pftact
@@ -122,8 +122,9 @@ plinymorph.multiverb90#lexent.n44698#solut#pftpass
 
 plinymorph.multiverb91#lexent.n50077#uad#c3pres
 plinymorph.multiverb92#lexent.n50077#uas#pftact
+plinymorph.multiverb93#lexent.n50077#uas#pftpass
 
-plinymorph.multiverb93#lexent.n45590#string#c3pres
+plinymorph.multiverb94#lexent.n45590#string#c3pres
 plinymorph.multiverb94#lexent.n45590#strinx#pftact
 plinymorph.multiverb95#lexent.n45590#strinct#pftact
 
@@ -145,7 +146,7 @@ plinymorph.multiverb107#lexent.n40711#reddit#pftpass
 
 plinymorph.multiverb108#lexent.n51238#uiu#c3pres
 plinymorph.multiverb109#lexent.n51238#uix#pftact
-plinymorph.multiverb110#lexent.n51238#uict#pftact
+plinymorph.multiverb110#lexent.n51238#uict#pftpass
 
 plinymorph.multiverb111#lexent.n43305#sed#c2pres
 plinymorph.multiverb112#lexent.n43305#sed#pftact
@@ -198,7 +199,7 @@ plinymorph.multiverb146#lexent.n34121#pass#pftpass
 
 plinymorph.multiverb147#lexent.n50968#uinc#c3pres
 plinymorph.multiverb148#lexent.n50968#uic#pftact
-plinymorph.multiverb149#lexent.n50968#uict#pftact
+plinymorph.multiverb149#lexent.n50968#uict#pftpass
 
 plinymorph.multiverb150#lexent.n7554#cern#c3pres
 plinymorph.multiverb151#lexent.n7554#creu#pftact
@@ -327,7 +328,7 @@ plinymorph.multiverb239#lexent.n17964#tul#pftact
 plinymorph.multiverb240#lexent.n17964#lat#pftpass
 
 plinymorph.multiverb241#lexent.n46529#fu#pftact
-plinymorph.multiverb242#lexent.n46529#futur#pftpass
+plinymorph.multiverb242#lexent.n46529#fut#pftpass
 
 plinymorph.multiverb243#lexent.n22027#inprim#c3pres
 plinymorph.multiverb244#lexent.n22027#inpress#pftpass
@@ -410,6 +411,104 @@ plinymorph.multiverb300#lexent.n25264#fric#c1pres
 plinymorph.multiverb301#lexent.n18784#fricu#pftact
 plinymorph.multiverb302#lexent.n18784#frict#pftpass
 
-plinymorph.multiverb303#lexent.n25264#iub#c2pres
+plinymorph.multiverb303#lexent.n32114#iub#c2pres
 plinymorph.multiverb304#lexent.n25264#iuss#pftact
 plinymorph.multiverb305#lexent.n25264#iuss#pftpass
+
+plinymorph.multiverb306#lexent.n32114#occul#c3pres
+plinymorph.multiverb307#lexent.n32114#occulu#pftact
+plinymorph.multiverb308#lexent.n32114#occult#pftpass
+
+plinymorph.multiverb30#lexent.n9557#conpell#c3pres
+plinymorph.multiverb97#lexent.n9557#conpul#pftact
+plinymorph.multiverb98#lexent.n9557#conpuls#pftpass
+
+plinymorph.multiverb30#lexent.n41387#respond#c3pres
+plinymorph.multiverb97#lexent.n41387#respond#pftact
+plinymorph.multiverb98#lexent.n41387#respons#pftpass
+
+plinymorph.multiverb30#lexent.n45870#subic#c3iopres
+plinymorph.multiverb97#lexent.n45870#subiec#pftact
+plinymorph.multiverb98#lexent.n45870#subiect#pftpass
+
+plinymorph.multiverb30#lexent.n40788#referc#c4pres
+plinymorph.multiverb97#lexent.n40788#refers#pftact
+plinymorph.multiverb98#lexent.n40788#refert#pftpass
+
+plinymorph.multiverb30#lexent.n17222#exto#c1pres
+plinymorph.multiverb97#lexent.n17222#extit#pftact
+plinymorph.multiverb98#lexent.n17222#extat#pftpass
+
+plinymorph.multiverb30#lexent.n40929#reic#c3iopres
+plinymorph.multiverb97#lexent.n40929#reiec#pftact
+plinymorph.multiverb98#lexent.n40929#reiect#pftpass
+
+plinymorph.multiverb30#lexent.n35358#perpet#c3iopres
+plinymorph.multiverb98#lexent.n35358#perpess#pftpass
+
+plinymorph.multiverb30#lexent.n8945#conspic#c3iopres
+plinymorph.multiverb97#lexent.n10586#conspec#pftact
+plinymorph.multiverb98#lexent.n10586#conspect#pftpass
+
+plinymorph.multiverb30#lexent.n8945#cohaer#c3iopres
+plinymorph.multiverb97#lexent.n8945#cohes#pftact
+plinymorph.multiverb98#lexent.n8945#cohes#pftpass
+
+plinymorph.multiverb30#lexent.n31628#obic#c3iopres
+plinymorph.multiverb97#lexent.n31628#obiec#pftact
+plinymorph.multiverb98#lexent.n31628#obiect#pftpass
+
+plinymorph.multiverb30#lexent.n14847#duc#c3pres
+plinymorph.multiverb97#lexent.n14847#dux#pftact
+plinymorph.multiverb98#lexent.n14847#duct#pftpass
+
+plinymorph.multiverb30#lexent.n4398#attol#c3pres
+
+plinymorph.multiverb97#lexent.n15868#i#pftact
+plinymorph.multiverb97#lexent.n15868#iu#pftact
+plinymorph.multiverb97#lexent.n15868#it#pftpass
+
+plinymorph.multiverb30#lexent.n1605#ag#c3pres
+plinymorph.multiverb97#lexent.n1605#eg#pftact
+plinymorph.multiverb98#lexent.n1605#act#pftpass
+
+plinymorph.multiverb30#lexent.n837#adic#c3iopres
+plinymorph.multiverb97#lexent.n837#adiec#pftact
+plinymorph.multiverb98#lexent.n837#adiect#pftpass
+
+plinymorph.multiverb30#lexent.n36652#pl#c2pres
+plinymorph.multiverb97#lexent.n36652#pleu#pftact
+plinymorph.multiverb98#lexent.n36652#plet#pftpass
+
+plinymorph.multiverb30#lexent.n357#accid#c3pres
+plinymorph.multiverb97#lexent.n357#accid#pftact
+
+plinymorph.multiverb30#lexent.n49372#tu#c2pres
+plinymorph.multiverb97#lexent.n49372#tuit#pftpass
+
+plinymorph.multiverb30#lexent.n42012#rump#c3pres
+plinymorph.multiverb97#lexent.n42012#rup#pftact
+plinymorph.multiverb98#lexent.n42012#rupt#pftpass
+
+plinymorph.multiverb30#lexent.n45638#stru#c3pres
+plinymorph.multiverb97#lexent.n45638#strux#pftact
+plinymorph.multiverb98#lexent.n45638#struct#pftpass
+
+plinymorph.multiverb30#lexent.n43823#sequ#c3pres
+plinymorph.multiverb97#lexent.n43823#secut#pftpass
+
+plinymorph.multiverb30#lexent.n4365#atting#c3pres
+plinymorph.multiverb97#lexent.n4365#attig#pftact
+plinymorph.multiverb98#lexent.n4365#attact#pftpass
+
+plinymorph.multiverb30#lexent.n37587#praefic#c3iopres
+plinymorph.multiverb97#lexent.n37587#praefec#pftact
+plinymorph.multiverb98#lexent.n37587#praefect#pftpass
+
+plinymorph.multiverb30#lexent.n42969#scind#c3pres
+plinymorph.multiverb97#lexent.n42969#scid#pftact
+plinymorph.multiverb98#lexent.n42969#sciss#pftpass
+
+plinymorph.multiverb30#lexent.n51363#uolu#c3pres
+plinymorph.multiverb97#lexent.n51363#uolu#pftact
+plinymorph.multiverb98#lexent.n51363#uolut#pftpass

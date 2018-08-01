@@ -235,7 +235,7 @@ pliny.n233#lexent.n3485#arc#masc#us_us
 pliny.n234#lexent.n12032#curr#masc#us_us
 pliny.n235#lexent.n48455#tit#masc#us_i
 pliny.n236#lexent.n10676#consul#masc#0_is
-pliny.n237#lexent.n14774#draco#masc#o_onis
+pliny.n237#lexent.n14774#drac#masc#o_onis
 pliny.n238#lexent.n43666#sententi#fem#a_ae
 pliny.n239#lexent.n25102#itali#fem#a_ae
 pliny.n240#lexent.n32796#oppid#neut#us_i
@@ -346,8 +346,8 @@ pliny.n344#lexent.n20511#hercul#masc#es_is_greek
 pliny.n345#lexent.n20745#hippona#masc#x_ctis
 pliny.n346#lexent.n32522#olympia#fem#s_dis
 pliny.n347#lexent.n1359#ae#neut#s_ris
-pliny.n348#lexent.n20528#here#neut#s_dis
-pliny.n349#lexent.n20528#here#neut#s_dis
+pliny.n348#lexent.n20528#here#masc#s_dis
+pliny.n349#lexent.n20528#here#fem#s_dis
 pliny.n350#lexent.none#lichnit#masc#es_is_greek
 pliny.n351#lexent.n26083#lau#fem#s_dis
 pliny.n352#lexent.n501#achill#masc#es_is_greek
@@ -456,4 +456,13 @@ pliny.n454#lexent.n3674#armeni#fem#a_ae
 pliny.n455#lexent.n31237#notiti#fem#a_ae
 pliny.n456#lexent.n38346#principat#masc#us_us
 pliny.n457#lexent.n50645#uert#masc#ex_icis
-pliny.n458#lexent.n6511#caniti#fem#es_is
+pliny.n458#lexent.n6511#caniti#fem#es_ei
+pliny.n459#lexent.n32708#ophit#masc#es_ae
+pliny.n460#lexent.n14669#dol#masc#or_oris
+pliny.n461#lexent.n21333#ictu#masc#us_us
+pliny.n462#lexent.n47819#tephri#masc#as_ae
+pliny.n463#lexent.n24221#interdict#neut#us_i
+pliny.n464#lexent.n19653#gl#masc#is_iris
+pliny.n465#lexent.n15902#ephesi#fem#us_i
+pliny.n466#lexent.n3118#apparat#masc#us_us
+pliny.n467#lexent.n20890#hono#masc#s_ris

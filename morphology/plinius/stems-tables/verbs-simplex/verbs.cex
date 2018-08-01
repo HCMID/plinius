@@ -30,7 +30,7 @@ plinymorph.verb27#lexent.n29479#moll#conj4
 plinymorph.verb28#lexent.n7375#cens#conj2
 plinymorph.verb29#lexent.n14602#doc#conj2
 plinymorph.verb30#lexent.n30406#narr#conj1
-plinymorph.verb31#lexent.n3120#appar#conj2
+plinymorph.verb31#lexent.n33851#par#conj2
 plinymorph.verb32#lexent.n29924#multiplic#conj1
 plinymorph.verb33#lexent.n14988#dur#conj1
 plinymorph.verb34#lexent.n48358#tim#conj2
@@ -88,3 +88,8 @@ plinymorph.verb85#lexent.n31363#nud#conj1
 plinymorph.verb86#lexent.n36836#pol#conj4
 plinymorph.verb87#lexent.n4364#attin#conj2
 plinymorph.verb88#lexent.n31413#numer#conj1
+plinymorph.verb90#lexent.n6471#candic#conj1
+plinymorph.verb91#lexent.n33902#par#conj1
+plinymorph.verb92#lexent.n20686#hilar#conj1
+plinymorph.verb93#lexent.n18223#firm#conj1
+plinymorph.verb94#lexent.n30179#mut#conj1
