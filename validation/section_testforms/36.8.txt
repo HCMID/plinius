@@ -1,7 +1,7 @@
 nimirum
 omisere
 uictis
-frustraque
+frustra
 interdicta
 uetuerant
 cernentes
@@ -19,8 +19,6 @@ hodie
 tantarum
 columnarum
 atrium
-habet
-habes
 priusquam
 de
 marmoribus

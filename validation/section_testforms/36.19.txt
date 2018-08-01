@@ -21,6 +21,7 @@ obiter
 dicta
 artifice
 numquam
+satis
 laudato
 noscatur
 illam

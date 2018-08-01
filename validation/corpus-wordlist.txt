@@ -92,7 +92,7 @@ pro
 terminis
 constituta
 erant
-Nauesque
+Naues
 fiunt
 per
 fluctus
@@ -111,7 +111,7 @@ potus
 uas
 petitur
 nubila
-caeloque
+caelo
 proximae
 rupes
 cauantur
@@ -140,7 +140,7 @@ pati
 mortales
 ob
 usus
-quasue
+quas
 uoluptates
 alias
 Nisi
@@ -247,7 +247,7 @@ scauri
 conlocari
 nec
 clam
-occulteque
+occulte
 factum
 satisdare
 damni
@@ -311,7 +311,7 @@ appellauerat
 Nimirum
 omisere
 uictis
-frustraque
+frustra
 interdicta
 uetuerant
 cernentes
@@ -348,7 +348,7 @@ creta
 insula
 mediis
 imperantibus
-priusque
+prius
 cyrus
 persis
 regnare
@@ -376,7 +376,7 @@ aetolos
 fames
 inuasit
 sterelitas
-maerorque
+maeror
 dirus
 medium
 petentibus
@@ -569,7 +569,7 @@ nobilem
 complura
 aedibus
 sacris
-praeclarumque
+praeclarum
 ueneris
 extra
 muros
@@ -591,7 +591,7 @@ parius
 gratus
 itaque
 suis
-pleraque
+plera
 nomini
 donasse
 fertur
@@ -724,7 +724,7 @@ multi
 nauigauerunt
 cnidum
 duas
-simulque
+simul
 uendebat
 alteram
 uelata
@@ -776,7 +776,7 @@ creditur
 facta
 minor
 ex
-quacumque
+qua
 admiratio
 ferunt
 amore
@@ -786,7 +786,7 @@ delituisset
 noctu
 simulacro
 cohesisse
-eiusque
+eius
 cupiditatis
 indicem
 maculam
@@ -884,7 +884,7 @@ palatinum
 uestam
 sedentem
 laudatam
-duosque
+duos
 campteras
 circa
 pares
@@ -917,7 +917,7 @@ praeclarum
 totius
 fuisset
 supradicta
-quaeque
+quae
 nescimus
 mars
 num
@@ -933,8 +933,8 @@ praeterea
 loco
 nuda
 praxiteliam
-cedens
-quemcumque
+antecedens
+quem
 alium
 locum
 nobilitatura
@@ -942,7 +942,7 @@ multitudo
 operum
 obliteratio
 officiorum
-negotiorumque
+negotiorum
 acerui
 omnis
 contemplatione
@@ -1013,7 +1013,7 @@ cratere
 alterius
 sitim
 sedat
-duaeque
+duae
 aurae
 uelificantes
 sua
@@ -1080,10 +1080,10 @@ recesserunt
 soluto
 gloriae
 ipsorum
-artisque
+artis
 monimentum
 iudicantes
-hodieque
+hodie
 certant
 Accessit
 quintus
@@ -1166,7 +1166,7 @@ zethus
 ampion
 diree
 taurus
-uinculumque
+uinculum
 lapide
 rhodo
 aduecta
@@ -1338,7 +1338,7 @@ refertur
 magnificat
 marmoream
 habuisse
-aligerosque
+aligeros
 ludentis
 cupidines
 aure
@@ -1350,7 +1350,6 @@ cogerent
 bibere
 calciarent
 soccis
-ommnes
 coronio
 chanacum
 sauram
@@ -1377,7 +1376,7 @@ argumento
 lacerta
 rana
 pictura
-cultusque
+cultus
 reliquus
 femineis
 argumentis
@@ -1403,11 +1402,11 @@ quadrigam
 agitatore
 operuit
 musca
-gallicrastes
+gallicrates
 formicarum
 membra
 Haec
-summaque
+summa
 claritate
 tractatu
 mentem
@@ -1550,7 +1549,7 @@ is
 inuecti
 numidici
 inuenio
-crustisue
+crustis
 carystis
 massa
 uilissimo
@@ -1597,7 +1596,7 @@ italia
 quisquis
 inuenit
 secare
-luxuriamque
+luxuriam
 diuidere
 inportuni
 ingenii
@@ -1611,7 +1610,7 @@ praetenui
 linea
 premente
 harenas
-uersandoque
+uersando
 tractu
 ipso
 secante
@@ -1663,7 +1662,7 @@ segmentis
 terit
 plus
 erodit
-maiusque
+maius
 scabritia
 politurae
 relinquit
@@ -1677,7 +1676,7 @@ accommodatur
 poro
 pumice
 poliendis
-gemmisque
+gemmis
 limandis
 Naxum
 placuit
@@ -1707,7 +1706,7 @@ sparsa
 praetiosissimi
 lacaedaemonium
 uiride
-cunctisque
+cunctis
 hilarius
 tibereum
 augusti
@@ -1829,7 +1828,7 @@ inde
 factis
 pedibus
 lectorum
-sellisque
+sellis
 miraculo
 publius
 lentulus
@@ -1896,7 +1895,7 @@ tygdinos
 repertos
 amplitudinem
 lances
-craterasque
+crateras
 excedant
 antea
 arabia
@@ -1930,7 +1929,7 @@ aspectu
 declinante
 liquatur
 igni
-funditurque
+funditur
 usum
 uitri
 Thebaicus
@@ -1972,7 +1971,7 @@ somnio
 iussus
 inscriptum
 illae
-effigiesque
+effigies
 uidemus
 aegyptiae
 litterae
@@ -1993,7 +1992,7 @@ regia
 undenis
 laterix
 surrecturus
-uerebaturque
+uerebatur
 machinae
 ponderi
 sufficerent
@@ -2013,7 +2012,7 @@ effectum
 opidum
 expugnaret
 cambyses
-uentumque
+uentum
 incendiis
 crepidines
 obelisci
@@ -2034,6 +2033,7 @@ octoginta
 ceciderat
 necthebis
 purum
+maiusque
 deuehendo
 statuendoue
 multum
@@ -2049,7 +2049,7 @@ perducto
 adiacentem
 obiliscum
 nilo
-nauesque
+naues
 latitudinem
 patulas
 pedalibus
@@ -2078,7 +2078,7 @@ rege
 supradicto
 munus
 coniuge
-eademque
+eadem
 sorore
 arsinoe
 incommodum
@@ -2156,7 +2156,7 @@ addidit
 mirabilem
 deprendendas
 umbras
-dierumque
+dierum
 noctium
 magnitudines
 strato
@@ -2167,7 +2167,7 @@ confectae
 die
 sexta
 hora
-paulatimque
+paulatim
 regulas
 inclusae
 singulis
@@ -2249,7 +2249,7 @@ ostentatio
 quippe
 faciendi
 eas
-plerisque
+pleris
 tradatur
 pecuniam
 successoribus
@@ -2288,7 +2288,7 @@ sanae
 conspicuae
 nauigantibus
 africae
-sterilique
+sterili
 memphim
 oppidum
 appellari
@@ -2416,7 +2416,7 @@ umbram
 metiendo
 solet
 pyramidum
-supremumque
+supremum
 nequis
 opes
 miretur
@@ -2509,7 +2509,7 @@ portionem
 imitatum
 itinerum
 ambages
-occursusque
+occursus
 recursus
 inexplicabiles
 continet
@@ -2527,7 +2527,7 @@ foribus
 inditis
 fallendos
 occursus
-redeundumque
+redeundum
 errores
 eosdem
 Secundus
@@ -2538,7 +2538,7 @@ tecti
 aegyptius
 miror
 introitu
-columnisque
+columnis
 reliqua
 compositis
 dissoluere
@@ -2550,7 +2550,7 @@ inuisum
 mire
 spectauere
 Positionem
-singulasque
+singulas
 partis
 enarrare
 regiones
@@ -2562,7 +2562,7 @@ uastis
 domibus
 adtributis
 contineat
-superque
+super
 nemesis
 aediculis
 incluserit
@@ -2582,7 +2582,7 @@ quin
 cenacula
 cliuis
 excelsa
-porticusque
+porticus
 descenduntur
 nonagenis
 Intus
@@ -2632,7 +2632,7 @@ ornarentur
 milus
 rhoecus
 theodorus
-exstantque
+exstant
 adhuc
 reliquiae
 cretici
@@ -2816,7 +2816,7 @@ translucent
 iuncturae
 tenussimis
 capillamentis
-lenique
+leni
 adflatu
 refouent
 ingenium
@@ -2848,7 +2848,7 @@ echo
 grecis
 datum
 uenit
-plerumque
+plerum
 conuallium
 olympiae
 arte
@@ -2876,7 +2876,7 @@ defendente
 aegre
 nostrae
 conueniat
-que
+ⅮⅭⅭⅭque
 annorum
 dociles
 scrutari

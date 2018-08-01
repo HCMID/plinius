@@ -109,7 +109,7 @@ mercedibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.10.29
 regem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.77.15
 dicauit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.27.44
 dicauit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.36.21
-uniuersitate#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.31
+uniuersitate#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.30
 declinante#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.62.74
 apion#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.79.27
 unus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.29.13
@@ -119,7 +119,7 @@ unus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.89.2
 unus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.92.36
 coticulis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.63.14
 refertae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.14.8
-dociles#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.13
+dociles#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.12
 Sunt#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.43.53
 notis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.67.12
 e#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.10.45
@@ -226,7 +226,7 @@ tantas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.6.53
 tantas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.53
 orbem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.48
 orbem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.93.3
-orbem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.20
+orbem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.19
 honore#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.36.2
 grossior#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.53.20
 cenacula#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.88.3
@@ -290,11 +290,10 @@ cephisidotus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.24.4
 Fuit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.45.40
 auctore#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.48.35
 ambulationis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.85.44
-coniecta#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.39
+coniecta#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.38
 murum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.88.48
 laterculis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.33
 Hic#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.54
-cultusque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.43.8
 Nimirum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.8.1
 saxo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.46.4
 saxo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.77.27
@@ -321,10 +320,9 @@ tamen#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.30
 tamen#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.93.52
 plenis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.96.15
 serapis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.58.63
-plerisque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.75.21
 alcibiaden#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.28.53
 habuere#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.5
-exurget#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.43
+exurget#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.42
 stephani#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.33.34
 auratum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.69.18
 herodotus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.84.45
@@ -341,6 +339,7 @@ artifice#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.19.35
 artifice#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.96.53
 nascitur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.61.7
 fabellarum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.42
+singulas-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.87.4
 flagrant#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.83.57
 externorum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.91.17
 post#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.15.22
@@ -374,6 +373,7 @@ longiores#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.7.39
 sudines#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.59.15
 inquit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.46.49
 pantheum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.38.24
+uerebatur-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.66.14
 nauis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.35
 cupiditatis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.21.72
 lapides#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.89.26
@@ -430,7 +430,10 @@ ergo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.6.41
 ergo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.43.39
 ergo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.98.25
 adalligauit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.66.29
+prius-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.9.18
+prius-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.31.16
 aedificiis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.17
+uinculum-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.34.16
 iunonis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.24.42
 iunonis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.35.16
 iunonis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.43.42
@@ -672,8 +675,8 @@ in#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.99.2
 in#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.99.30
 in#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.20
 in#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.57
-in#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.35
-in#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.49
+in#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.34
+in#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.48
 portento#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.2
 austro#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.30.58
 amauit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.22.72
@@ -700,7 +703,7 @@ quales#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.83.54
 hipponacti#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.12.1
 itinerum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.85.23
 ostendere#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.83.48
-ostendere#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.22
+ostendere#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.21
 ingeni#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.18.33
 pati#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.3.29
 inuenit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.51.4
@@ -708,7 +711,6 @@ inuenit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.8
 dimicationes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.18.77
 obeliscos#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.64.8
 facundi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.54
-uersandoque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.51.26
 diuus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.13.39
 diuus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.36.15
 diuus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.70.1
@@ -811,7 +813,6 @@ eiusdem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.46
 eiusdem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.72
 eiusdem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.71.32
 eiusdem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.74.25
-dierumque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.15
 dicat#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.5.1
 sileantur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.1.20
 illi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.18.91
@@ -845,7 +846,6 @@ alienum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.21.12
 arcum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.36.14
 tephrian#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.56.48
 rationem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.13
-uerebaturque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.66.14
 ima#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.92.16
 asse#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.71.44
 positum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.17.60
@@ -880,7 +880,7 @@ alia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.40.44
 alia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.43.74
 alia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.54.15
 alia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.83.3
-alia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.41
+alia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.40
 incommodum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.69.4
 scabritie#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.52.12
 inuehi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.4.24
@@ -888,7 +888,6 @@ utraque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.15.14
 hac#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.66.41
 cuspide#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.19.26
 maximas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.6.8
-occulteque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.6.23
 duri#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.56.16
 etiamne#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.6.6
 similitudinem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.81.11
@@ -914,9 +913,7 @@ aduexerat#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.45.36
 aduexerat#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.70.7
 ullo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.39.6
 ullo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.61.41
-superque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.87.38
 transiri#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.4.29
-uentumque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.66.53
 hadriatici#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.52.52
 pothon#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.25.9
 Onychem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.59.1
@@ -994,7 +991,7 @@ uno#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.36.38
 uno#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.37.44
 uno#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.41.29
 uno#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.93.16
-uno#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.50
+uno#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.49
 collyria#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.63.16
 pudicum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.20.69
 mathematici#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.56
@@ -1046,7 +1043,6 @@ porticus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.24.40
 porticus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.35.14
 porticus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.39.20
 Tertius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.74.1
-sterilique#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.64
 callaeci#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.77
 lapide#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.34.19
 lapide#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.36.39
@@ -1073,7 +1069,6 @@ Gaius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.48.24
 Gaius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.48.25
 Gaius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.70.27
 Gaius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.70.28
-artisque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.31.31
 opes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.28
 opes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.54
 sit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.3.21
@@ -1093,7 +1088,7 @@ inde#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.59.21
 inde#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.65.28
 inde#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.69.1
 inde#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.88.54
-cumulum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.38
+cumulum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.37
 artemidorus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.79.16
 Namque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.48.64
 Namque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.91.1
@@ -1146,6 +1141,7 @@ carbonibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.95.46
 quis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.8.29
 quis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.11.49
 quis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.91.73
+quae-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.62
 .#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.1.21
 .#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.1.36
 .#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.1.56
@@ -1348,6 +1344,7 @@ regibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.94.15
 regibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.95.68
 duas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.20.43
 duas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.2
+maius-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.53.31
 columnis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.30.83
 columnis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.36.24
 columnis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.45.1
@@ -1437,7 +1434,6 @@ totius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.93.34
 cubita#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.58.47
 cubita#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.62.48
 laudatissimam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.34
-eiusque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.21.71
 Quodsi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.11.48
 iudicet#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.29.62
 cogitet#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.3.4
@@ -1484,7 +1480,7 @@ loco#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.23
 loco#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.56.58
 loco#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.91.48
 loco#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.96.28
-loco#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.51
+loco#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.50
 honos#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.46.63
 honos#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.62.39
 uxore#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.30.26
@@ -1495,7 +1491,6 @@ uniuersa#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.73.23
 ludicris#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.85.36
 eurhodotus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.79.7
 eximantur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.47
-duaeque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.29.35
 par#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.22.64
 par#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.27
 par#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.15
@@ -1510,7 +1505,7 @@ si#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.51
 si#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.46.52
 si#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.91.72
 si#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.94.32
-si#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.45
+si#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.44
 hiis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.3.19
 hiis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.8.45
 hiis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.9.48
@@ -1715,6 +1710,7 @@ appellari#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.70
 tempore#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.97.7
 iuxta#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.99.32
 timeret#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.95.29
+occursus-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.85.26
 probabunt#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.8.27
 eandem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.93.31
 decorauit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.38.25
@@ -1797,7 +1793,6 @@ numini#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.64.11
 Operi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.95.86
 turris#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.83.4
 fricare#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.52.24
-plerumque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.8
 filiorum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.12.63
 ubi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.25.37
 ubi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.40.32
@@ -1860,7 +1855,7 @@ praefert#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.29.19
 sederet#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.96.29
 pendentem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.24
 paene#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.50.9
-paene#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.25
+paene#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.24
 thebis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.58.61
 dubitat#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.18.14
 tricenum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.91.59
@@ -1872,7 +1867,6 @@ fluctus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.47
 hos#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.1.66
 hos#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.50.18
 luce#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.97.26
-summaque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.44.7
 inclaruerunt#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.9.6
 imperatore#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.58.33
 putant#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.13.22
@@ -1894,14 +1888,12 @@ nili#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.58.38
 cacumina#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.40
 Grecae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.95.1
 inscriptum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.64.38
-uinculumque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.34.16
 electrum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.46.16
 cleonae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.14.6
 experimento#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.70.62
-quemcumque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.96
 foeditas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.12.3
 quendam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.21.64
-quendam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.36
+quendam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.35
 passum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.78
 phythodoro#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.38.10
 iaculante#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.71
@@ -1915,6 +1907,7 @@ praetationem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.71.51
 romanum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.48.21
 ⅬⅩⅠS#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.77.60
 subiecerunt#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.12.51
+caelo-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.73
 iuga#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.56
 putauere#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.59.11
 aduecta#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.34.22
@@ -1924,6 +1917,7 @@ conuenit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.42.16
 conuenit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.61.5
 conuenit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.91.5
 omnes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.18.5
+omnes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.41.27
 omnes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.79.30
 aestu#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.52.55
 petesuchi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.84.39
@@ -1935,7 +1929,6 @@ uertices#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.105
 certum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.11.39
 certum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.16.4
 ⅮⅭⅭⅭ#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.83.17
-ⅮⅭⅭⅭ#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.10
 pertinentia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.97.46
 pilam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.60
 totis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.48.70
@@ -2019,6 +2012,7 @@ molle#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.56.13
 terit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.53.25
 cnidum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.20.41
 quarundam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.88.24
+eius-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.21.71
 sileni#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.14.62
 sileni#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.23.32
 inuecti#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.37
@@ -2027,6 +2021,7 @@ zmyrnae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.32.77
 Lucius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.64
 Lucius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.65
 Lucius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.66
+naues-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.1
 archermus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.11.20
 duae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.8
 columna#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.88.13
@@ -2090,11 +2085,11 @@ contignatione#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.45
 sphinx#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.77.3
 alexandrum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.89.13
 pendii#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.84.8
-craterasque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.62.19
 ⅭⅭⅩⅩⅤ#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.95.61
 candicantem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.56.34
 agitur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.28
 ternos#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.30.63
+gallicrates#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.43.69
 trallianus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.38.22
 filium#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.66.27
 pleps#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.75.32
@@ -2110,7 +2105,7 @@ alius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.32.57
 alius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.38.16
 alius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.46.64
 alius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.74.29
-alius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.47
+alius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.46
 praecipua#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.1.7
 illorum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.75.41
 ⅬⅩ#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.5.14
@@ -2164,6 +2159,7 @@ palatinum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.25.19
 hermerotes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.33.35
 pecunia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.75.10
 trahi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.6.58
+maeror-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.10.8
 ⅬⅩⅥ#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.33
 domos#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.38.3
 domos#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.81.61
@@ -2188,7 +2184,6 @@ hercules#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.32.21
 hercules#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.39.7
 hercules#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.46.58
 uentre#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.77.53
-funditurque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.62.78
 fessum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.97.5
 apollinem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.25.18
 aliubibi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.59.9
@@ -2226,7 +2221,6 @@ marmorum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.42
 marmorum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.44.42
 marmorum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.46.70
 publice#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.9.46
-eademque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.66
 gaudia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.3.53
 iudicamus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.8.47
 proditur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.14.54
@@ -2256,6 +2250,7 @@ unde#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.58.17
 thebae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.94.9
 satisdatione#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.29.60
 iubentur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.52.25
+quem-cumque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.96
 ab#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.7
 ab#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.28.23
 ab#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.30.25
@@ -2327,6 +2322,7 @@ praeter#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.6.59
 praeter#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.60
 praeter#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.46.13
 praeter#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.98.34
+pleris-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.75.21
 Contra#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.56.37
 octauiae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.15.40
 octauiae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.22.52
@@ -2398,7 +2394,6 @@ chio#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.13.3
 illum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.7.21
 illum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.87.62
 interfluente#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.94.29
-ommnes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.41.27
 flora#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.23.5
 ipso#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.51.28
 ipso#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.19
@@ -2449,7 +2444,7 @@ uariatum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.60.1
 harum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.39
 punctis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.57.6
 limina#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.12
-annorum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.12
+annorum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.11
 argos#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.14.4
 boni#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.23.13
 Legitur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.94.1
@@ -2464,10 +2459,10 @@ nominum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.42.60
 pictas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.36.50
 aetatem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.20.2
 ⅭⅭⅭⅬⅩʹ#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.78.9
-maerorque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.10.8
 symplega#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.24.13
 pondere#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.97.28
 caelaret#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.40.40
+occulte-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.6.23
 ustus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.61.3
 absimili#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.58.57
 rudi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.7.5
@@ -2486,7 +2481,7 @@ quoque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.51.57
 quoque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.73.60
 quoque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.89.16
 quoque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.91.20
-quoque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.18
+quoque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.17
 quadringenarum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.87.46
 ancora#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.99.13
 faciendi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.75.17
@@ -2497,7 +2492,6 @@ timothei#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.32.1
 mira#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.34
 Ingens#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.4.1
 uarie#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.84.62
-occursusque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.85.26
 rudimento#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.7.14
 canephoros#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.25.39
 omnibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.13.35
@@ -2510,14 +2504,13 @@ omnibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.70.31
 omnibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.74.13
 omnibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.92.37
 omnibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.98.10
-narretur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.52
+narretur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.51
 potest#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.7.2
 potest#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.84.15
 separandis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.34
 radice#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.87.51
 fere#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.13.36
 fere#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.73.6
-duosque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.25.26
 lapidem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.14.23
 lapidem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.45.43
 lapidem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.60.45
@@ -2528,7 +2521,9 @@ motus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.95.25
 aegyptia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.52.36
 inscripti#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.71.46
 potius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.8.13
+Naues-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.41
 principatu#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.75
+simul-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.20.45
 capitolio#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.23.20
 capitolio#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.50.44
 gemmantis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.56.59
@@ -2569,7 +2564,6 @@ annis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.78.23
 annis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.95.12
 glacies#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.79
 caerimoniis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.25.14
-hodieque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.31.34
 existat#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.88.35
 iussus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.64.35
 templi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.38.31
@@ -2600,6 +2594,7 @@ inpleuere#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.50
 inrepunt#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.5.50
 aliter#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.22.15
 aliter#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.45.19
+praeclarum-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.16.20
 argumentum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.64.16
 vocant#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.36
 supradicta#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.61
@@ -2717,11 +2712,13 @@ primum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.74
 primum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.59.19
 uespasiano#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.58.34
 genesin#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.19.8
+duae-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.29.35
 rerum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.26
 rerum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.49
 rerum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.71.48
 ephrygibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.35
 adfirmatur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.28.52
+dierum-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.15
 Autem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.77.26
 narratio#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.37
 intellecta#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.79
@@ -2871,8 +2868,8 @@ et#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.98.33
 et#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.1
 et#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.34
 et#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.2
-et#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.16
-et#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.34
+et#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.15
+et#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.33
 et#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.42
 caput#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.32.12
 uictis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.8.5
@@ -2880,6 +2877,7 @@ diu#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.9.38
 diu#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.54.12
 oppidis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.40.16
 ⅮⅭⅭⅬⅦS#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.80.28
+sterili-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.64
 marina#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.44
 cauantur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.76
 milesius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.10
@@ -2919,7 +2917,7 @@ tradatur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.75.22
 uado#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.52.54
 nescio#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.47.4
 uires#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.93.50
-uires#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.15
+uires#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.14
 atrum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.89
 matris#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.17.76
 radiorum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.64.14
@@ -2958,6 +2956,7 @@ illuc#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.54
 crassum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.7.19
 exidendo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.67.39
 nationes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.39.22
+uentum-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.66.53
 parentum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.34.27
 pulchritudine#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.18.40
 quaternum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.19
@@ -2993,6 +2992,7 @@ una#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.1
 una#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.92.14
 una#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.95.81
 sufficerent#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.66.19
+duos-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.25.26
 colligunt#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.99
 Sed#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.51.1
 nitro#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.81.32
@@ -3048,7 +3048,6 @@ certamine#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.64.7
 infantis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.29.26
 attoli#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.96.6
 nondum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.45.11
-cunctisque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.61
 habes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.8.36
 diogenes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.38.26
 auro#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.18.56
@@ -3145,7 +3144,7 @@ catuli#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.6
 proximae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.74
 uictoria#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.19.15
 Hunc#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.60.43
-magnitudo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.42
+magnitudo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.41
 apolloni#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.34.24
 mense#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.5.28
 phorci#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.36
@@ -3245,11 +3244,13 @@ curia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.28.41
 centro#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.73.26
 alabandicus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.62.60
 inuasit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.10.4
+crateras-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.62.19
 oraculo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.74.38
 artificis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.40.53
 artificis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.93.55
 artificis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.98.36
 dictu#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.4.18
+exstant-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.90.41
 dein#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.11.12
 dein#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.59.23
 talium#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.9.42
@@ -3281,7 +3282,6 @@ esse#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.16
 esse#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.56
 esse#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.84.52
 umbra#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.65
-aligerosque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.41.10
 moeridis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.24
 moeridis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.84.71
 ⅮⅭⅭⅩⅩⅤ#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.80.11
@@ -3292,7 +3292,7 @@ famam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.18.11
 miracula#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.30.49
 miracula#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.22
 miracula#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.6
-miracula#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.28
+miracula#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.27
 hanc#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.15.3
 possit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.21.42
 alias#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.3.38
@@ -3357,8 +3357,6 @@ horum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.3.8
 horum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.11.50
 ciceronis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.46.40
 candidior#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.61.18
-priusque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.9.18
-priusque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.31.16
 res#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.48.49
 magnitudine#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.59.43
 saturi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.29.9
@@ -3387,6 +3385,7 @@ uespasianus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.27.38
 maluerunt#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.8.18
 bina#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.62.47
 Nepos#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.48.14
+gemmis-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.54.5
 phreneticis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.56.29
 obstupescit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.56.76
 aquarum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.70.66
@@ -3429,7 +3428,6 @@ significatur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.64.21
 adeo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.6.11
 adeo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.18.86
 Magnificatur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.83.1
-effigiesque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.64.45
 phoenice#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.67.51
 binum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.69.39
 reposuit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.32.13
@@ -3540,6 +3538,7 @@ id#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.24
 tractauimus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.1.29
 regnante#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.65.18
 regnante#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.71.19
+aligeros-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.41.10
 cheramico#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.20.19
 intellegunt#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.18.12
 intellegunt#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.53.18
@@ -3572,11 +3571,9 @@ africa#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.63.9
 Inter#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.79.29
 aggeratis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.81.36
 portentissimum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.84.5
-praeclarumque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.16.20
 carystis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.50
 ostiae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.83.60
 uiueret#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.97.18
-Nauesque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.41
 philadelphus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.67.20
 appellauerat#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.7.52
 onus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.37
@@ -3770,8 +3767,8 @@ quod#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.86.43
 quod#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.94.25
 quod#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.96.37
 quod#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.54
-quod#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.23
-quod#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.26
+quod#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.22
+quod#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.25
 labyrinthum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.91.68
 parua#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.18.30
 inscribi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.83.40
@@ -3787,7 +3784,7 @@ cretici#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.90.46
 stant#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.92.5
 stant#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.93.9
 conpulisse#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.12.34
-accidissetotiens#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.24
+accidissetotiens#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.23
 usurpasse#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.42.51
 omnia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.1.22
 omnia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.18.88
@@ -3809,7 +3806,6 @@ amoris#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.22.81
 amoris#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.63
 capillamentis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.98.28
 sexta#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.32
-quasue#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.3.35
 illam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.19.44
 illam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.91
 mineruae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.10.42
@@ -3859,8 +3855,8 @@ mollior#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.52.5
 nauigauerunt#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.20.40
 Amplissima#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.79.57
 uitri#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.62.81
-porticusque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.88.7
 priorem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.70.6
+luxuriam-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.51.6
 gloriae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.31.29
 lacus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.25
 quibusdam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.56.41
@@ -3917,6 +3913,8 @@ dici#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.91.4
 meretricio#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.55
 terram#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.73.59
 aurae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.29.36
+qua-cumque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.21.56
+qua-cumque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.53.3
 libonis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.71
 dicauerat#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.70.13
 antiquissima#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.47.9
@@ -3938,6 +3936,7 @@ ob#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.20.53
 ob#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.52.57
 ob#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.23
 decim#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.58.40
+columnis-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.86.29
 Post#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.59
 flammam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.43.58
 cypro#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.54.21
@@ -3953,9 +3952,10 @@ uero#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.61.21
 uero#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.63.24
 uero#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.71.36
 uero#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.78.21
-uero#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.32
+uero#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.31
 fuisset#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.54
 fuisset#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.46.61
+quas-ue#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.3.35
 lethargicis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.56.31
 ualerius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.67
 spinther#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.59.38
@@ -4024,7 +4024,6 @@ romae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.56
 romae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.66
 heuodorus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.35.55
 Ei#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.1
-gallicrastes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.43.69
 adsurgerent#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.89.27
 perducto#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.67.53
 pariter#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.30.19
@@ -4063,11 +4062,10 @@ enarrare#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.87.6
 caesare#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.6
 adsurgit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.80.41
 ostendunt#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.12.64
-luxuriamque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.51.6
 terrarum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.20.33
 terrarum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.37
 terrarum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.49
-terrarum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.19
+terrarum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.18
 calistus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.60.32
 soluto#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.31.26
 reddito#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.74.36
@@ -4103,7 +4101,7 @@ equidem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.47.11
 equidem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.86.24
 porticum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.34.54
 ptolemei#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.83.27
-mundus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.46
+mundus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.45
 accepit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.50.15
 accepit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.92
 uolunt#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.77.21
@@ -4134,12 +4132,12 @@ subit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.4.4
 subit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.44.13
 Naxum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.54.11
 petentibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.10.13
-paulatimque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.35
 marmoreo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.46.3
 marmoreo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.98.21
 tenet#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.35.7
 alexandreae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.69.28
 artificem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.47
+sellis-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.59.26
 miraculo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.59.32
 miraculo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.60.10
 miraculo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.51
@@ -4163,6 +4161,7 @@ iouis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.43.2
 iouis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.43.48
 iouis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.45.28
 iouis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.50.40
+effigies-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.64.45
 forum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.69.11
 rhamsesis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.65.15
 lapis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.63.2
@@ -4183,8 +4182,9 @@ omittamus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.83.25
 eluto#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.81.49
 dea#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.21.46
 admonent#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.32.36
+artis-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.31.31
 strauere#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.95.45
-uictum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.21
+uictum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.20
 inmensa#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.20.76
 iuberet#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.66.60
 sperantes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.42.42
@@ -4320,13 +4320,12 @@ demoteles#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.84.65
 anxio#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.96.52
 talentis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.49
 talentis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.83.18
-scrutari#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.14
+scrutari#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.13
 admiratio#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.21.58
 admiratio#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.27.26
 admiratio#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.95.4
 luculli#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.6.14
 menander#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.44.45
-negotiorumque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.27.11
 iunius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.39.37
 caelauere#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.30.20
 ebore#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.18.53
@@ -4369,12 +4368,14 @@ quadrati#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.89.25
 mutato#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.73.20
 obseruatio#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.73.2
 deuehendo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.67.31
+ⅮⅭⅭⅭque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.10
 nimirum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.5.40
 palatinam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.7.51
 oratio#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.65
 eximiae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.15.43
 similitudine#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.62.55
 Lapidum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.1.1
+plera-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.17.14
 maenades#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.23.23
 siluere#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.77.10
 suo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.17.40
@@ -4405,6 +4406,7 @@ ea#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.95.43
 ea#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.96.43
 ea#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.97.3
 caedendis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.57.13
+porticus-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.88.7
 monte#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.48.12
 monte#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.44
 monte#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.62
@@ -4483,7 +4485,6 @@ petasus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.92.35
 generis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.32
 generis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.57
 diuidere#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.51.7
-simulque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.20.45
 chorusque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.35
 deinde#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.11.18
 deinde#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.37.2
@@ -4521,6 +4522,7 @@ pedes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.80.27
 ⅩⅩⅩⅡ#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.59.50
 antiquorum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.27.46
 lentis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.81.10
+plerum-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.8
 abiere#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.9.57
 augentis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.58.50
 certauere#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.17.21
@@ -4534,6 +4536,7 @@ cyrus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.9.20
 ofite#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.82
 disposita#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.44
 egestis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.32
+eadem-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.66
 aethiopia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.51.42
 aethiopia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.58.6
 coronio#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.41.35
@@ -4588,6 +4591,7 @@ cacumini#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.66.30
 extra#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.16.22
 extra#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.41
 extra#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.88.47
+uersando-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.51.26
 polycharimus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.35.71
 secto#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.50.31
 sententia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.37.56
@@ -4642,6 +4646,7 @@ membra#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.43.75
 eas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.75.18
 eas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.93.37
 puero#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.90.27
+hodie-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.31.34
 sectae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.53.38
 cultus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.43.45
 capite#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.77
@@ -4777,7 +4782,6 @@ simulacra#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.23.18
 simulacra#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.88.17
 simulacra#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.98.31
 pictor#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.32.60
-frustraque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.8.7
 terminis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.37
 prodigiosa#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.65.43
 intellegebantur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.45.14
@@ -4800,7 +4804,6 @@ uoluit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.21.1
 uoluit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.33.13
 uoluit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.69.15
 currusque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.36.30
-redeundumque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.85.54
 aedibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.16.18
 aedibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.45.35
 aedibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.48.71
@@ -4810,6 +4813,7 @@ filius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.24.2
 filius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.35.40
 filius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.74.23
 ponderis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.18
+paulatim-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.35
 dicta#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.19.33
 dicta#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.44.3
 dicta#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.33
@@ -4827,6 +4831,7 @@ eximii#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.62.30
 incoctae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.89.22
 arabicis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.78.5
 pumice#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.53.57
+leni-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.98.29
 reliquiae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.90.43
 spinae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.89.20
 mirabile#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.14.53
@@ -4838,7 +4843,6 @@ hominum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.75.40
 hominum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.78.12
 ornarentur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.90.30
 Causas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.84.59
-crustisue#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.47
 passuum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.85.42
 ⅯⅯⅯⅮⅭ#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.84.37
 dicemus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.20
@@ -4848,14 +4852,13 @@ eques#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.39.35
 seuerum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.20.66
 sacris#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.16.19
 sedentem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.25.21
+crustis-ue#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.47
 cruciatum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.56.82
 apollinis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.10.37
 apollinis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.13.31
 apollinis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.28.6
 apollinis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.32.8
 potentia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.60.36
-quacumque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.21.56
-quacumque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.53.3
 secunda#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.56.71
 nonagenis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.88.9
 aegyptio#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.64.23
@@ -4905,7 +4908,6 @@ supra#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.49
 supra#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.92.1
 supra#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.93.1
 supra#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.93.14
-pleraque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.17.14
 uolumina#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.39.50
 uasa#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.60.53
 sibi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.1.39
@@ -4989,11 +4991,12 @@ quam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.93.33
 quam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.94.24
 quam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.22
 quam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.63
-quam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.44
+quam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.43
 nemesis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.87.39
 chiorum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.46.29
 chiorum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.59.42
 ⅩⅩⅠ#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.87.23
+super-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.87.38
 italia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.50.53
 italia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.86.14
 alterius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.29.31
@@ -5024,6 +5027,7 @@ Intus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.88.12
 Dicamus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.84.1
 etruriae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.91.11
 ludis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.70
+funditur-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.62.78
 Nec#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.7.1
 Nec#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.22.20
 Nec#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.37.1
@@ -5031,6 +5035,7 @@ Nec#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.42.11
 scripsit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.39.51
 praxitele#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.20.27
 subterraneae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.88.59
+cunctis-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.61
 eronibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.96.13
 atrium#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.8.35
 septem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.30.48
@@ -5061,7 +5066,6 @@ uitaret#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.4.31
 Marmorum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.1
 apparuit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.97.27
 probatur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.51.34
-supremumque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.23
 similiter#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.28.39
 similiter#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.29.22
 similiter#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.38.1
@@ -5602,8 +5606,8 @@ antiqua#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.52.39
 :#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.42
 :#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.53
 :#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.9
-:#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.30
-:#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.53
+:#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.29
+:#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.52
 :#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.14
 :#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.30
 :#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.33
@@ -5631,11 +5635,10 @@ circa#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.75.37
 circa#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.81.9
 praetantur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.84.64
 unum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.67.18
-unum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.37
-caeloque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.73
+unum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.36
 sic#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.33.8
 sic#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.45.23
-sic#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.17
+sic#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.16
 monimentis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.23.37
 monimentis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.25.35
 amplitudinem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.62.16
@@ -5666,7 +5669,6 @@ maculis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.87
 harenas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.51.24
 uniuerso#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.95.52
 que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.33
-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.11
 maius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.22.21
 maius#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.66.22
 celeberrimi#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.31
@@ -5674,11 +5676,11 @@ quietas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.1.59
 uanitas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.75.39
 uanitas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.91.19
 trahimusque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.1.67
-columnisque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.86.29
-apparebit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.29
+apparebit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.28
 sacratos#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.64.12
 prodesset#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.66.37
 colosseus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.71
+frustra-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.8.7
 paulatim#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.96.21
 marmoreis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.43.57
 euhemerus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.79.9
@@ -5700,6 +5702,7 @@ hermolao#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.38.14
 numidici#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.38
 murrinisque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.1.19
 instar#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.97.39
+redeundum-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.85.54
 partes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.1.60
 delubrum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.98.4
 certe#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.42.54
@@ -5807,6 +5810,7 @@ rei#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.4.27
 pauli#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.32
 philisci#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.34.56
 multitudo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.27.3
+negotiorum-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.27.11
 summa#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.81.20
 summa#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.96.1
 pauimentis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.85.34
@@ -5851,7 +5855,6 @@ turribus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.70.41
 subuehant#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.70.59
 purum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.67.27
 adterenda#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.63.15
-lenique#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.98.29
 butoridas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.79.21
 carminum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.12.25
 septies#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.100.29
@@ -5908,7 +5911,6 @@ procul#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.76.13
 delo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.12.49
 partis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.87.5
 notitia#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.10
-exstantque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.90.41
 poeni#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.39.10
 Ⅽ#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.31
 :M:#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.46.39
@@ -5982,10 +5984,10 @@ inportuni#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.51.8
 stadiorum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.10
 inuentum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.47.7
 portari#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.5.34
-singulasque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.87.4
 candidus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.61.64
 radiis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.58.74
 dictatore#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.7
+supremum-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.23
 ^#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.3.57
 ^#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.5.73
 ^#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.6.64
@@ -6034,7 +6036,6 @@ dictatore#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.7
 ^#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.95.85
 ^#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.97.48
 mileti#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.62.67
-gemmisque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.54.5
 uerri#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.22.43
 subirent#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.22
 cuniculis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.14.31
@@ -6067,7 +6068,6 @@ Archesilaum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.41.1
 huc#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.53
 destrinxit#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.12.23
 ueneremque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.15.36
-sellisque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.59.26
 ciuitate#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.17.81
 ciuitate#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.40.10
 uita#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.3.23
@@ -6089,7 +6089,6 @@ Gnaeus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.8
 ambo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.17.25
 ambo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.56.19
 ambo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.71.47
-quaeque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.62
 multo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.37.3
 multo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.46.48
 multo#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.80.36
@@ -6136,7 +6135,7 @@ non#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.85.12
 non#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.85.32
 non#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.87.7
 non#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.94.34
-non#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.40
+non#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.39
 non#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.27
 non#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.102.55
 feruntur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.32.48
@@ -6170,6 +6169,7 @@ pares#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.25.32
 fractus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.74.16
 lacerta#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.42.63
 uelatum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.29.17
+summa-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.44.7
 cnidiis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.21.4
 usum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.62.80
 usum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.10
@@ -6199,7 +6199,6 @@ factae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.78.22
 factae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.79.35
 factae#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.95.69
 symplegama#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.35.62
-maiusque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.53.31
 maiusque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.67.28
 increta#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.85.11
 olympiadis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.47.28
@@ -6228,7 +6227,7 @@ coronantem#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.98.19
 fecerunt#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.35.47
 frontibus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.30.68
 potientes#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.52.22
-aceruata#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.33
+aceruata#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.32
 talenta#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.79.55
 fores#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.88.31
 conquisitas#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.82.57
@@ -6282,7 +6281,7 @@ cenis#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.4.14
 quidam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.42.29
 quidam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.56.28
 quidam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.69.6
-quidam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.48
+quidam#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.47
 minor#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.21.54
 minor#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.29.42
 minor#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.71.43
@@ -6312,7 +6311,6 @@ inpositus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.92.39
 Nunc#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.2.15
 Nunc#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.57
 apparatum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.44.43
-nauesque#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.68.1
 omittendum#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.15.2
 theatri#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.5.23
 euander#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.32.15
@@ -6363,9 +6361,10 @@ marmoris#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.53.30
 inportauerat#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.70.30
 moratur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.22.33
 enumerare#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.55.15
-referentur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.27
+referentur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.101.26
 mirantur#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.19.20
 delectatus#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.49.82
 claudii#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.60.34
+cultus-que#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.43.8
 apice#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.72.72
 cete#urn:cts:greekLit:phi0978.phi001.bamberg.tokens:36.26.28

@@ -14,7 +14,7 @@ cete
 hippocampos
 sedentes
 tritones
-chorusque
+chorus
 phorci
 pistrices
 multa
@@ -24,7 +24,7 @@ praeclarum
 totius
 fuisset
 supradicta
-quaeque
+quae
 nescimus
 mars
 num
@@ -40,8 +40,8 @@ praeterea
 loco
 nuda
 praxiteliam
-cedens
-quemcumque
+antecedens
+quem
 alium
 locum
 nobilitatura

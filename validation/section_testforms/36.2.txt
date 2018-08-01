@@ -29,7 +29,7 @@ pro
 terminis
 constituta
 erant
-nauesque
+naues
 fiunt
 per
 fluctus
@@ -47,7 +47,7 @@ potus
 uas
 petitur
 nubila
-caeloque
+caelo
 proximae
 rupes
 cauantur

@@ -29,7 +29,7 @@ creditur
 facta
 minor
 ex
-quacumque
+qua
 admiratio
 ferunt
 amore
@@ -39,7 +39,7 @@ delituisset
 noctu
 simulacro
 cohesisse
-eiusque
+eius
 cupiditatis
 indicem
 maculam
