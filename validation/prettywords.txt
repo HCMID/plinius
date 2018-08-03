@@ -1933,13 +1933,13 @@ usum
 uitri
 thebaicus
 lapis
-stinctus
+interstinctus
 aureis
 guttis
 africa
 adscripta
 coticulis
-adterenda
+terenda
 collyria
 utilitate
 naturali
@@ -1989,7 +1989,7 @@ neu
 uidis
 regia
 undenis
-laterix
+latera
 surrecturus
 uerebatur
 machinae
@@ -2150,7 +2150,7 @@ aegyptiorum
 philosophia
 continent
 ei
-???campo
+campo
 addidit
 mirabilem
 deprendendas
@@ -2174,7 +2174,8 @@ diebus
 decresceret
 augesceret
 digna
-cognitures
+cognitu
+res
 ingenio
 facundi
 noui
@@ -2185,7 +2186,7 @@ pilam
 uertice
 umbra
 colligeretur
-eenormitter
+enormiter
 iaculante
 apice
 ratione
