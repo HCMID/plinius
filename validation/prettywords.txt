@@ -2262,7 +2262,7 @@ illorum
 complurium
 extant
 una
-arsino
+arsinoitem
 nomo
 duae
 memphite
@@ -2372,7 +2372,8 @@ aethiopicis
 lapidibus
 adsurgit
 aedificationum
-latepura
+late
+pura
 lentis
 similitudinem
 qualis
