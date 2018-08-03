@@ -970,7 +970,7 @@
         </ab>
         <ab n="57">
           ex eodem candidis inter uenientibus punctis: leptosephos uocatur quantis libet molibus caedendis
-          sufficiunt lapidicinae: stanias ex eo
+          sufficiunt lapidicinae: statuas ex eo
           <persName n="urn:cite2:pliny:person.v1:p58">claudio caesari</persName> procurator eius
           in urbem ex <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName> aduexit
           <persName n="urn:cite2:pliny:person.v1:p76">uitriarius pollio</persName>. non admodum probata nouitate:
@@ -983,7 +983,7 @@
           basaniten: ferrei coloris atque duritiae: unde et nomen ei dedit: numquam
           hic maior repertus est quam in templo <persName n="urn:cite2:pliny:person.v1:198">pacis</persName>
           ab imperatore <persName n="urn:cite2:pliny:person.v1:p8">uespasiano augusto</persName> dicatus argumento
-          <placeName n="urn:cite2:pliny:place.v1:pl31">nili</placeName> se decim circa ludentibus: per quos totidem
+          <placeName n="urn:cite2:pliny:place.v1:pl31">nili</placeName> sedecim circa ludentibus: per quos totidem
           cubita summi incrementi augentis se <unclear>amnis</unclear> eius intelleguntur. non absimili illi narratur in
           <placeName n="urn:cite2:pliny:place.v1:pl30">thebis</placeName> delubro
           <persName n="urn:cite2:pliny:person.v1:p42">serapis</persName> ut putant
@@ -992,7 +992,7 @@
         </ab>
         <ab n="59">
           Onychem in <placeName n="urn:cite2:pliny:place.v1:pl32">arabiae</placeName>
-          tantum montibus: nec usquam <w>ali<choice><sic>ubi</sic><corr>bi</corr></choice></w>
+          tantum montibus: nec usquam <choice><sic>aliubi</sic><corr>alibi</corr></choice>
           nasci putauere nostri ueteres.
           <persName n="urn:cite2:pliny:person.v1:p45">sudines</persName> in
           <placeName n="urn:cite2:pliny:place.v1:pl33">carmania</placeName> potoris primum uasis inde factis dein
@@ -1001,7 +1001,7 @@
           <persName n="urn:cite2:pliny:person.v1:p46"><choice><abbr>p:</abbr><expan>publius</expan></choice> lentulus spinther</persName>
           amphoras ex eo <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et15">chiorum</rs>
           magnitudine cadorum ostendisset. post quinquennium deinde <num n="32">ⅩⅩⅩⅡ</num> pedum
-          longitudinis columnas uidesse se.
+          longitudinis columnas uidisse se.
         </ab>
         <ab n="60">
           uariatum in hoc lapide et postea est namque pro miraculo insigni:
@@ -1023,7 +1023,7 @@
           <placeName n="urn:cite2:pliny:place.v1:pl36">syria</placeName>:
           <placeName n="urn:cite2:pliny:place.v1:pl27">asia-que</placeName>. uilissimus autem et sine ullo nitore in
           <placeName n="urn:cite2:pliny:place.v1:pl37">cappadocia</placeName>. probantur quam maxime mellei coloris
-          in <choice><sic>uertices</sic><corr>uertice</corr></choice> maculosi atque non <w><choice><sic>tra</sic><corr>trans</corr></choice>lucidi</w>. uitia
+          in <choice><sic>uertices</sic><corr>uertice</corr></choice> maculosi atque non <choice><sic>tralucidi</sic><corr>translucidi</corr></choice>. uitia
           in <choice><sic>iis</sic><corr>hiis</corr></choice>
           corneus colos aut candidus et <choice><sic>quid</sic><corr>quod</corr></choice> similis uitro est
         </ab>
@@ -1040,9 +1040,9 @@
           declinante idem liquatur igni funditur-que ad usum uitri.^
         </ab>
         <ab n="63">
-          <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et33">Thebaicus</rs> lapis inter stinctus aureis guttis
+          <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et33">Thebaicus</rs> lapis interstinctus aureis guttis
           inuenitur in <placeName n="urn:cite2:pliny:place.v1:pl38">africa</placeName> e parte
-          <placeName n="urn:cite2:pliny:place.v1:p22">aegypto</placeName> adscripta coticulis adterenda collyria
+          <placeName n="urn:cite2:pliny:place.v1:p22">aegypto</placeName> adscripta coticulis ad terenda collyria
           quadam utilitate naturali conueniens. circa <placeName n="urn:cite2:pliny:place.v1:pl40">syeneN</placeName>
           uero <placeName n="urn:cite2:pliny:place.v1:pl79">thebaidis</placeName> syenites quem antea
           pyrrhohoecilion uocabant.
@@ -1065,7 +1065,7 @@
           captum est: <num n="140">ⅭⅩⅩⅩⅩ</num>:
           cubitorum idem digressis inde ubi fuit in neu uidis regia posuit alium longitudine quidem
           <num n="120">ⅭⅩⅩ</num> cubitorum: sed <choice><sic>prodiosa</sic><corr>prodigiosa</corr></choice>
-          <choice><sic>crassitudine</sic><corr>crossitudine</corr></choice>: undenis per laterix cubitis.
+          <choice><sic>crassitudine</sic><corr>crossitudine</corr></choice>: undenis per latera cubitis.
         </ab>
         <ab n="66">
           opus id fecisse dicuntur <num n="120">ⅭⅩⅩ</num>: hominum: ipse rex cum surrecturus esset uerebatur-que ne
@@ -1135,13 +1135,13 @@
           continent:
         </ab>
         <ab n="72">
-          Ei qui est in ???campo <persName n="urn:cite2:pliny:person.v1:p48">diuus augustus</persName> addidit
+          Ei qui est in campo <persName n="urn:cite2:pliny:person.v1:p48">diuus augustus</persName> addidit
           mirabilem usum ad deprendendas solis umbras dierum-que ac noctium. ita magnitudines strato lapide ad
           longitudinem obeliscy cui par fieret <choice><sic>umbrarumae</sic><corr>umbra brumae</corr></choice>
           confectae die sexta hora: paulatim-que per regulas quae sunt ex aere inclusae singulis diebus
-          decresceret: ac rursus augesceret. digna cognitures ingenio
+          decresceret: ac rursus augesceret. digna cognitu res ingenio
           <persName n="urn:cite2:pliny:person.v1:p196">facundi noui</persName> mathematici Is apici
-          auratam pilam addidit: cuius uertice umbra colligeretur ipse ipsam alias eenormitter iaculante apice
+          auratam pilam addidit: cuius uertice umbra colligeretur ipse ipsam alias enormiter iaculante apice
           ratione ut ferunt a capite hominis intellecta.
         </ab>
         <ab n="73">
