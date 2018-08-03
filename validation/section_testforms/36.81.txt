@@ -1,5 +1,6 @@
 aedificationum
-latepura
+late
+pura
 lentis
 similitudinem
 qualis
