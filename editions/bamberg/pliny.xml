@@ -1445,6 +1445,30 @@
           <persName n="urn:cite2:pliny:person.v1:p199">ualerius ostensis</persName> archetectus ludis
           <persName n="urn:cite2:pliny:person.v1:p200">libonis</persName>
         </ab>
+        <ab n="103">
+          Pyramydas regum miramur cum solum tantum foro exstruendo: he:
+          <num type="cardinal" value="1,000,000">Mʹ</num>
+          <persName n="urn:cite2:pliny:person.v1:p23">caesar</persName>
+          dictatorem erit etsi quem in pensa mouent: captis auaritia
+          animis: HS: <num type="cardinal" value="?">CXLVIIIʹ</num> Domo
+          empta: <persName n="urn:cite2:pliny:person.v1:p237">clodius</persName>
+          quem <persName n="urn:cite2:pliny:person.v1:p236">milo</persName>
+          occidit habitauerit
+        </ab>
+        <ab n="104">
+          quod equidem non secus ac regum insaniam. miror itaque ipsum
+          <persName n="urn:cite2:pliny:person.v1:p236">milonem</persName>
+          <num type="cardinal" value="70,000,000">H:DCCʹ</num>: aeris
+          alieni debuisse: inter prodigia animi humani dico. sed tum
+          senes aggeris uastum spatium substructiones
+          <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et55">capitolii</rs>
+          mirabuntur: praeterea cloacas: opus omnium
+          <choice><sic>dictum</sic><corr>dictu</corr></choice> maximum:
+          sub fossa montibus: atque ut paullo ante retulimus urbe pensili
+          subterque nauigatam
+          <persName n="urn:cite2:pliny:person.v1:p131">agrippae</persName>
+          in aedilitate post consulatum
+        </ab>
       </div>
     </body>
   </text>
