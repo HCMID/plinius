@@ -1478,12 +1478,22 @@
         </ab>
         <ab n="106">
           Trahuntur moles supernae tantae non succumbentibus cautis
-          operis pulsant <unclear>ruines</unlcear> ponte praecipities
+          operis pulsant <unclear>ruines</unclear> ponte praecipities
           aut inpactae incendiis: quatitur solum terrae motibus durant
-          tamen a <persName n ="urn:cite2:pliny:person.v1:p238">tarquinio prisco</persName>:
+          tamen a <persName n="urn:cite2:pliny:person.v1:p238">tarquinio prisco</persName>:
           annis: <num type="cardinal" value="700">DCC</num>: prope inexpugnabiles:
           non omittendo memorabili exemplo: uel magis quoniam celeberrimis rerum conditoribus
           amissum est.
+        </ab>
+        <ab n="107">
+          Cum id opus <persName n="urn:cite2:pliny:person.v1:p238">tarquinius
+          priscus</persName> plebis <del>ma</del> manibus faceret. essetque
+          labor incertum maio an longior passim conscita nece
+          <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et17">quiritibus</rs>
+          taedium fugientibus <choice><sic>nouom</sic><corr>nouum</corr></choice>
+          inexcogitatum ante. posteaque remedium invenit ille rex: ut omnium:
+          ita de functorum corpora figeret crucis pectanda: simul ciuibus et
+          feris uolucribusque laceranda.
         </ab>
       </div>
     </body>
