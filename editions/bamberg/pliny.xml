@@ -1512,6 +1512,49 @@
           quam <persName n="urn:cite2:pliny:person.v1:p26">lepidi</persName> ipsius: ad <persName n="urn:cite2:pliny:person.v1:p10">
           hercules</persName> intr annos <num type="cardinal" value="35">XXXV</num>: eadem centensimum locum non optinuit.
         </ab>
+        <ab n="110">
+          computet in  haec aestimatione qui uolet marmorum molem: opera pictorum
+          inpendia regalia et cum pulcherrima laudatissimaque certantes centum
+          domus posteaque ab innumerabilibus aliis: in
+          <choice><sic>huc</sic><corr>hunc</corr></choice> diem uictas. profecto
+          incendia puniunt luxum: nec tamen offici potest: ut mores aliquid ipso
+          homine mortalius esse intellegant
+        </ab>
+        <ab n="111">
+          Sed omnis eas duae <choice><sic>domuus</sic><corr>domus</corr></choice>
+          uicerunt: bis uidimus urbem totam cingi domibus: principum
+          <persName n="urn:cite2:pliny:person.v1:p180">gai</persName> et
+          <persName n="urn:cite2:pliny:person.v1:p181">neronis</persName>:
+          huius quidem nequid esset aurea Nimirum sic habitauerant illi qui
+          hoc imperium fecere tantum ad deuincendas gentes triumphosque
+          referendos: ab aratro aut foco exeuntes: quorum
+          agri quoque minorem modum optinuere quam sellaria istorum.
+        </ab>
+        <ab n="112">
+          subiit uero cogitatio quota portio harum fuerint areae illae quas
+          inuictis imperatoribus decernebant publice ad exaedificandas domos summusque
+          illarum honos erat: sicut in: <persName n="urn:cite2:pliny:person.v1:p239">
+          <choice><abbr>l:</abbr><expan>lucio</expan></choice>ualerio publicola</persName>
+          primo consule cum <persName n="urn:cite2:pliny:person.v1:p240">
+          <choice><abbr>l:</abbr><expan>lucio</expan></choice>bruto</persName>:
+          post tot merita et frater eius qui bis in eodem
+          magistratu <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et56">sabinos</rs>
+          deuicerat adici decreto ut domus eorum fores extra
+          <choice><sic>aperientur</sic><corr>aperirentur</corr></choice>
+          et ianua in publicum reiceretur: hoc erat clarissimum insigne inter
+          triumphales quoque domos
+        </ab>
+        <ab n="113">
+          Non patiar istos duos <persName n="urn:cite2:pliny:person.v1:p239">
+          <persName n="urn:cite2:pliny:person.v1:p241">nerones</persName></persName>
+          ne hac quidem gloria famae frui docebimus: qui etiam insaniam eorum
+          uictam priuatis opibus
+          <persName n="urn:cite2:pliny:person.v1:p2"><choice><abbr>:m:</abbr><expan>marci</expan></choice>scauri</persName>
+          cuius nescio: an aedilitas. maxime prostrauerit mores malusque sit
+          <persName n="urn:cite2:pliny:person.v1:p5">syllae</persName> malum
+          tanta priuigni potentia quam proscriptio tot
+          <choice><sic>millium</sic><corr>milium</corr></choice>.
+        </ab>
       </div>
     </body>
   </text>
