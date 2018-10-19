@@ -1495,6 +1495,23 @@
           ita de functorum corpora figeret crucis pectanda: simul ciuibus et
           feris uolucribusque laceranda.
         </ab>
+        <ab n="108">
+          quam ob rem pudor <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et17">romani</rs>nominis
+          propius: qui saepe res perditas seruauit in <choice><sic>proelis</sic><corr>proeliis</corr></choice>:
+          tunc quoque subuenit: sed illo tempore <del>in</del> post uitam erubescens cum puderet uiuos.
+          tam quam puditurum esset extinctos. amplitudinem cauis eam fecisse proditur ut vehem faeni large
+          honustam transmitteret:
+        </ab>
+        <ab n="109">
+          Parua sunt cuncta quae <choice><sic>dimus</sic><corr>diximus</corr></choice>.
+          et omnia una comparanda miraculo antequam noua attingam: <persName n="urn:cite2:pliny:person.v1:p26">
+          <choice><abbr>m.</abbr><expan>marco</expan></choice>lepido</persName> <persName n="urn:cite2:pliny:person.v1:p27">
+          <choice><abbr>q.</abbr><expan>quinto</expan></choice>catulo</persName>
+          <choice><abbr><choice><sic>cos</sic><corr>cons</corr></choice></abbr><expan>consul</expan></choice>: ut constat
+          inter diligentissimos auctores. domus pulchrior non fuit <placeName n="urn:cite2:pliny:place.v1:pl7">romae</placeName>
+          quam <persName n="urn:cite2:pliny:person.v1:p26">lepidi</persName> ipsius: ad <persName n="urn:cite2:pliny:person.v1:p10">
+          hercules</persName> intr annos <num type="cardinal" value="35">XXXV</num>: eadem centensimum locum non optinuit.
+        </ab>
       </div>
     </body>
   </text>
