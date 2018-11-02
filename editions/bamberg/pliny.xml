@@ -1576,10 +1576,40 @@
           large <num type="cardinal" value="40,000">XXXX'</num> sedere. reliqus
           apparatus tantus <rs type="padj" n="urn:cite2:pliny:person.v1:p243">attalica</rs> ueste tabulis
           pictis cetero chora fuit ut
-          in <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et57">tusculanam uillam reportatis quae superfluebant cotidiam usus deliciis
-          incensa uilla ab aeratis servis concremaretur: <choice><abbr>hs</abbr><expan>sesterces</expan><choice>:
+          in <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et57">tusculanam</rs> uillam reportatis
+          quae superfluebant cotidiam usus deliciis
+          incensa uilla ab aeratis servis concremaretur: <choice><abbr>hs</abbr><expan>sesterces</expan></choice>:
           <num type="cardinal" value="300">CCC</num>:
         </ab>
+        <ab n="116">
+          aufert <del>rat</del> animum et ab <sic>estinato</sic> itinere
+          <choice><sic>degredi</sic><corr>digredi</corr></choice> cogit contemplatio tam
+          prodigae mentis. aliamque conectit maiore insania <sic>meligno</sic>
+          <persName n="urn:cite2:pliny:person.v1:p244>">Curio</persName> qui bello ciuili
+          in <rs type="padj" n="urn:cite2:pliny:person.v1:p23">caesarianis</rs> partibus
+          obit funebri patris munere: cum opibus apparatuque non posset superare
+          <persName n="urn:cite2:pliny:person.v1:p2>">scaurum</persName> unde enim
+          illi uitricus <persName n="urn:cite2:pliny:person.v1:p5>"><choice><sic>sulla</sic><corr>sylla
+          </corr></choice></persName>: et <persName n="urn:cite2:pliny:person.v1:p245>"><sic>metalla</sic></persName>
+          mater proscriptionum sectrix: unde: <persName n="urn:cite2:pliny:person.v1:p246>">
+          <choice><abbr>m.</abbr><expan>marcus</expan></choice>scaurus</persName>
+          pater: totiens <choice><sic>priceps</sic><corr>princeps</corr></choice> civitatis et
+          <rs type="padj" n="urn:cite2:pliny:person.v1:p247">mariani</rs> sodalici
+          rapinarum prouincialium sinus cum iam ne ispse quidem
+          <persName n="urn:cite2:pliny:person.v1:p2>">scaurus</persName> sibi paresse posset:
+          <choice><sic>quand</sic><corr>quando</corr></choice> hoc certe incendi illius praemium habuit;
+          conuectis ex orbe terrarium rebus ut nemo postea par esset insaniae illi:
+        </ab>
+        <ab n="117">
+          Ingenio ergo utendum  <del>si</del> <sic>iocurioni</sic> et
+          <sic>aliquitl</sic> excogitandum fuit operae praetium est scire
+          quid inuenerit et gaudere moribus nostris ac verso modo nos uocare
+          maiores theatra iuxta duo fecit amplissima: ligno cardinum singulorum
+          versi tali suspensa libramento: in quibus utrisque ante meridiano
+          ludorum spectaculo edito inter sese aversis: ne inuicem obstrepserent:
+          scaenae repente circum actis: ut constat post primos dies etiam
+          sedentibus aliquis:
+          </ab>
       </div>
     </body>
   </text>
