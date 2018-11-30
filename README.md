@@ -29,3 +29,8 @@ Other data sets:
 -   Places: `urn:cite2:pliny:place.v1:`
 -   Ethnic groups: `urn:cite2:pliny:ethnic.v1:`
 -   Geographic adjectives: `urn:cite2:pliny:geographic.v1:`
+
+
+### Leiden Voss Latin F4
+
+- Collection of images (some incorrectly rotated in this version):  `urn:cite2:mid:voss-lat-f4.v1:`
