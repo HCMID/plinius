@@ -10,11 +10,14 @@
         <editor>Richard Ciolek</editor>
         <editor>Michael Raheb</editor>
         <editor>William Walker</editor>
-        <editor>Jeffery Dickinson</editor>
+        <editor>Jeffrey Dickinson</editor>
         <editor>Jack Champagne</editor>
         <editor>John Sutter</editor>
         <editor>Robbie Welsh</editor>
         <editor>Andrew Palaia</editor>
+        <editor>Jasmine Zhai </editor>
+        <editor>Steve Paganelli </editor>
+
       </titleStmt>
       <publicationStmt>
         <p>Digitally published through HC MID</p>
@@ -1649,7 +1652,7 @@
         </ab>
         <ab n="121">
           Sed dicantur uera aestimatione inuicta miracula quae <persName n="urn:cite2:pliny:person.v1:p249">
-          marcius rex</persName> iussus a senatu aquarum <unlcear>appiae anienis tepulae</unclear>
+          marcius rex</persName> iussus a senatu aquarum <unclear>appiae anienis tepulae</unclear>
           ductus refugere nouam a nomine suo appellatam cuniculis per montes actis intra praeturae suae tempus
           adduxit.  <persName n="urn:cite2:pliny:person.v1:p131">agrippa</persName> uero in aedilitate
           adiecta uirgine aqua: ceterisque conriuatis atque emendatis: <choice><sic>lacuus</sic><corr>lacus</corr></choice>:
@@ -1713,6 +1716,12 @@
          <placeName n="urn:cite2:pliny:place.v1:pl42">hispania</placeName> quoque inuenisse autem fertur clauis crepidarum
          baculi cupide harentibus cum armenta pasceret. Quinque genera <choice><sic>magnitis</sic><corr>magnetis</corr><choice>
          <persName n="urn:cite2:pliny:person.v1:p233"sotacus</persName> demonsrtata
+        </ab>
+        <ab n="128">
+         quinque genera <choice><sic>magnitis</sic><corr>magnetis</corr></choice> sotacus demonstrata ethiopicum et a  <placeName n="urn:cite2:pliny:place.v1:pl99">magnesia macedoniae</placeName>
+        contermina ab oebone iolanum petentibus dextra tertium in <placeName n="urn:cite2:pliny:place.v1:pl62">hyetto</placeName> <placename n="urn:cite2:pliny:place.v1:pl64">boeotiae</placename> quantum circa <placeName n="urn:cite2:pliny:place.v1:pl95">alexandriam troadem</placeName>. quintum in
+         <placeName n="urn:cite2:pliny:place.v1:pl100">magnesia asiae</placeName>. differentia<del>m</del> prima massitan. femina proxima. in colore namque in  <placeName n="urn:cite2:pliny:place.v1:pl99"> macedonica</placeName> reperiuntur rufi nigirque sunt.
+          <placename n="urn:cite2:pliny:place.v1:pl64">boeoti</placename> uero rufi coloris plus habent quam nigri. is qui troade inuenitur niger est. et feminei sex<del>u</del>us. ideoque: sine uiribus: deterrimus autem in <placeName n="urn:cite2:pliny:place.v1:pl100">magnesia asiae</placeName> candidus. neque attrahens ferrum: similisque pumici confertum tanto meliores esse quanto sint magis caerulei: aethipico palma datur pondusque argento rependitur:
         </ab>
         <ab n="129">
           inuenitur hic in </placeName n="urn:cite2:pliny:place.v1:pl11">aethiopiae</placeName> </placeName
