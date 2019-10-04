@@ -3,7 +3,7 @@
 
 Editing manuscripts of Pliny the Elder, *Natural History*.
 
-Here's a sample of our manuscript! [click me!](http://www.homermultitext.org/ict2/?urn=urn:cite2:bamberg:sbb104imgs.v1:sbb00000104_00272)
+Here's a sample of our manuscript! [click me!](http://www.homermultitext.org/ict2/?urn=urn:cite2:bamberg:sbb104imgs.v1:sbb00000104_00272) [or me!](http://www.homermultitext.org/ict2/?urn=urn:cite2:bamberg:sbb104imgs.v1:sbb00000104_00259)
 
 See the [project web site](https://hcmid.github.io/plinius/).
 
