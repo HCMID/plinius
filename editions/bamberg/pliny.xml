@@ -17,6 +17,9 @@
         <editor>Andrew Palaia</editor>
         <editor>Jasmine Zhai </editor>
         <editor>Steve Paganelli </editor>
+        <editor>Charlotte Kurzweil </editor>
+        <editor>Joshua Glenn </editor>
+        <editor>Carl Quist</editor>
 
       </titleStmt>
       <publicationStmt>
@@ -1745,6 +1748,12 @@
           et calciamenta inlata mortuis lapidea fieri auctor est. Eiusdem generis et in <placeName n="urn:cite2:pliny:place.v1:pl97">
           lycia</placeName> saxa sunt: et in <placeName n="urn:cite2:pliny:place.v1:pl98">oriente</placeName>: quae uiuentibus
           quoque adalligata: erodunt corpora.
+        </ab>
+        <ab n="132">
+          mittiores autem seruandis corporibus nec absumendis: chernites ebori simillimus inquo
+          <persName="urn:cite2:pliny:person.v1:p251">darium</pers> conditum ferunt: parioque similis candore et duritia:
+          minus tantum ponderosum: qui porus vocatur: <persName="urn:cite2:pliny:person.v1:p252"> theophrastus </persName>
+          auctor est: et <word>tra<add>ns</add>lucidi</word> lapidis in <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName>
         </ab>
       </div>
     </body>
