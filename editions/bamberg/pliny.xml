@@ -17,6 +17,9 @@
         <editor>Andrew Palaia</editor>
         <editor>Jasmine Zhai </editor>
         <editor>Steve Paganelli </editor>
+        <editor>Charlotte Kurzweil </editor>
+        <editor>Joshua Glenn </editor>
+        <editor>Carl Quist</editor>
 
       </titleStmt>
       <publicationStmt>
@@ -1708,7 +1711,7 @@
         </ab>
         <ab n="127">
          pedes et pertivit et moris trahitur namque magnete domitrixque illa rerum omnium meteria ad
-         inane nescio quid currit atque <choice><sic>aut</sic><corr>ut</corr></sic></choice> propius uenit
+         inane nescio quid currit atque <choice><sic>aut</sic><corr>ut</corr></sic></choice>propius uenit
          adsilit tenetur: <choice><sic>ampliexuque</sic><corr>amplexuque</corr></sic></choice> haeret
          <del>et</del> sideritum ob id alio nomine uocant: quidam <rs type="padj" n="urn:cite2:pliny:person.v1:p10">
          heraclion</rs> magnes appellatur est ab inuentore: ut auctor est <persName n="urn:cite2:pliny:person.v1:p232">Nicander</persName>:
@@ -1746,6 +1749,7 @@
           lycia</placeName> saxa sunt: et in <placeName n="urn:cite2:pliny:place.v1:pl98">oriente</placeName>: quae uiuentibus
           quoque adalligata: erodunt corpora.
         </ab>
+<<<<<<< HEAD
         <ab>
         <ab n="132">
           mittores autem servandis corporibus nec absumendis: chernites ebori simillimus in quo <persName >Darium</persName>
@@ -1761,6 +1765,21 @@
           pumici rufo admixtus cerae cypriae mammarum uitia sanat: pici autem resinaeue strumas et panor discutit
           prodest et pthisicis. Linctu cum melle uetera ulcera ad cicatrices perducit excrescentia erodit: et a bestiarum
           morsu repugnantia curationis suppurata siccat fit cata plasma ex eo podagricis mixto fabae lomento
+=======
+        <ab n="132">
+          mittiores autem seruandis corporibus nec absumendis: chernites ebori simillimus inquo
+          <persName="urn:cite2:pliny:person.v1:p251">darium</pers> conditum ferunt: parioque similis candore et duritia:
+          minus tantum ponderosum: qui porus vocatur: <persName="urn:cite2:pliny:person.v1:p252"> theophrastus </persName>
+          auctor est: et <word>tra<add>ns</add>lucidi</word> lapidis in <placeName n="urn:cite2:pliny:place.v1:pl22">aegypto</placeName>:
+          quem <placeName n="urn:cite2:pliny:place.v1:pl15">chio</placeName> similem ait: fortassis tunc fuerit quoniam et desinunt:
+          et novi reperiuntur assius gustatu salsus: poda graslenit pedibus inuas ex eo cauatum inditis: praeterea
+          omnia crurum uitia: in iis lapidicidinis sanantur. cum in metallis omnibus crura uitiantur.^
+        </ab>
+        <ab n="133">
+          Eiusdem lapidis flos appellatur: in farinam mollis: adquaedam perinde efficax. est autem similis pumici rufo admixtus cerae
+          <placeName n="urn:cite2:pliny:place.v1:pl24">Cypriae</placeName> mammarum vitia sanat: pici autem resinaeue strumas
+          et panos discutit prodest et pthisicis: <choice><sic>inctu</sic><corr>linctu</corr></choice>
+>>>>>>> bbf36e3f376105be50fe3c777636338644f1af2f
         </ab>
       </div>
     </body>
