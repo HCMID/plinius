@@ -1453,10 +1453,10 @@
         </ab>
         <ab n="103">
           Pyramydas regum miramur cum solum tantum foro exstruendo: he:
-          <num type="cardinal" value="1,000,000">Mʹ</num>
+          <num type="cardinal" value="1000000">Mʹ</num>
           <persName n="urn:cite2:pliny:person.v1:p23">caesar</persName>
           dictatorem erit etsi quem in pensa mouent: captis auaritia
-          animis: HS: <num type="cardinal" value="?">CXLVIIIʹ</num> Domo
+          animis: HS: <num type="cardinal" value="543">CXLVIIIʹ</num> Domo
           empta: <persName n="urn:cite2:pliny:person.v1:p237">clodius</persName>
           quem <persName n="urn:cite2:pliny:person.v1:p236">milo</persName>
           occidit habitauerit
@@ -1464,7 +1464,7 @@
         <ab n="104">
           quod equidem non secus ac regum insaniam. miror itaque ipsum
           <persName n="urn:cite2:pliny:person.v1:p236">milonem</persName>
-          <num type="cardinal" value="70,000,000">H:DCCʹ</num>: aeris
+          <num type="cardinal" value="70000000">H:DCCʹ</num>: aeris
           alieni debuisse: inter prodigia animi humani dico. sed tum
           senes aggeris uastum spatium substructiones
           <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et55">capitolii</rs>
@@ -1579,7 +1579,7 @@
           cepit hominum <num type="cardinal" value="80">LXXX</num>: cum
           <rs type="padj" n="urn:cite2:pliny:person.v1:p242">pompeiani</rs>
           theatri totiens multiplicata urbe: tantoque maiore populo sufficiat
-          large <num type="cardinal" value="40,000">XXXX'</num> sedere. reliqus
+          large <num type="cardinal" value="40000">XXXX'</num> sedere. reliqus
           apparatus tantus <rs type="padj" n="urn:cite2:pliny:person.v1:p243">attalica</rs> ueste tabulis
           pictis cetero chora fuit ut
           in <rs type="ethnic" n="urn:cite2:pliny:ethnic.v1:et57">tusculanam</rs> uillam reportatis
@@ -1728,12 +1728,13 @@
           <placeName n="urn:cite2:pliny:place.v1:pl64">boeoti</placeName> uero rufi coloris plus habent quam nigri. is qui troade inuenitur niger est. et feminei sex<del>u</del>us. ideoque: sine uiribus: deterrimus autem in <placeName n="urn:cite2:pliny:place.v1:pl100">magnesia asiae</placeName> candidus. neque attrahens ferrum: similisque pumici confertum tanto meliores esse quanto sint magis caerulei: aethipico palma datur pondusque argento rependitur:
         </ab>
 
-        <ab n="129">
-          inuenitur hic in </placeName n="urn:cite2:pliny:place.v1:pl11">aethiopiae</placeName> <placeName n="urn:cite2:pliny:place.v1:pl69">zmiri</placeName> ita uocatur regio harenosa ibi et haematites magnes
-          sanguinei coloris: sanguinemque reddens siteratur: set et crocum: in adtrahendo ferro non eadem haematiti
-          natura: quae magnitia </placeName n="urn:cite2:pliny:place.v1:pl11">ethiopici</placeName> argumentum est:
+        <ab n= "129">
+          inuenitur hic in <placeName n="urn:cite2:pliny:place.v1:pl11">aethiopiae</placeName> <placeName n="urn:cite2:pliny:place.v1:pl69">zmiri</placeName>
+          ita uocatur regio harenosa ibi et haematites magnes sanguinei coloris: sanguinemque reddens siteratur: set et crocum: in adtrahendo ferro non eadem haematiti
+          natura: quae magnitia <placeName n="urn:cite2:pliny:place.v1:pl11">ethiopici</placeName> argumentum est:
           quod magneta quoque alium ad se trahit
         </ab>
+
 
         <ab n="130">
           omnes autem hi oculorum medica mentis prosunt ad suam quisque portionem maximeque epiphoras sistunt: sanant:
@@ -1751,7 +1752,6 @@
           lycia</placeName> saxa sunt: et in <placeName n="urn:cite2:pliny:place.v1:pl98">oriente</placeName>: quae uiuentibus
           quoque adalligata: erodunt corpora.
         </ab>
-        <ab>
         <ab n="132">
           mittores autem servandis corporibus nec absumendis: chernites ebori simillimus in quo <persName >Darium</persName>
           conditum ferunt: parioque similis candore et duritia: minus tantum pondersosum: qui porus vocatur:
@@ -1760,23 +1760,20 @@
           assius gustatu salsus: podagras lenit: pedibus inuas ex eo cauatum inditis. praetera omnia crurum uitia:
           iniis lapicidinis sanantur. cum in metallis omnibus crura uitiantur.^
         </ab>
-        <ab>
         <ab n="133">
           eiusdem lapidis flos appellatur: in farinam mollis: ad quaedam perinde efficax. est autem similis
           pumici rufo admixtus cerae cypriae mammarum uitia sanat: pici autem resinaeue strumas et panor discutit
           prodest et pthisicis. Linctu cum melle uetera ulcera ad cicatrices perducit excrescentia erodit: et a bestiarum
           morsu repugnantia curationis suppurata siccat fit cata plasma ex eo podagricis mixto fabae lomento
         </ab>
-        <ab>
         <ab n="134">
-          idem <persName > theophrastus</persName> et <persName n="urn:cite2:pliny:person.v1:p221"> mucianus</persName> esse aliquos lapides
-          qui pariant credunt. <persName> theophrastus</perName> at ebur fossile candido et nigro inuenirique
+          idem <persName>theophrastus</persName> et <persName n="urn:cite2:pliny:person.v1:p221"> mucianus</persName> esse aliquos lapides
+          qui pariant credunt. <persName> theophrastus</persName> at ebur fossile candido et nigro inuenirique
           lapides osseos palmati <choice><sic>cir</sic><corr>circa</corr></choice> <unclear>mundam</unclear>
           in <placeName n="urn:cite2:pliny:place.v1:pl42"> hispania </placeName> ubi <persName n="urn:cite2:pliny:person.v1:p23"> caesar </persName>
-          dictator <perName n="urn:cite2:pliny:person.v1:p242"> pompeium </persName> uicit reperiuntur. idque quotiens
+          dictator <persName n="urn:cite2:pliny:person.v1:p242"> pompeium </persName> uicit reperiuntur. idque quotiens
           fregeris
         </ab>
-        <ab>
         <ab n="135">
           sunt et nigri quorum auctoritas venit in marmora sicut <placeName > taenarius </placeName> <persName n="urn:cite2:pliny:person.v1:p41" >uarro</persName>
           nigros ex <placeName n="urn:cite2:pliny:place.v1:pl38"> africa </placeName> firmiores esse tradit
@@ -1785,7 +1782,6 @@
           tusculanum dissilire igni <placeName n=""> sabinum </placeName> fuscum addito oleo etiam lucere.^ Idem molas uersatiles
           <placeName n=""> uolsinis </placeName> in uentas aliquas et sponte motas inuenimus in prodigiis:
         </ab>
-        <ab>
         <ab n="136">
           nusquam hic utilior quam in <placeName n="urn:cite2:pliny:place.v1:pl21">italia</placeName> gignitur
           lapisque non saxum est: inquibusdam uero pro uinciis omnino non inuenitur: <choice><sic>sun</sic><corr>sunt</corr></choice>
@@ -1796,16 +1792,16 @@
         </ab>
         <ab n="137">
           Molarem quidam pyriten uocant quoniam plurimis sit ignis illi: sed est alius spongiosior tantum et alius
-          <word><choice><sic>etian</sic><corr>etiam</corr></choice>num</word> pyrites similtudine aeris:
+          <w><choice><sic>etian</sic><corr>etiam</corr></choice>num</w> pyrites similtudine aeris:
           in <placeName n="urn:cite2:pliny:place.v1:p24">Cypro</placeName> eum reperiri uolunt: metallis
           quae sint circa <placeName n="urn:cite2:pliny:place.v1:p196">acamenta</placeName> unum argenteo colore
           alterum aureo: cocuntur varie ab aliis iterum tertiumque in melle donec consumatur liquor ab aliis pruna
           prius: dein melle: ac postea lauantur ut aes: usus eorum in medicina:excalfacere siccare discutere extenuare
-          et duritias in pus uertere. utuntur e crudis <word><choice><sic>tus</sic><corr>tun</corr></choice>sisque</word>:
+          et duritias in pus uertere. utuntur e crudis <w><choice><sic>tus</sic><corr>tun</corr></choice>sisque</w>:
           ad strumas atque furuculos
         </ab>
         <ab n="138">
-          Pyritarum <word><choice><sic>etian</sic><corr>etiam</corr></choice>num</word> unum genus aliqui faciunt.
+          Pyritarum <w><choice><sic>etian</sic><corr>etiam</corr></choice>num</w> unum genus aliqui faciunt.
           plurimum ignis habent ii quos uiuos appellamus ponderosissimi sunt. hi exploratoribus castrorum maxime necessarii:
           qui clauo uel altero lapide percussi: scintillam edunt quae excepta sulpure aut fungis ardis uel follis dicto
           celerrimus praebet ignem.</ab>
