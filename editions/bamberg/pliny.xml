@@ -20,7 +20,6 @@
         <editor>Charlotte Kurzweil </editor>
         <editor>Joshua Glenn </editor>
         <editor>Carl Quist</editor>
-
       </titleStmt>
       <publicationStmt>
         <p>Digitally published through HC MID</p>
@@ -1719,7 +1718,6 @@
          <placeName n="urn:cite2:pliny:place.v1:pl42">hispania</placeName> quoque inuenisse autem fertur clauis crepidarum
          baculi cupide harentibus cum armenta pasceret. Quinque genera <choice><sic>magnitis</sic><corr>magnetis</corr></choice>
          <persName n="urn:cite2:pliny:person.v1:p233">sotacus</persName> demonsrtata
-
         </ab>
         <ab n="128">
          quinque genera <choice><sic>magnitis</sic><corr>magnetis</corr></choice> sotacus demonstrata ethiopicum et a  <placeName n="urn:cite2:pliny:place.v1:pl99">magnesia macedoniae</placeName>
@@ -1727,15 +1725,12 @@
          <placeName n="urn:cite2:pliny:place.v1:pl100">magnesia asiae</placeName>. differentia<del>m</del> prima massitan. femina proxima. in colore namque in  <placeName n="urn:cite2:pliny:place.v1:pl99"> macedonica</placeName> reperiuntur rufi nigirque sunt.
           <placeName n="urn:cite2:pliny:place.v1:pl64">boeoti</placeName> uero rufi coloris plus habent quam nigri. is qui troade inuenitur niger est. et feminei sex<del>u</del>us. ideoque: sine uiribus: deterrimus autem in <placeName n="urn:cite2:pliny:place.v1:pl100">magnesia asiae</placeName> candidus. neque attrahens ferrum: similisque pumici confertum tanto meliores esse quanto sint magis caerulei: aethipico palma datur pondusque argento rependitur:
         </ab>
-
-        <ab n= "129">
+        <ab n="129">
           inuenitur hic in <placeName n="urn:cite2:pliny:place.v1:pl11">aethiopiae</placeName> <placeName n="urn:cite2:pliny:place.v1:pl69">zmiri</placeName>
           ita uocatur regio harenosa ibi et haematites magnes sanguinei coloris: sanguinemque reddens siteratur: set et crocum: in adtrahendo ferro non eadem haematiti
           natura: quae magnitia <placeName n="urn:cite2:pliny:place.v1:pl11">ethiopici</placeName> argumentum est:
           quod magneta quoque alium ad se trahit
         </ab>
-
-
         <ab n="130">
           omnes autem hi oculorum medica mentis prosunt ad suam quisque portionem maximeque epiphoras sistunt: sanant:
           et adusta cremati tritique Alius rursus in eadem <placeName n="urn:cite2:pliny:place.v1:pl11">
@@ -1811,21 +1806,96 @@
           et inliti cum melle ulcera doloresque mammarum sanant: Amiantus alumini similis nihil igni deperdit
           hic <w><choice><sic>uenficis</sic><corr>uenficiis</corr></choice>num</w> resistit omnibus priuatim
           magorum:
-        <ab n="140">
-          geoden ex argumento appellant: quoniam conplexus est terram. Oculorm medica mentis utilissimum
-          item mammarum actestium uitiis. Melitinus lapis sucure mitit dulcem melleumque tunsus et caere mixtus
-          eruptionibus pituitae maculisque corporis medetur: et faucium exulcerationi epynuctidas tollit
-          <w><choice><sic>voluarum</sic><corr>vuluarum</corr></choice>num</w> dolores in positus vellere
         </ab>
+        <ab n="140">
+            geoden ex argumento appellant: quoniam conplexus est terram. Oculorm medica mentis utilissimum
+            item mammarum actestium uitiis. Melitinus lapis sucure mitit dulcem melleumque tunsus et caere mixtus
+            eruptionibus pituitae maculisque corporis medetur: et faucium exulcerationi epynuctidas tollit
+            <w><choice><sic>voluarum</sic><corr>vuluarum</corr></choice>num</w> dolores in positus vellere
+          </ab>
         <ab n="141">
           Gagates lapis nomen habet loci et amnis gagis lyciae. aiunt et in <placeName> leucolla </placeName>
           expelli mari atque intra <num type="cardinal" value="12">XII</num>: stadia colligi niger est planus pumicosus leuis non
           <w><choice><sic>multu maligno</sic><corr>multum aligno</corr></choice>num</w> differens fragilis
           <w><choice><sic>odores iteratur</sic><corr>odore siteratur</corr></choice>num</w> grauis fictilia
           ex eo inscripta non delentur: cum uritur odorem sulpureum reddit: mirumque accenditur: aqua oleo ex
-          @add eo restinguitur    
+          add eo restinguitur
         </ab>
-      </div>
+        <ab n="142">
+        fugat serpentes ita recreatque  <choice><sic>uoluae</sic><corr>uuluae</corr></choice> strangulationes:
+        deprendit sonticum morbum et uirginitatem suffitus. idem ex uino decotus dentibus medetur: strumisque
+        cerae permixtus: hoc dicuntur uti magi in ea quam uocant axinomantiam et <w>per<del>i</del>uri</w>
+        begabt siuenturum sit quod aliquis optet
+        </ab>
+        <ab n="143">
+        Spongitae lapides in ueniuntur in spongeis et sunt marini; quid a meos tegolitos uocant: quoniam
+        ue sicis medentur calculos rumpunt in uino poti, Phrygius lapis gentis habet nomenL est autem glabea pumicosa:
+        uri ante uino perfusus: flatur folibus: donec rufescat acrurus dulci uino extinguitur ternis uicibus tinguedis uestibus tantum
+        utilis.
+      </ab>
+        <ab n="144">
+        Schistos et hematites cognationem habent hematites in uenitur in metallis ustus:
+        <choice><sic>mini</sic><corr>minii</corr></choice> colorem imitatur. uritur
+        ut phrygius sed non restinguttur. uino ad ulteratur: <choice><sic>haemtite</sic><corr>haemtite</corr></choice>
+        discernunt uena erubentes et <choice><sic>friagilis</sic><corr>friabilis</corr></choice>natura.
+    </ab>
+    <ab n="184">
+        Pauimenta originem apud grecos habent elaborata arte picturae <sic>raptione</sic><corr>ratione</corr>
+        <sic>done</sic><corr>donec</corr> lithostrota expulere eam celeberrimus fuit in hoc genere
+        <persName n="urn:cite2:pliny:person.v1:p251">sosus</persName> qui
+        <placeName n="urn:cite2:pliny:place.v1:p161">pergami</placeName> strauit quem uocant asaroton
+        oecon; quoniam purgamenta cenae in pauimentus quaeque euerri solent uelut relicta fecerat paruis
+        et sellis tinctisque in uarios colores mirabili sibi columba bibens et aquam umbra capitis
+        infuscans; <sic>apricantur</sic><corr>aplicantur</corr> aliae
+        <sic>stabentes</sic><corr>statuentes</corr> sese in canthari labro
+      </ab>
+      <ab n="185">
+        Pauimenta credo primum facta quae nunch uocamus barbarica atque subregulanea
+         in <placeName n="urn:cite2:pliny:place.v1:p21">italia</placeName> festucis
+        pauita hod certe ex nomine ipso intellegi potest;
+        <placeName n="urn:cite2:pliny:place.v1:p7">Romae</placeName> scutolatim
+        in iouis capitolini aede primum factum est post tertium bellum punicum initum.
+        frequentata uero pauimenta
+        ante <rs type="ethnic" n="urn:cite2:pliny:ethnic:et1">cimbris</rs>cimbricum magna
+        gratia animorum indicio est lucilianus ille uersus est Arte pauimenti atque emblemate
+        uermiculatos subdialia
+    </ab>
+    <ab n="186">
+      subdialia greci inueneret talibus domos contegentes facile tractus tepentes
+      sed fallax ubi cumque imbres gelant necessarium binas per diuersum coationes
+      subternie capita earum praefigi ne torqueantur et ruderi nouo tertiam
+      partem testae tusae addi; dein rudus in quo duae quintae calcis misceantur
+      pedali crassitudine festucari
+  </ab>
+  <ab n="187">
+    Nunc nucleo crassos ex digitios; inducit <sic>essella</sic><corr>esella</corr>
+    grandi non minus alta duos digitos strui fastigium uero seruari in pedes denos
+    sescuniae ac diligenter cote despumari Quernis axibus contabulari quia
+    torquentur inutile putant; immo et felice aut palea substerni melius esse.
+    quo minor uis calcis per veniat ne cessarium et globosum lapidem subici
+    similiter fiunt spicata testacea
+</ab>
+<ab n="188">
+Nonnec legendum est etiamnum unum genus graecanici; solo festucato inicitur
+rudus; aut testaceum pauimentum dein spisse calcatis carbonibus; inducitur ex
+sabulo et calce ac fauilla mixtis materia crassitudine semipedali ad regulam
+et libellam exigitur; et est forma terrena; si uero cote depolitum est nigri
+pauimenti usum optinet
+</ab>
+<ab n="189">
+Lithostrata coeptauere iam <sic>subse</sic><corr>sub</corr>
+<persName n="urn:cite2:pliny:person.v1:p5">silla</persName>
+<sic>paruolis</sic><corr>paruulis</corr> certe crustis exstat
+hodieque. quod in fortunae delubro
+<placeName n="urn:cite2:pliny:place.v1:p97">praeneste</placeName>
+fecit. pulsa deinde ex humo pauimenta in camaras transire utro
+nouicium et hoc inuentum
+<persName n="urn:cite2:pliny:person.v1:p131">agrippa</persName> in thermis
+quas <placeName n="urn:cite2:pliny:place.v1:p7"><unclear>roma</unclear></placeName>
+fecit <sic>figilinum</sic><corr>figlinum</corr> opus
+<sic>enchausto</sic><corr>inchausto</corr>
+</ab>
+  </div>
     </body>
   </text>
 </TEI>
