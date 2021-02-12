@@ -18,19 +18,7 @@ end
 begin
 	import Pkg
 	Pkg.activate(".")
-	Pkg.add("PlutoUI")
-	Pkg.add("CitableText")
-	Pkg.add("CitableObject")
-	Pkg.add("CitableImage")
-	Pkg.add("CitableTeiReaders")
-	Pkg.add("CSV")
-	Pkg.add("DataFrames")
-	Pkg.add("EditionBuilders")
-	Pkg.add("EditorsRepo")
-	Pkg.add("HTTP")
-	Pkg.add("Lycian")
-	Pkg.add("Markdown")
-	Pkg.add("Orthography")
+	Pkg.instantiate()
 	
 
 	using PlutoUI
@@ -46,10 +34,6 @@ begin
 	using Lycian
 	using Markdown
 	using Orthography
-
-	
-	
-	Pkg.add("PolytonicGreek")
 	using PolytonicGreek
 end
 
@@ -105,20 +89,6 @@ md"""
 > ## Verification:  orthography
 
 """
-
-# ╔═╡ 64ff6412-6d0c-11eb-1622-d3940005a93c
-function baseurn(urn::CtsUrn)
-	trimmed = CitableText.dropsubref(urn)
-	if CitableText.isrange(trimmed)
-		psg = CitableText.rangebegin(trimmed)
-		CitableText.addpassage(urn,psg)
-	else
-		urn
-	end
-end
-
-# ╔═╡ cd29b3ee-6d0c-11eb-1416-fba4ad0e94f7
-baseurn(CtsUrn("urn:cts:latinLit:stoa0978.stoa001.bamberg:36.12-36.12"))
 
 # ╔═╡ a7903abe-5747-11eb-310e-ffe2ee128f1b
 md"""
@@ -258,20 +228,6 @@ normalizedpassages =  begin
 		msg = "<div class='danger'><h1>🧨🧨 Markup error 🧨🧨</h1><p><b>$(e)</b></p></div>"
 		
 		HTML(msg)
-	end
-end
-
-# ╔═╡ 5085956a-6d0c-11eb-3622-552266099c54
-normalizedpassages
-
-# ╔═╡ 4a129b20-5e80-11eb-0b5c-b915b2919db8
-# Select a node from list of normalized nodes
-function normednode(urn)
-	filtered = filter(cn -> dropversion(cn.urn) == dropversion(urn), normalizedpassages)
-	if length(filtered) > 0
-		filtered[1].text
-	else 
-		""
 	end
 end
 
@@ -445,6 +401,17 @@ $(img)
 	record
 end
 
+
+# ╔═╡ 4a129b20-5e80-11eb-0b5c-b915b2919db8
+# Select a node from list of normalized nodes
+function normednode(urn)
+	filtered = filter(cn -> dropversion(cn.urn) == dropversion(urn), normalizedpassages)
+	if length(filtered) > 0
+		filtered[1].text
+	else 
+		""
+	end
+end
 
 # ╔═╡ bec00462-596a-11eb-1694-076c78f2ba95
 # Compose HTML reporting on status of text cataloging
@@ -669,9 +636,6 @@ begin
 	end
 end
 
-# ╔═╡ 047e5c22-6d09-11eb-00d0-ff72513c1b98
-surfaceDse[:,1]
-
 # ╔═╡ b0a23a54-5bf8-11eb-07dc-eba00196b4f7
 # Compose markdown for thumbnail images linked to ICT with overlay of all
 # DSE regions.
@@ -709,7 +673,21 @@ md"""
 
 """
 
+# ╔═╡ 64ff6412-6d0c-11eb-1622-d3940005a93c
+# Find URN for a single node from DSE record, which could
+# include a range with subrefs within a single node.
+function baseurn(urn::CtsUrn)
+	trimmed = CitableText.dropsubref(urn)
+	if CitableText.isrange(trimmed)
+		psg = CitableText.rangebegin(trimmed)
+		CitableText.addpassage(urn,psg)
+	else
+		urn
+	end
+end
+
 # ╔═╡ 6dd532e6-5827-11eb-1dea-696e884652ac
+# Wrap tokens with invalid orthography in HTML tag
 function formatToken(ortho, s)
 	if validstring(ortho, s)
 			s
@@ -788,13 +766,7 @@ end
 # ╟─13e8b16c-574c-11eb-13a6-61c5f05dfca2
 # ╟─926873c8-5829-11eb-300d-b34796359491
 # ╟─1fde0332-574c-11eb-1baf-01d335b27912
-# ╠═5085956a-6d0c-11eb-3622-552266099c54
-# ╠═4a129b20-5e80-11eb-0b5c-b915b2919db8
-# ╠═cd29b3ee-6d0c-11eb-1416-fba4ad0e94f7
-# ╠═64ff6412-6d0c-11eb-1622-d3940005a93c
-# ╠═bdeb6d18-5827-11eb-3f90-8dd9e41a8c0e
-# ╠═aa385f1a-5827-11eb-2319-6f84d3201a7e
-# ╠═047e5c22-6d09-11eb-00d0-ff72513c1b98
+# ╟─aa385f1a-5827-11eb-2319-6f84d3201a7e
 # ╟─a7903abe-5747-11eb-310e-ffe2ee128f1b
 # ╟─37258038-574c-11eb-3acd-fb67db0bf1c8
 # ╟─61bf76b0-573c-11eb-1d23-855b40e06c02
@@ -829,6 +801,7 @@ end
 # ╠═dda07b42-6d08-11eb-25bd-11ff1236777b
 # ╟─b0a23a54-5bf8-11eb-07dc-eba00196b4f7
 # ╟─2d218414-573e-11eb-33dc-af1f2df86cf7
+# ╟─4a129b20-5e80-11eb-0b5c-b915b2919db8
 # ╟─bec00462-596a-11eb-1694-076c78f2ba95
 # ╟─4133cbbc-5971-11eb-0bcd-658721f886f1
 # ╟─9fcf6ece-5a89-11eb-2f2a-9d03a433c597
@@ -838,6 +811,8 @@ end
 # ╟─cb954628-574b-11eb-29e3-a7f277852b45
 # ╟─901ae238-573c-11eb-15e2-3f7611dacab7
 # ╟─d9495f98-574b-11eb-2ee9-a38e09af22e6
-# ╠═e57c9326-573b-11eb-100c-ed7f37414d79
+# ╟─e57c9326-573b-11eb-100c-ed7f37414d79
 # ╟─aac2d102-5829-11eb-2e89-ad4510c25f28
+# ╟─64ff6412-6d0c-11eb-1622-d3940005a93c
+# ╟─bdeb6d18-5827-11eb-3f90-8dd9e41a8c0e
 # ╟─6dd532e6-5827-11eb-1dea-696e884652ac
