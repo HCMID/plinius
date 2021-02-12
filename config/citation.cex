@@ -1,0 +1,2 @@
+urn|file|converter|diplomatic|normalized|orthography
+urn:cts:latinLit:stoa0978.stoa001.bamberg:|pliny.xml|divAbReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidNormalizedBuilder("Normalized edition builder","normed")|simpleAscii()
