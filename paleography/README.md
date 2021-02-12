@@ -1,1 +1,0 @@
-Paleographic observations go in this directory.
