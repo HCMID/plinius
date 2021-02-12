@@ -1,4 +1,4 @@
-urn:cts:latinLit:stoa0978.stoa001:36.24@|urn:cite2:bamberg:sbb104imgs.v1:sbb00000104_00225@0.4410,0.2717,0.3090,0.2537|urn:cite2:mid:sbb104pages.v1:111r
+urn:cts:latinLit:stoa0978.stoa001:36.24@|urn:cite2:citebamberg:sbb104imgs.v1:sbb00000104_00225@0.4410,0.2717,0.3090,0.2537|urn:cite2:mid:sbb104pages.v1:111r
 urn:cts:latinLit:stoa0978.stoa001:36.116@quando-36.116@fuit|urn:cts:latinLit:stoa0978.stoa001:36.116|urn:cite2:mid:sbb104pages.v1:123v
 urn:cts:latinLit:stoa0978.stoa001:36.124@cipi-36.124@possunt||urn:cite2:mid:sbb104pages.v1:125r
 urn:cts:latinLit:stoa0978.stoa001:36.142|urn:cts:latinLit:stoa0978.stoa001:36.141|urn:cite2:mid:sbb104pages.v1:127r
